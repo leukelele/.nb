@@ -201,14 +201,7 @@
       "workspaces:Manage workspace layouts": true,
       "zk-prefixer:Create new unique note": true,
       "random-note:Open random note": false,
-      "daily-notes:Open today's daily note": true,
-      "obsidian-spaced-repetition:Review flashcards": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "privacy-glasses:Hide all": false,
-      "privacy-glasses:Reveal non-private": false,
-      "privacy-glasses:Reveal all": false,
-      "omnisearch:Omnisearch": false,
-      "periodic-notes:Open this week": false
+      "daily-notes:Open today's daily note": true
     }
   },
   "active": "c679258bc65d16e2",
