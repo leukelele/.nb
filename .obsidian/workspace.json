@@ -19,22 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c679258bc65d16e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "202309091149.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,23 +104,6 @@
             }
           },
           {
-            "id": "3f362cf175347e17",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "202309091149.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
             "id": "e3313b64cd2eb5d3",
             "type": "leaf",
             "state": {
@@ -157,31 +126,24 @@
     "type": "split",
     "children": [
       {
-        "id": "9eb7ab76313b2340",
+        "id": "f5838c0948149327",
         "type": "tabs",
-        "dimension": 42.857142857142854,
         "children": [
           {
-            "id": "8bb75042cb3dd66c",
+            "id": "f00877dbe6709ca0",
             "type": "leaf",
             "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "85207ce2369dfa6f",
-        "type": "tabs",
-        "dimension": 57.14285714285714,
-        "children": [
-          {
-            "id": "fd7f016d3be5b8d9",
-            "type": "leaf",
-            "state": {
-              "type": "reminder-list",
-              "state": {}
+              "type": "backlink",
+              "state": {
+                "file": "202309091149.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
             }
           }
         ]
@@ -201,16 +163,26 @@
       "workspaces:Manage workspace layouts": true,
       "zk-prefixer:Create new unique note": true,
       "random-note:Open random note": false,
-      "daily-notes:Open today's daily note": true
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "privacy-glasses:Hide all": false,
+      "privacy-glasses:Reveal non-private": false,
+      "privacy-glasses:Reveal all": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "c679258bc65d16e2",
+  "active": "18d05ad842d0d06d",
   "lastOpenFiles": [
+    "202309010925.md",
+    "nodes/202306301146.md",
+    "gathering-hub/intro-to-modern-RE-practices.canvas",
+    "gathering-hub/intro-to-ins.canvas",
+    "gathering-hub/a-mind-for-numbers.md",
+    "gathering-hub/-bookshelf.md",
+    "202309091149.md",
     "202309062204.md",
     "202309060002.md",
-    "202309010925.md",
     "periodic/daily/09-10-23.md",
-    "202309091149.md",
     "templates/metadata-tmpl.md",
     "periodic/daily/09-09-23.md",
     "periodic/daily/09-07-23.md",
@@ -226,10 +198,6 @@
     "attachments/202303011618.pdf",
     "attachments/202303032252.pdf",
     "attachments/2309060055e.md",
-    "gathering-hub/intro-to-modern-RE-practices.canvas",
-    "gathering-hub/intro-to-ins.canvas",
-    "gathering-hub/a-mind-for-numbers.md",
-    "gathering-hub/-bookshelf.md",
     "gathering-hub/-courses.md",
     "Untitled",
     "attachments/202302010223.png",
@@ -238,7 +206,6 @@
     "attachments/2023-09-06T22:03:12,956072345-05:00.png",
     "202309062202.md",
     "202309060051.md",
-    "202309052234.md",
     "test",
     "test",
     "todo/RE",

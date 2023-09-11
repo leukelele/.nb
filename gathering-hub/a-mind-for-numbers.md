@@ -3,7 +3,6 @@ tags:
 - " #book "
 - " #psychology "
 ---
-
 By understanding the brain's default settings - its approaches towards learning -  you will be able to become an expert in hacking your own mind. I learned how to learn.
 
 ## topics

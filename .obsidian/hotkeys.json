@@ -298,14 +298,7 @@
   "obsidian-reminder-plugin:show-date-chooser": [],
   "obsidian-reminder-plugin:toggle-checklist-status": [],
   "editor:toggle-bold": [],
-  "file-explorer:new-file": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "N"
-    }
-  ],
+  "file-explorer:new-file": [],
   "workspace:goto-last-tab": [],
   "app:go-back": [
     {
