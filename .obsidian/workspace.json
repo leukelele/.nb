@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "aa79c43fd3e958f1",
+            "id": "8032ed9f049347e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202309102333.md",
+                "file": "202309060002.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,19 +21,33 @@
             }
           },
           {
-            "id": "8032ed9f049347e9",
+            "id": "6cd4828403577ee8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202309102334.md",
+                "file": "202304111930.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5c0edb121a07297c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nodes/202307271355.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -111,9 +125,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "202309102333.md"
-              }
+              "state": {}
             }
           },
           {
@@ -122,18 +134,17 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202309102333.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 255.5,
-    "collapsed": true
+    "width": 255.5
   },
   "right": {
     "id": "74e1ce9a16329adb",
@@ -149,7 +160,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202309102333.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,36 +195,36 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "aa79c43fd3e958f1",
+  "active": "bc96995eafce9526",
   "lastOpenFiles": [
-    "202309102334.md",
-    "nodes/202303221754.md",
-    "202309102333.md",
-    "nodes/202309102338.md",
+    "202304111930.md",
+    "nodes/202306301146.md",
+    "nodes/202307111317.md",
+    "nodes/202307111311.md",
+    "nodes/202306301838.md",
     "202309060002.md",
+    "nodes/202307240944.md",
+    "nodes/202307271355.md",
+    "nodes/202309102333.md",
+    "nodes/202309102338.md",
+    "nodes/202309110019.md",
+    "nodes/202309091149.md",
+    "202309102334.md",
+    "202309062204.md",
+    "templates/metadata-tmpl.md",
+    "202309010925.md",
+    "nodes/202304111741.md",
+    "nodes/202303221754.md",
     "nodes/202305221211.md",
     "nodes/202303292312.md",
-    "202309062204.md",
-    "202309010925.md",
-    "nodes/202309091149.md",
-    "nodes/202306301146.md",
     "gathering-hub/intro-to-modern-RE-practices.canvas",
     "gathering-hub/intro-to-ins.canvas",
     "gathering-hub/a-mind-for-numbers.md",
     "gathering-hub/-bookshelf.md",
     "periodic/daily/09-10-23.md",
-    "templates/metadata-tmpl.md",
     "periodic/daily/09-09-23.md",
     "periodic/daily/09-07-23.md",
     "202309071915.md",
-    "202309071900.md",
-    "202309071927.md",
-    "periodic/daily/09-05-23.md",
-    "2309062225e.md",
-    "202309062212.md",
-    "nodes/202309050151.md",
-    "nodes/202308242311.md",
-    "nodes/202309010053.md",
     "attachments/202303011618.pdf",
     "attachments/202303032252.pdf",
     "Untitled",
