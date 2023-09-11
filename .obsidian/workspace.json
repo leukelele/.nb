@@ -13,41 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202309060002.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6cd4828403577ee8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "202304111930.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5c0edb121a07297c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "nodes/202307271355.md",
+                "file": "202309102334.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#",
+                "query": "tag:#real-estate",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -113,14 +86,6 @@
         "dimension": 53.31196581196581,
         "children": [
           {
-            "id": "0bf1ae4d0185d629",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "bc96995eafce9526",
             "type": "leaf",
             "state": {
@@ -138,22 +103,7 @@
                 "unlinkedCollapsed": true
               }
             }
-          }
-        ],
-        "currentTab": 1
-      }
-    ],
-    "direction": "horizontal",
-    "width": 255.5
-  },
-  "right": {
-    "id": "74e1ce9a16329adb",
-    "type": "split",
-    "children": [
-      {
-        "id": "f5838c0948149327",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "f00877dbe6709ca0",
             "type": "leaf",
@@ -169,10 +119,26 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "0bf1ae4d0185d629",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "74e1ce9a16329adb",
+    "type": "split",
+    "children": [],
     "direction": "horizontal",
     "width": 317.5,
     "collapsed": true
@@ -195,36 +161,36 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "bc96995eafce9526",
+  "active": "0bf1ae4d0185d629",
   "lastOpenFiles": [
-    "202304111930.md",
-    "nodes/202306301146.md",
-    "nodes/202307111317.md",
-    "nodes/202307111311.md",
-    "nodes/202306301838.md",
-    "202309060002.md",
-    "nodes/202307240944.md",
-    "nodes/202307271355.md",
-    "nodes/202309102333.md",
-    "nodes/202309102338.md",
-    "nodes/202309110019.md",
-    "nodes/202309091149.md",
     "202309102334.md",
-    "202309062204.md",
-    "templates/metadata-tmpl.md",
-    "202309010925.md",
-    "nodes/202304111741.md",
-    "nodes/202303221754.md",
+    "nodes/202309110019.md",
+    "nodes/202309102333.md",
+    "202309060002.md",
+    "202300000000.md",
+    "202304111930.md",
+    "202302061058.md",
+    "202308200227.md",
+    "202309010053.md",
+    "nodes/202305221143.md",
+    "nodes/202307120021.md",
+    "nodes/202308200237.md",
+    "nodes/202308200252.md",
+    "nodes/202308200944.md",
+    "nodes/202308242311.md",
+    "nodes/202307120017.md",
+    "nodes/202306301145.md",
     "nodes/202305221211.md",
-    "nodes/202303292312.md",
+    "nodes/202305220159.md",
+    "nodes/202307120014.md",
+    "nodes/202307112017.md",
+    "nodes/202307112006.md",
+    "nodes/202306301140.md",
+    "nodes/202306301112.md",
+    "nodes/202307120113.md",
+    "202307071126.md",
     "gathering-hub/intro-to-modern-RE-practices.canvas",
     "gathering-hub/intro-to-ins.canvas",
-    "gathering-hub/a-mind-for-numbers.md",
-    "gathering-hub/-bookshelf.md",
-    "periodic/daily/09-10-23.md",
-    "periodic/daily/09-09-23.md",
-    "periodic/daily/09-07-23.md",
-    "202309071915.md",
     "attachments/202303011618.pdf",
     "attachments/202303032252.pdf",
     "Untitled",
