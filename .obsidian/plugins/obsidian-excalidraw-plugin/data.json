@@ -11,7 +11,7 @@
   "drawingFilenamePrefix": "",
   "drawingEmbedPrefixWithFilename": false,
   "drawingFilnameEmbedPostfix": "",
-  "drawingFilenameDateTime": "YYMMDDHHmm[e]",
+  "drawingFilenameDateTime": "YYYYMMDDHHmm[e]",
   "useExcalidrawExtension": false,
   "displaySVGInPreview": true,
   "previewImageType": "SVGIMG",
