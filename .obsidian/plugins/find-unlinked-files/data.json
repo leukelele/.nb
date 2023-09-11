@@ -1,0 +1,43 @@
+{
+  "outputFileName": "orphans",
+  "disableWorkingLinks": false,
+  "directoriesToIgnore": [
+    "templates/",
+    "periodic/yearly/",
+    "periodic/monthly/",
+    "periodic/weekly/",
+    "periodic/daily/",
+    "gathering-hub/"
+  ],
+  "filesToIgnore": [
+    ""
+  ],
+  "fileTypesToIgnore": [
+    ""
+  ],
+  "linksToIgnore": [],
+  "tagsToIgnore": [],
+  "fileTypesToDelete": [],
+  "ignoreFileTypes": true,
+  "ignoreDirectories": true,
+  "unresolvedLinksIgnoreDirectories": true,
+  "unresolvedLinksOutputFileName": "broken",
+  "unresolvedLinksDirectoriesToIgnore": [
+    "templates/",
+    "periodic/"
+  ],
+  "unresolvedLinksFilesToIgnore": [],
+  "unresolvedLinksFileTypesToIgnore": [],
+  "unresolvedLinksLinksToIgnore": [],
+  "unresolvedLinksTagsToIgnore": [],
+  "withoutTagsDirectoriesToIgnore": [],
+  "withoutTagsFilesToIgnore": [],
+  "withoutTagsOutputFileName": "files without tags",
+  "emptyFilesOutputFileName": "empty files",
+  "emptyFilesDirectories": [
+    "templates/"
+  ],
+  "emptyFilesFilesToIgnore": [],
+  "emptyFilesIgnoreDirectories": true,
+  "openOutputFile": true
+}

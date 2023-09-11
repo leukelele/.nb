@@ -1,0 +1,36 @@
+{
+  "scanned": true,
+  "reminders": {
+    "periodic/monthly/M09-23.md": [
+      {
+        "title": "electric bill",
+        "time": "2023-09-13",
+        "rowNumber": 17
+      },
+      {
+        "title": "CS4314 HW set 1",
+        "time": "2023-09-17",
+        "rowNumber": 19
+      }
+    ]
+  },
+  "debug": false,
+  "settings": {
+    "reminderTime": "23:59",
+    "laters": "Tomorrow\nNext week",
+    "useSystemNotification": true,
+    "autoCompleteTrigger": "(@",
+    "primaryReminderFormat": "ReminderPluginReminderFormat",
+    "enableReminderPluginReminderFormat": true,
+    "dateFormat": "MM-DD-YY",
+    "dateTimeFormat": "MM-DD-YY HHmm",
+    "strictDateFormat": false,
+    "linkDatesToDailyNotes": true,
+    "enableTasksPluginReminderFormat": false,
+    "useCustomEmojiForTasksPlugin": false,
+    "removeTagsForTasksPlugin": false,
+    "enableKanbanPluginReminderFormat": false,
+    "editDetectionSec": 10,
+    "reminderCheckIntervalSec": 5
+  }
+}

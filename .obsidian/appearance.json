@@ -1,0 +1,13 @@
+{
+  "baseFontSize": 16,
+  "cssTheme": "AnuPpuccin",
+  "theme": "obsidian",
+  "textFontFamily": "",
+  "accentColor": "",
+  "enabledCssSnippets": [
+    "big-math",
+    "default-font"
+  ],
+  "nativeMenus": false,
+  "monospaceFontFamily": "JetBrains Mono"
+}

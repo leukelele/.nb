@@ -1,0 +1,30 @@
+{
+  "spellcheck": true,
+  "autoPairBrackets": true,
+  "autoPairMarkdown": true,
+  "vimMode": true,
+  "promptDelete": true,
+  "showUnsupportedFiles": true,
+  "alwaysUpdateLinks": true,
+  "useTab": true,
+  "showLineNumber": true,
+  "defaultViewMode": "source",
+  "spellcheckDictionary": [
+    "synonymously"
+  ],
+  "foldHeading": true,
+  "foldIndent": true,
+  "legacyEditor": false,
+  "livePreview": true,
+  "readableLineLength": true,
+  "lineWrap": true,
+  "strictLineBreaks": true,
+  "showFrontmatter": true,
+  "spellcheckLanguages": null,
+  "attachmentFolderPath": "notes/attachments",
+  "userIgnoreFilters": [
+    "templates/",
+    "notes/attachments/"
+  ],
+  "focusNewTab": false
+}

@@ -1,0 +1,40 @@
+{
+  "appName": "GP3_NOTES",
+  "token": "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",
+  "model": "text-davinci-003",
+  "tokens": 300,
+  "temperature": 5,
+  "promptHistory": [
+    {
+      "prompt": "What is BNF in the context of programming language paradigms?",
+      "processedPrompt": "What is BNF in the context of programming language paradigms?",
+      "temperature": 0.5,
+      "tokens": 300
+    },
+    {
+      "prompt": "What is a Markov chain?",
+      "processedPrompt": "What is a Markov chain?",
+      "temperature": 0.5,
+      "tokens": 300
+    }
+  ],
+  "tokenParams": {
+    "prefix": [
+      "Write an essay",
+      "Write dashed notes",
+      "Write bullet notes",
+      "Write paragraphs",
+      "Write an article",
+      "Create a manual",
+      "Create an outline",
+      "Write a summary",
+      "Write a program"
+    ],
+    "postfix": [
+      "with sources",
+      "with footnotes",
+      "with comments",
+      "with quotes"
+    ]
+  }
+}
