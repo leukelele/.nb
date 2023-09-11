@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202309010925.md",
+                "file": "202309060002.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202309010925.md"
+                "file": "202309060002.md"
               }
             }
           },
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202309010925.md",
+                "file": "202309060002.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202309010925.md",
+                "file": "202309060002.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,10 +173,10 @@
   },
   "active": "aa79c43fd3e958f1",
   "lastOpenFiles": [
-    "202309060002.md",
     "202309062204.md",
-    "nodes/202309091149.md",
     "202309010925.md",
+    "202309060002.md",
+    "nodes/202309091149.md",
     "nodes/202306301146.md",
     "gathering-hub/intro-to-modern-RE-practices.canvas",
     "gathering-hub/intro-to-ins.canvas",
