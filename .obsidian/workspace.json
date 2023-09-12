@@ -90,7 +90,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "202307071126.md"
+              }
             }
           },
           {
@@ -99,6 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "202307071126.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,6 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "202307071126.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,8 +165,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0bf1ae4d0185d629",
+  "active": "8032ed9f049347e9",
   "lastOpenFiles": [
+    "202309111922.md",
     "202307071126.md",
     "202308200227.md",
     "202309010053.md",
@@ -188,7 +193,6 @@
     "nodes/202306301145.md",
     "nodes/202305221211.md",
     "nodes/202305220159.md",
-    "nodes/202307120014.md",
     "gathering-hub/intro-to-modern-RE-practices.canvas",
     "gathering-hub/intro-to-ins.canvas",
     "attachments/202303011618.pdf",
