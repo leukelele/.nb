@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "6b71ceb68117fb1f",
+        "id": "c95f0474daae2631",
         "type": "tabs",
         "children": [
           {
-            "id": "2a17c827754646b6",
+            "id": "b62bc8c58263658f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "templates/node-tmpl.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -85,7 +90,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "templates/node-tmpl.md"
+              }
             }
           },
           {
@@ -94,6 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "templates/node-tmpl.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -105,6 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "templates/node-tmpl.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,8 +182,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "2a17c827754646b6",
+  "active": "b62bc8c58263658f",
   "lastOpenFiles": [
+    "templates/question-tmpl.md",
+    "templates/node-tmpl.md",
     "nodes/202303222228.md",
     "202309010053.md",
     "202308200227.md",
@@ -199,8 +210,6 @@
     "nodes/202307120021.md",
     "nodes/202308200237.md",
     "nodes/202308200252.md",
-    "nodes/202308200944.md",
-    "nodes/202308242311.md",
     "gathering-hub/intro-to-modern-RE-practices.canvas",
     "gathering-hub/intro-to-ins.canvas",
     "attachments/202303011618.pdf",
