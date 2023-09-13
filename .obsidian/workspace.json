@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b468470d95945eb1",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.12"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,7 +193,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b62bc8c58263658f",
+  "active": "b468470d95945eb1",
   "lastOpenFiles": [
     "templates/question-tmpl.md",
     "templates/node-tmpl.md",
