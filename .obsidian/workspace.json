@@ -13,14 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202309112000.md",
+                "file": "nodes/202309091149.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
+          },
+          {
+            "id": "5f07235e23aa4f7b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.11"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202309112000.md"
+                "file": "nodes/202309091149.md"
               }
             }
           },
@@ -101,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202309112000.md",
+                "file": "nodes/202309091149.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202309112000.md",
+                "file": "nodes/202309091149.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +153,24 @@
   "right": {
     "id": "74e1ce9a16329adb",
     "type": "split",
-    "children": [],
+    "children": [
+      {
+        "id": "0cde5707cafb66cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17698c614c5ad78c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ]
+      }
+    ],
     "direction": "horizontal",
     "width": 317.5,
     "collapsed": true
@@ -165,10 +193,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "8032ed9f049347e9",
+  "active": "5f07235e23aa4f7b",
   "lastOpenFiles": [
-    "nodes/202309091149.md",
     "202309112000.md",
+    "nodes/202309091149.md",
     "202307071126.md",
     "202309111922.md",
     "202308200227.md",
