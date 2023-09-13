@@ -11,8 +11,13 @@
             "id": "8032ed9f049347e9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "nodes/202303222228.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -56,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#real-estate",
+                "query": "tag:#compsci/theory/automata",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -73,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "b3ab5da2c032ebd5",
@@ -85,7 +91,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "nodes/202303222228.md"
+              }
             }
           },
           {
@@ -94,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "nodes/202303222228.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -105,6 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "nodes/202303222228.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,13 +185,13 @@
   },
   "active": "8032ed9f049347e9",
   "lastOpenFiles": [
+    "202309010053.md",
+    "202308200227.md",
     "202309121902e.md",
     "nodes/202309091149.md",
     "202309112000.md",
     "202307071126.md",
     "202309111922.md",
-    "202308200227.md",
-    "202309010053.md",
     "nodes/202309110054.md",
     "nodes/202309102333.md",
     "202309110055e.md",
