@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "00cecfdf45c77736",
+        "id": "6b71ceb68117fb1f",
         "type": "tabs",
         "children": [
           {
-            "id": "8032ed9f049347e9",
+            "id": "2a17c827754646b6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "nodes/202303222228.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -61,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#compsci/theory/automata",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -78,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "b3ab5da2c032ebd5",
@@ -91,9 +85,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "nodes/202303222228.md"
-              }
+              "state": {}
             }
           },
           {
@@ -102,7 +94,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nodes/202303222228.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +105,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nodes/202303222228.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +116,7 @@
             }
           },
           {
-            "id": "0bf1ae4d0185d629",
+            "id": "ea3763f456043cc5",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -183,8 +173,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "8032ed9f049347e9",
+  "active": "2a17c827754646b6",
   "lastOpenFiles": [
+    "nodes/202303222228.md",
     "202309010053.md",
     "202308200227.md",
     "202309121902e.md",
@@ -210,7 +201,6 @@
     "nodes/202308200252.md",
     "nodes/202308200944.md",
     "nodes/202308242311.md",
-    "nodes/202307120017.md",
     "gathering-hub/intro-to-modern-RE-practices.canvas",
     "gathering-hub/intro-to-ins.canvas",
     "attachments/202303011618.pdf",
