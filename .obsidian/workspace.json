@@ -11,8 +11,13 @@
             "id": "98d1a3d58135ae6e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "nodes/202309110054.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -85,7 +90,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "nodes/202309110054.md"
+              }
             }
           },
           {
@@ -94,6 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "nodes/202309110054.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -105,6 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "nodes/202309110054.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,32 +184,32 @@
   },
   "active": "98d1a3d58135ae6e",
   "lastOpenFiles": [
+    "202304111930.md",
+    "202307071126.md",
+    "202308200227.md",
+    "202309010053.md",
+    "nodes/202309102338.md",
+    "nodes/202309110019.md",
+    "nodes/202309110054.md",
+    "nodes/202302010220.md",
+    "nodes/202302010218.md",
     "202309142044.md",
     "202309142044e.md",
     "202309142043.md",
     "202302061058.md",
-    "202307071126.md",
-    "202309010053.md",
     "templates/node-tmpl.md",
     "templates/question-tmpl.md",
     "nodes/202303222228.md",
-    "202308200227.md",
     "202309121902e.md",
     "nodes/202309091149.md",
     "202309112000.md",
     "202309111922.md",
-    "nodes/202309110054.md",
     "nodes/202309102333.md",
     "202309110055e.md",
     "nodes/202309102334.md",
     "202309060002.md",
     "nodes/202304270724.md",
     "nodes/202304250207.md",
-    "nodes/202304250312.md",
-    "nodes/202309110019.md",
-    "202300000000.md",
-    "202304111930.md",
-    "nodes/202305221143.md",
     "gathering-hub/intro-to-modern-RE-practices.canvas",
     "gathering-hub/intro-to-ins.canvas",
     "attachments/202303011618.pdf",
