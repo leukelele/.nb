@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/202309062300.md",
+                "file": "2309142215.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -91,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nodes/202309062300.md"
+                "file": "2309142215.md"
               }
             }
           },
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nodes/202309062300.md",
+                "file": "2309142215.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nodes/202309062300.md",
+                "file": "2309142215.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,10 +184,10 @@
   },
   "active": "bb9028768b1ef609",
   "lastOpenFiles": [
-    "attachments/2309062300e.md",
-    "nodes/202309062300.md",
-    "nodes/202309050151.md",
     "2309142156.md",
+    "nodes/202309050151.md",
+    "nodes/202309062300.md",
+    "attachments/2309062300e.md",
     "202300000000.md",
     "2309142228.md",
     "2309142215.md",
