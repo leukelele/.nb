@@ -1,5 +1,5 @@
 {
   "dateFormat": "YYMMDD",
   "timeFormat": "HHmmss",
-  "folder": "templates"
+  "folder": "templates/node-tmpl"
 }

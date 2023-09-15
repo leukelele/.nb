@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c95f0474daae2631",
+        "id": "0831b09f0984ab3d",
         "type": "tabs",
         "children": [
           {
-            "id": "98d1a3d58135ae6e",
+            "id": "fb8938c3669b9340",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202309142126.md",
+                "file": "2309142156.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -91,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202309142126.md"
+                "file": "2309142156.md"
               }
             }
           },
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202309142126.md",
+                "file": "2309142156.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202309142126.md",
+                "file": "2309142156.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,11 +182,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "98d1a3d58135ae6e",
+  "active": "fb8938c3669b9340",
   "lastOpenFiles": [
-    "nodes/202309000000.md",
+    "nodes/202302010228.md",
     "templates/question-tmpl.md",
+    "templates/node-tmpl.md",
+    "2309142156.md",
     "202309142126.md",
+    "nodes/202303292055.md",
+    "nodes/202309000000.md",
+    "nodes/202302010232.md",
     "202309142122.md",
     "nodes/intro-to-modern-RE-practices.canvas",
     "nodes/intro-to-ins.canvas",
@@ -203,15 +208,10 @@
     "202309142044e.md",
     "202309142043.md",
     "202302061058.md",
-    "templates/node-tmpl.md",
     "nodes/202303222228.md",
     "202309121902e.md",
     "nodes/202309091149.md",
     "202309112000.md",
-    "202309111922.md",
-    "nodes/202309102333.md",
-    "202309110055e.md",
-    "nodes/202309102334.md",
     "attachments/202303011618.pdf",
     "attachments/202303032252.pdf",
     "Untitled",
