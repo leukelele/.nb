@@ -1,4 +1,4 @@
 {
-  "template": "",
+  "template": "templates/node-tmpl",
   "format": "YYMMDDHHmm"
 }

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2309142156.md",
+                "file": "2309142215.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -91,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2309142156.md"
+                "file": "2309142215.md"
               }
             }
           },
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2309142156.md",
+                "file": "2309142215.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2309142156.md",
+                "file": "2309142215.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,8 +184,10 @@
   },
   "active": "fb8938c3669b9340",
   "lastOpenFiles": [
-    "202309142158e.md",
     "2309142156.md",
+    "2309142215.md",
+    "2309142214.md",
+    "202309142158e.md",
     "nodes/202302010228.md",
     "templates/question-tmpl.md",
     "templates/node-tmpl.md",
@@ -210,8 +212,6 @@
     "202309142043.md",
     "202302061058.md",
     "nodes/202303222228.md",
-    "202309121902e.md",
-    "nodes/202309091149.md",
     "attachments/202303011618.pdf",
     "attachments/202303032252.pdf",
     "Untitled",
