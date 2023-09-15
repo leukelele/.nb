@@ -90,9 +90,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2309142215.md"
-              }
+              "state": {}
             }
           },
           {
@@ -101,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2309142215.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2309142215.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,12 +178,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "fb8938c3669b9340",
+  "active": "ea3763f456043cc5",
   "lastOpenFiles": [
-    "2309142156.md",
     "2309142215.md",
+    "2309142228.md",
+    "2309142156.md",
+    "2309142229.md",
+    "2309142230.md",
     "2309142214.md",
-    "202309142158e.md",
+    "2309142158e.md",
     "nodes/202302010228.md",
     "templates/question-tmpl.md",
     "templates/node-tmpl.md",
@@ -209,9 +208,6 @@
     "nodes/202302010218.md",
     "202309142044.md",
     "202309142044e.md",
-    "202309142043.md",
-    "202302061058.md",
-    "nodes/202303222228.md",
     "attachments/202303011618.pdf",
     "attachments/202303032252.pdf",
     "Untitled",
