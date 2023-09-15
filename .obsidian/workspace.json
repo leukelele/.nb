@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/202309110054.md",
+                "file": "202309142126.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -91,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nodes/202309110054.md"
+                "file": "202309142126.md"
               }
             }
           },
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nodes/202309110054.md",
+                "file": "202309142126.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nodes/202309110054.md",
+                "file": "202309142126.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,13 +184,17 @@
   },
   "active": "98d1a3d58135ae6e",
   "lastOpenFiles": [
+    "202309142122.md",
+    "202309142126.md",
+    "nodes/intro-to-modern-RE-practices.canvas",
+    "nodes/intro-to-ins.canvas",
+    "nodes/202309110054.md",
     "202304111930.md",
     "202307071126.md",
     "202308200227.md",
     "202309010053.md",
     "nodes/202309102338.md",
     "nodes/202309110019.md",
-    "nodes/202309110054.md",
     "nodes/202302010220.md",
     "nodes/202302010218.md",
     "202309142044.md",
@@ -208,10 +212,6 @@
     "202309110055e.md",
     "nodes/202309102334.md",
     "202309060002.md",
-    "nodes/202304270724.md",
-    "nodes/202304250207.md",
-    "gathering-hub/intro-to-modern-RE-practices.canvas",
-    "gathering-hub/intro-to-ins.canvas",
     "attachments/202303011618.pdf",
     "attachments/202303032252.pdf",
     "Untitled",
