@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ae09b9c4dde2ff16",
+        "id": "c9a9724abb460662",
         "type": "tabs",
         "children": [
           {
-            "id": "bb9028768b1ef609",
+            "id": "181db3f946c3e04c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2309142215.md",
+                "file": "2309142156.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -91,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2309142215.md"
+                "file": "2309142156.md"
               }
             }
           },
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2309142215.md",
+                "file": "2309142156.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2309142215.md",
+                "file": "2309142156.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,15 +182,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "bb9028768b1ef609",
+  "active": "181db3f946c3e04c",
   "lastOpenFiles": [
+    "nodes/202305100142.md",
+    "nodes/202305192349.md",
+    "2309142215.md",
     "2309142156.md",
     "nodes/202309050151.md",
     "nodes/202309062300.md",
     "attachments/2309062300e.md",
     "202300000000.md",
     "2309142228.md",
-    "2309142215.md",
     "2309142229.md",
     "2309142230.md",
     "2309142214.md",
@@ -210,8 +212,6 @@
     "202307071126.md",
     "202308200227.md",
     "202309010053.md",
-    "nodes/202309102338.md",
-    "nodes/202309110019.md",
     "attachments/202303011618.pdf",
     "attachments/202303032252.pdf",
     "Untitled",
