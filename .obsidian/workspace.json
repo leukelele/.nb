@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b5e4549f06a81936",
+        "id": "54144e312ee6b818",
         "type": "tabs",
         "children": [
           {
-            "id": "de458920a37e1cb3",
+            "id": "ce5180c4f2da763b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2305222049.md",
+                "file": "nodes/2308242311.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -91,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2305222049.md"
+                "file": "nodes/2308242311.md"
               }
             }
           },
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2305222049.md",
+                "file": "nodes/2308242311.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2305222049.md",
+                "file": "nodes/2308242311.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,34 +182,34 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "de458920a37e1cb3",
+  "active": "ce5180c4f2da763b",
   "lastOpenFiles": [
+    "2309102334.md",
+    "nodes/2303292154.md",
+    "2303292149.md",
+    "2303222320.md",
+    "2303291613.md",
+    "2309102333.md",
+    "2304102245.md",
+    "2303292254.md",
+    "2303222228.md",
+    "2303222213.md",
+    "2303010035.md",
+    "nodes/2305192328.md",
+    "nodes/2309110019.md",
+    "nodes/2305222049.md",
+    "nodes/2308200227.md",
+    "2308200252.md",
     "2305221245.md",
     "2305221330.md",
-    "2305222049.md",
     "2305230001.md",
     "2308200237.md",
-    "2308200252.md",
     "2308200944.md",
     "nodes/2309000000.md",
     "2309010053.md",
     "2309050151.md",
     "2309062212.md",
     "2309062300.md",
-    "2309091149.md",
-    "2309102333.md",
-    "2309102334.md",
-    "2309110019.md",
-    "nodes/2309102338.md",
-    "nodes/2309110054.md",
-    "nodes/2308200227.md",
-    "nodes/2309142126.md",
-    "nodes/2309142156.md",
-    "nodes/2309142215.md",
-    "nodes/2309142228.md",
-    "nodes/2309222232.md",
-    "nodes/2309222331.md",
-    "2305190151.md",
     "attachments/2309222338i.png",
     "attachments/2023-09-22T23:37:18,791417517-05:00.png",
     "attachments/2309161115i.png",
