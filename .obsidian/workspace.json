@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "fd54be3dba820375",
+        "id": "ecbb6035ed023aab",
         "type": "tabs",
         "children": [
           {
-            "id": "b703b586509618d4",
+            "id": "047bf15cd727d1aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/2308200227.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d3a96ce0d3adbd42",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2309142126.md",
+                "file": "202309110054.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2309142126.md"
+                "file": "202309110054.md"
               }
             }
           },
@@ -115,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2309142126.md",
+                "file": "202309110054.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2309142126.md",
+                "file": "202309110054.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,35 +182,36 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d3a96ce0d3adbd42",
+  "active": "047bf15cd727d1aa",
   "lastOpenFiles": [
+    "2309142215.md",
+    "2309142228.md",
     "2309010053.md",
+    "attachments/2309142158e.md",
     "nodes/2309222331.md",
+    "nodes/2309222232.md",
+    "nodes/2309142156.md",
+    "nodes/2309142126.md",
     "nodes/2308200227.md",
+    "nodes/2307071126.md",
     "2309222334.md",
     "attachments/2309222338i.png",
     "attachments/2023-09-22T23:37:18,791417517-05:00.png",
-    "nodes/2307071126.md",
     "nodes/2304111930.md",
     "202309110054.md",
     "202309102333.md",
     "202309102334.md",
-    "nodes/2309222232.md",
     "nodes/2302061058.md",
     "nodes/2300000000.md",
-    "2309142126.md",
     "202309142122.md",
     "2309161110.md",
-    "2309142156.md",
     "attachments/2309161115i.png",
     "attachments/2023-09-06T22:03:12,956072345-05:00.png",
     "202305100142.md",
     "202305192349.md",
-    "2309142215.md",
     "202309050151.md",
     "202309062300.md",
     "attachments/2309062300e.md",
-    "2309142228.md",
     "2309142229.md",
     "2309142230.md",
     "nodes/intro-to-modern-RE-practices.canvas",
