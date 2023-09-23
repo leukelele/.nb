@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2308200227.md",
+                "file": "nodes/2308200227.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2309222331.md",
+                "file": "2309142126.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2309222331.md"
+                "file": "2309142126.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2309222331.md",
+                "file": "2309142126.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2309222331.md",
+                "file": "2309142126.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,8 +198,12 @@
   },
   "active": "d3a96ce0d3adbd42",
   "lastOpenFiles": [
-    "2309222331.md",
-    "2308200227.md",
+    "2309010053.md",
+    "nodes/2309222331.md",
+    "nodes/2308200227.md",
+    "2309222334.md",
+    "attachments/2309222338i.png",
+    "attachments/2023-09-22T23:37:18,791417517-05:00.png",
     "nodes/2307071126.md",
     "nodes/2304111930.md",
     "202309110054.md",
@@ -208,7 +212,6 @@
     "nodes/2309222232.md",
     "nodes/2302061058.md",
     "nodes/2300000000.md",
-    "2309010053.md",
     "2309142126.md",
     "202309142122.md",
     "2309161110.md",
@@ -224,8 +227,6 @@
     "2309142228.md",
     "2309142229.md",
     "2309142230.md",
-    "2309142214.md",
-    "2309142158e.md",
     "nodes/intro-to-modern-RE-practices.canvas",
     "nodes/intro-to-ins.canvas",
     "attachments/202303011618.pdf",
