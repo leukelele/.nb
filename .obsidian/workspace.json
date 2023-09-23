@@ -13,14 +13,80 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202309110054.md",
+                "file": "nodes/2309142215.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "849b4035206d13e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "202302010226.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a4fe18c659a1216b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "202303221755.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5800a875049691b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "202303221754.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b3c9d00cd5aca0ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "202303221753.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a5d662889a0d375c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "202303221751.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202309110054.md"
+                "file": "202302010226.md"
               }
             }
           },
@@ -101,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202309110054.md",
+                "file": "202302010226.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202309110054.md",
+                "file": "202302010226.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,15 +248,24 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "047bf15cd727d1aa",
+  "active": "849b4035206d13e0",
   "lastOpenFiles": [
-    "2309142215.md",
-    "2309142228.md",
+    "nodes/2302010224.md",
+    "nodes/2302010223.md",
+    "nodes/2302010222.md",
     "2309010053.md",
-    "attachments/2309142158e.md",
+    "nodes/2302010221.md",
+    "nodes/2302010220.md",
+    "nodes/2302010219.md",
+    "nodes/2302010218.md",
     "nodes/2309222331.md",
     "nodes/2309222232.md",
+    "2309161110.md",
+    "nodes/2309142215.md",
+    "nodes/2309142228.md",
     "nodes/2309142156.md",
+    "202309110054.md",
+    "attachments/2309142158e.md",
     "nodes/2309142126.md",
     "nodes/2308200227.md",
     "nodes/2307071126.md",
@@ -198,22 +273,13 @@
     "attachments/2309222338i.png",
     "attachments/2023-09-22T23:37:18,791417517-05:00.png",
     "nodes/2304111930.md",
-    "202309110054.md",
     "202309102333.md",
     "202309102334.md",
     "nodes/2302061058.md",
     "nodes/2300000000.md",
     "202309142122.md",
-    "2309161110.md",
     "attachments/2309161115i.png",
     "attachments/2023-09-06T22:03:12,956072345-05:00.png",
-    "202305100142.md",
-    "202305192349.md",
-    "202309050151.md",
-    "202309062300.md",
-    "attachments/2309062300e.md",
-    "2309142229.md",
-    "2309142230.md",
     "nodes/intro-to-modern-RE-practices.canvas",
     "nodes/intro-to-ins.canvas",
     "attachments/202303011618.pdf",
