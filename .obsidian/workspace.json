@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2309102333.md",
+                "file": "2309050151.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -91,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2309102333.md"
+                "file": "2309050151.md"
               }
             }
           },
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2309102333.md",
+                "file": "2309050151.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2309102333.md",
+                "file": "2309050151.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,6 +184,7 @@
   },
   "active": "ce5180c4f2da763b",
   "lastOpenFiles": [
+    "2309102333.md",
     "2309091149.md",
     "nodes/2309102334.md",
     "nodes/2308242311.md",
@@ -191,7 +192,6 @@
     "2303292149.md",
     "2303222320.md",
     "2303291613.md",
-    "2309102333.md",
     "2304102245.md",
     "2303292254.md",
     "2303222228.md",
