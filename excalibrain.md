@@ -17,159 +17,71 @@ Open a document in another pane and click it to get started.
 For the best experience enable 'Open in adjacent pane'
 in Excalidraw settings under 'Links and Transclusion'. ^4mylk7KK
 
-2309272354 ^WuhGGibU
-
-[[2309272354.md]] ^dF1A7tWO
-
 %%
 # Drawing
-```compressed-json
-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
-
-iAA=
+```json
+{
+	"type": "excalidraw",
+	"version": 2,
+	"source": "https://excalidraw.com",
+	"elements": [
+		{
+			"type": "text",
+			"version": 1,
+			"versionNonce": 423577018,
+			"isDeleted": false,
+			"id": "4mylk7KK",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 0,
+			"y": 0,
+			"strokeColor": "white",
+			"backgroundColor": "transparent",
+			"width": 703,
+			"height": 96,
+			"seed": 4429,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"boundElements": [],
+			"updated": 1650784785611,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 3,
+			"text": "Open a document in another pane and click it to get started.\n\nFor the best experience enable 'Open in adjacent pane'\nin Excalidraw settings under 'Links and Transclusion'.",
+			"rawText": "Open a document in another pane and click it to get started.\n\nFor the best experience enable 'Open in adjacent pane'\nin Excalidraw settings under 'Links and Transclusion'.",
+			"baseline": 91,
+			"textAlign": "center",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Open a document in another pane and click it to get started.\n\nFor the best experience enable 'Open in adjacent pane'\nin Excalidraw settings under 'Links and Transclusion'."
+		}
+	],
+	"appState": {
+		"theme": "dark",
+		"viewBackgroundColor": "hsl(208, 80%, 23%)",
+		"currentItemStrokeColor": "#000000",
+		"currentItemBackgroundColor": "transparent",
+		"currentItemFillStyle": "hachure",
+		"currentItemStrokeWidth": 2,
+		"currentItemStrokeStyle": "solid",
+		"currentItemRoughness": 1,
+		"currentItemOpacity": 100,
+		"currentItemFontFamily": 1,
+		"currentItemFontSize": 16,
+		"currentItemTextAlign": "left",
+		"currentItemStrokeSharpness": "sharp",
+		"currentItemStartArrowhead": null,
+		"currentItemEndArrowhead": "arrow",
+		"currentItemLinearStrokeSharpness": "round",
+		"gridSize": null,
+		"colorPalette": {}
+	},
+	"files": {}
+}
 ```
 %%
