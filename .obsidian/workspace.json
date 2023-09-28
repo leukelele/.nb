@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2309272207.md",
+                "file": "2309091149.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -43,6 +43,16 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "aebd4618bd75e558",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "attachments/2309272229e.md"
               }
             }
           }
@@ -214,8 +224,8 @@
     "attachments/2309272229e.md",
     "2309272229.md",
     "nodes/2309272035.md",
-    "2309272207.md",
     "2309091149.md",
+    "2309272207.md",
     "nodes/2309272143.md",
     "nodes/2309142156.md",
     "nodes/2309262225.md",
