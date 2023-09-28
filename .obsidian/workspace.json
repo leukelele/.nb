@@ -117,9 +117,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2309272229.md"
-              }
+              "state": {}
             }
           },
           {
@@ -128,7 +126,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2309272229.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +137,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2309272229.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,10 +205,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "51ee9b41026f1b94",
+  "active": "ea3763f456043cc5",
   "lastOpenFiles": [
-    "2309102334.md",
     "2309272229.md",
+    "2305230001.md",
+    "2309102334.md",
     "nodes/2309272143.md",
     "nodes/2309262225.md",
     "2303292214.md",
@@ -236,7 +233,6 @@
     "nodes/2309142228.md",
     "2309062300.md",
     "2309272130.md",
-    "attachments/2309272037e.md",
     "attachments/2309222338i.png",
     "attachments/2023-09-22T23:37:18,791417517-05:00.png",
     "attachments/2309161115i.png",
