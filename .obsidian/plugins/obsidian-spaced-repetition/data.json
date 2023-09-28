@@ -14,7 +14,7 @@
     "flashcardWidthPercentage": 40,
     "randomizeCardOrder": true,
     "convertHighlightsToClozes": false,
-    "convertBoldTextToClozes": true,
+    "convertBoldTextToClozes": false,
     "convertCurlyBracketsToClozes": true,
     "singleLineCardSeparator": ":::",
     "singleLineReversedCardSeparator": "::::",
@@ -45,7 +45,7 @@
     "singlelineCardSeparator": "::",
     "singlelineReversedCardSeparator": ":::"
   },
-  "buryDate": "2023-05-22",
+  "buryDate": "2023-09-27",
   "buryList": [],
   "historyDeck": "/"
 }
