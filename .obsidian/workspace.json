@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d118523e0c3274ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nodes/2309272035.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2309272207.md"
+                "file": "nodes/2309272035.md"
               }
             }
           },
@@ -101,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2309272207.md",
+                "file": "nodes/2309272035.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2309272207.md",
+                "file": "nodes/2309272035.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,10 +196,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f419f4277a143294",
+  "active": "d118523e0c3274ac",
   "lastOpenFiles": [
-    "2309091149.md",
     "2309272207.md",
+    "2309091149.md",
     "nodes/2309272143.md",
     "nodes/2309142156.md",
     "nodes/2309262225.md",
