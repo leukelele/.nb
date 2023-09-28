@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5697e092f860d63f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -215,7 +226,7 @@
       }
     ]
   },
-  "active": "ce5180c4f2da763b",
+  "active": "434454f780494d15",
   "lastOpenFiles": [
     "nodes/2309102333.md",
     "2304250226.md",
