@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "54144e312ee6b818",
+        "id": "471e384c10e3549a",
         "type": "tabs",
         "children": [
           {
-            "id": "ce5180c4f2da763b",
+            "id": "3778b37c7e3bbac7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2309272002.md",
+                "file": "nodes/2309271658.md",
                 "mode": "source",
-                "backlinks": false,
+                "backlinks": true,
                 "source": false
               }
             }
@@ -91,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2309272002.md"
+                "file": "nodes/2309271658.md"
               }
             }
           },
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2309272002.md",
+                "file": "nodes/2309271658.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2309272002.md",
+                "file": "nodes/2309271658.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,10 +182,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ce5180c4f2da763b",
+  "active": "3778b37c7e3bbac7",
   "lastOpenFiles": [
+    "nodes/2309272002.md",
+    "2309272020.md",
+    "nodes/2309142156.md",
     "2309272003.md",
-    "2309272002.md",
     "nodes/2309271658.md",
     "2309091149.md",
     "nodes/2309102333.md",
@@ -208,8 +210,6 @@
     "2303292149.md",
     "2303222320.md",
     "2303291613.md",
-    "2304102245.md",
-    "2303292254.md",
     "attachments/2309222338i.png",
     "attachments/2023-09-22T23:37:18,791417517-05:00.png",
     "attachments/2309161115i.png",
