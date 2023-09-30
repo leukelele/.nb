@@ -4,29 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bef0e89178a45fc3",
+        "id": "0afa1152817d8749",
         "type": "tabs",
         "children": [
           {
-            "id": "5bcd662847efc284",
+            "id": "6ddb54c1be622842",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/2309271658.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5a90a05e313b8dac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "nodes/2309271658.md",
+                "file": "2309301759.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -73,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#planning",
+                "query": "tag:#compsci/net",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -81,12 +68,26 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 305.5
+  },
+  "right": {
+    "id": "74e1ce9a16329adb",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a49d1db05125bf6",
+        "type": "tabs",
+        "children": [
           {
-            "id": "322e3b00ef7a491e",
+            "id": "466fb41e625f71ce",
             "type": "leaf",
             "state": {
-              "type": "bookmarks",
+              "type": "graph",
               "state": {}
             }
           }
@@ -94,32 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
-  },
-  "right": {
-    "id": "74e1ce9a16329adb",
-    "type": "split",
-    "children": [
-      {
-        "id": "0cde5707cafb66cc",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "17698c614c5ad78c",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency"
-              }
-            }
-          }
-        ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 317.5,
+    "width": 394.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -140,17 +116,27 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "5bcd662847efc284",
+  "active": "6ddb54c1be622842",
   "lastOpenFiles": [
-    "nodes/2309271658.md",
-    "nodes/2305222049.md",
-    "excalibrain.md",
+    "nodes/2309272229.md",
     "nodes/2309272343.md",
+    "nodes/2309272143.md",
+    "nodes/2309272035.md",
+    "nodes/2309262153.md",
+    "nodes/2309272002.md",
+    "nodes/2309222331.md",
+    "2308200252.md",
+    "nodes/2309142156.md",
+    "nodes/2309262225.md",
+    "nodes/2309271658.md",
+    "2308200944.md",
+    "2309301759.md",
+    "excalibrain.md",
+    "nodes/2305222049.md",
     "nodes/2308200227.md",
     "nodes/2309301609.md",
     "nodes/2309290057.md",
     "nodes/2309281854.md",
-    "nodes/2309272035.md",
     "nodes/2309281811.md",
     "nodes/2309281829.md",
     "2309142126.md",
@@ -158,16 +144,6 @@
     "2303292147.md",
     "2304112200.md",
     "2309091149.md",
-    "attachments/excalibrain.md",
-    "2309102334.md",
-    "2309062212.md",
-    "2309272354.md",
-    "2303292154.md",
-    "2309102333.md",
-    "2309062300.md",
-    "nodes/2309272229.md",
-    "2309010053.md",
-    "2309050151.md",
     "attachments/2309222338i.png",
     "attachments/2023-09-22T23:37:18,791417517-05:00.png",
     "attachments/2309161115i.png",
