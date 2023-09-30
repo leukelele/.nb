@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2309301609.md",
+                "file": "nodes/2309301609.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -154,8 +154,8 @@
   },
   "active": "feb9cf8825b7125d",
   "lastOpenFiles": [
+    "nodes/2309301609.md",
     "nodes/2309290057.md",
-    "2309301609.md",
     "nodes/2309272343.md",
     "nodes/2309281854.md",
     "nodes/2305222049.md",
