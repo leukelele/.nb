@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9675b6f98bd4a97e",
+        "id": "bef0e89178a45fc3",
         "type": "tabs",
         "children": [
           {
-            "id": "37788b3c0e4e336c",
+            "id": "feb9cf8825b7125d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2309290057.md",
+                "file": "nodes/2309290057.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -152,13 +152,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ea3763f456043cc5",
+  "active": "feb9cf8825b7125d",
   "lastOpenFiles": [
-    "2309290057.md",
+    "nodes/2309272343.md",
+    "nodes/2309281854.md",
+    "nodes/2305222049.md",
+    "nodes/2309272035.md",
+    "nodes/2309290057.md",
     "nodes/2309281811.md",
     "nodes/2309281829.md",
-    "2309281854.md",
-    "nodes/2309272343.md",
     "excalibrain.md",
     "2309142126.md",
     "2309272346e.md",
@@ -172,14 +174,12 @@
     "2303292154.md",
     "2309102333.md",
     "2309062300.md",
-    "nodes/2309272035.md",
     "nodes/2309271658.md",
     "nodes/2309272229.md",
     "2309010053.md",
     "2309050151.md",
     "nodes/2304111930.md",
     "nodes/2305192328.md",
-    "nodes/2305222049.md",
     "attachments/2309222338i.png",
     "attachments/2023-09-22T23:37:18,791417517-05:00.png",
     "attachments/2309161115i.png",
