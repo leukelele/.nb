@@ -116,45 +116,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "floating": {
-    "id": "3201e775edba9489",
-    "type": "floating",
-    "children": [
-      {
-        "id": "2e9eb175edde8697",
-        "type": "window",
-        "children": [
-          {
-            "id": "25f6633f42644f90",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "f81b3a29cc42f561",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "2310010036e.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 8,
-        "y": 86,
-        "width": 1424,
-        "height": 806,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "f81b3a29cc42f561",
+  "active": "6ddb54c1be622842",
   "lastOpenFiles": [
-    "2310010036.md",
     "2310010036e.md",
+    "2310010036.md",
     "2309301759.md",
     "nodes/2309301609.md",
     "2309301833.md",
