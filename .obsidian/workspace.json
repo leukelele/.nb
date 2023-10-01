@@ -73,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5,
-    "collapsed": true
+    "width": 305.5
   },
   "right": {
     "id": "74e1ce9a16329adb",
@@ -119,8 +118,10 @@
   },
   "active": "6ddb54c1be622842",
   "lastOpenFiles": [
-    "2309301759.md",
+    "nodes/2309301609.md",
+    "nodes/2309290057.md",
     "2309301833.md",
+    "2309301759.md",
     "nodes/2309272229.md",
     "nodes/2309272343.md",
     "nodes/2309272143.md",
@@ -136,8 +137,6 @@
     "excalibrain.md",
     "nodes/2305222049.md",
     "nodes/2308200227.md",
-    "nodes/2309301609.md",
-    "nodes/2309290057.md",
     "nodes/2309281854.md",
     "nodes/2309281811.md",
     "nodes/2309281829.md",
