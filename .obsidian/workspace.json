@@ -13,6 +13,45 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "2310011600.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b1e5cf36f85be0e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2310011605.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6f152cf0aa7e5998",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2309301759.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a929d5333e5dd37c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "2310011532.md",
                 "mode": "source",
                 "backlinks": true,
@@ -68,6 +107,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "3aab5e28bd132ad9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -90,6 +137,18 @@
             "state": {
               "type": "graph",
               "state": {}
+            }
+          },
+          {
+            "id": "d2afabc2a815ebd7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2310011600.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
             }
           }
         ]
@@ -118,9 +177,11 @@
   },
   "active": "6ddb54c1be622842",
   "lastOpenFiles": [
-    "2309301759.md",
-    "2310011532.md",
+    "2310011605.md",
     "2310010036.md",
+    "2310011600.md",
+    "2310011532.md",
+    "2309301759.md",
     "2310010058.md",
     "2310010036e.md",
     "nodes/2309301609.md",
@@ -142,8 +203,6 @@
     "nodes/2305222049.md",
     "nodes/2308200227.md",
     "nodes/2309281854.md",
-    "nodes/2309281811.md",
-    "nodes/2309281829.md",
     "attachments/2309222338i.png",
     "attachments/2023-09-22T23:37:18,791417517-05:00.png",
     "attachments/2309161115i.png",
