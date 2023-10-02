@@ -11,52 +11,32 @@
             "id": "b1e5cf36f85be0e6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2310011605.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "53d90154713f1538",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2310011600.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "6f152cf0aa7e5998",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2309301759.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "a929d5333e5dd37c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2310011532.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -145,7 +125,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2310011605.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +136,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2310011605.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,9 +161,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2310011605.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -228,10 +204,8 @@
                 "id": "74c703720cc79677",
                 "type": "leaf",
                 "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "2310020011e.md"
-                  }
+                  "type": "empty",
+                  "state": {}
                 }
               }
             ]
@@ -247,7 +221,7 @@
       }
     ]
   },
-  "active": "b1e5cf36f85be0e6",
+  "active": "74c703720cc79677",
   "lastOpenFiles": [
     "2310020011e.md",
     "2310011605.md",
