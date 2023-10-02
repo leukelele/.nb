@@ -1,11 +1,11 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "tag:#compsci/net  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "",
@@ -25,6 +25,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.09650633803749095,
+  "scale": 0.1104721796481825,
   "close": true
 }
