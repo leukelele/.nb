@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0afa1152817d8749",
+        "id": "ffabc473d968e260",
         "type": "tabs",
         "children": [
           {
-            "id": "a929d5333e5dd37c",
+            "id": "780ce699aaceddca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/2310020117.md",
+                "file": "nodes/2309301759.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -92,7 +92,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "466fb41e625f71ce",
+            "id": "a929d5333e5dd37c",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nodes/2310020117.md",
+                "file": "nodes/2309301759.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nodes/2310020117.md",
+                "file": "nodes/2309301759.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nodes/2310020117.md"
+                "file": "nodes/2309301759.md"
               }
             }
           }
@@ -165,19 +165,22 @@
       "zk-prefixer:Create new unique note": true,
       "random-note:Open random note": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "privacy-glasses:Hide all": false,
       "privacy-glasses:Reveal non-private": false,
       "privacy-glasses:Reveal all": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a929d5333e5dd37c",
+  "active": "780ce699aaceddca",
   "lastOpenFiles": [
+    "nodes/2310020117.md",
+    "nodes/2309222232.md",
+    "nodes/2308200227.md",
+    "nodes/2304111930.md",
     "nodes/2310011532.md",
     "nodes/2310011600.md",
     "nodes/2310011605.md",
-    "nodes/2310020117.md",
     "2310020011e.md",
     "2310011605.md",
     "2310011600.md",
@@ -197,9 +200,6 @@
     "nodes/2309272002.md",
     "nodes/2309222331.md",
     "2308200252.md",
-    "nodes/2309142156.md",
-    "nodes/2309262225.md",
-    "nodes/2309271658.md",
     "attachments/2309222338i.png",
     "attachments/2023-09-22T23:37:18,791417517-05:00.png",
     "attachments/2309161115i.png",
