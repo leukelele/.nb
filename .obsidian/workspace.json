@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2310030009.md",
+                "file": "2310030434.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -81,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5,
-    "collapsed": true
+    "width": 305.5
   },
   "right": {
     "id": "74e1ce9a16329adb",
@@ -96,8 +95,13 @@
             "id": "a929d5333e5dd37c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2310030434.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           },
           {
@@ -106,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2310030009.md",
+                "file": "2310030434.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2310030009.md",
+                "file": "2310030434.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2310030009.md"
+                "file": "2310030434.md"
               }
             }
           }
@@ -174,8 +178,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "780ce699aaceddca",
+  "active": "2dbac7dbe5964508",
   "lastOpenFiles": [
+    "2310030434.md",
+    "2309102334.md",
+    "2309142126.md",
     "nodes/2309272343.md",
     "2310030009.md",
     "nodes/2309271658.md",
@@ -188,7 +195,6 @@
     "attachments/202302010224.md",
     "attachments/202302062309.md",
     "attachments/202302010225.md",
-    "2309142126.md",
     "nodes/2310020202.md",
     "attachments/2310020148e.md",
     "nodes/2305222049.md",
@@ -200,8 +206,6 @@
     "nodes/2309281854.md",
     "nodes/2310011605.md",
     "nodes/2309301759.md",
-    "nodes/2309222232.md",
-    "nodes/2308200227.md",
     "attachments/2309222338i.png",
     "attachments/2023-09-22T23:37:18,791417517-05:00.png",
     "attachments/2309161115i.png",
