@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2310030434.md",
+                "file": "nodes/2309102338.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#compsci/net",
+                "query": "tag:#compsci/OS/linux",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -77,7 +77,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -95,13 +96,8 @@
             "id": "a929d5333e5dd37c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2310030434.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -110,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2310030434.md",
+                "file": "nodes/2309102338.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2310030434.md",
+                "file": "nodes/2309102338.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2310030434.md"
+                "file": "nodes/2309102338.md"
               }
             }
           }
@@ -157,8 +153,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 394.5,
-    "collapsed": true
+    "width": 394.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,8 +173,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2dbac7dbe5964508",
+  "active": "f3cb1ea23345d2c3",
   "lastOpenFiles": [
+    "nodes/2305222049.md",
+    "nodes/2308200227.md",
+    "nodes/2305192328.md",
+    "nodes/2304111930.md",
     "2310030434.md",
     "2309102334.md",
     "2309142126.md",
@@ -197,15 +196,11 @@
     "attachments/202302010225.md",
     "nodes/2310020202.md",
     "attachments/2310020148e.md",
-    "nodes/2305222049.md",
     "nodes/2310020117.md",
     "nodes/2309272143.md",
     "nodes/2309262225.md",
     "nodes/2309142156.md",
     "nodes/2309281811.md",
-    "nodes/2309281854.md",
-    "nodes/2310011605.md",
-    "nodes/2309301759.md",
     "attachments/2309222338i.png",
     "attachments/2023-09-22T23:37:18,791417517-05:00.png",
     "attachments/2309161115i.png",
