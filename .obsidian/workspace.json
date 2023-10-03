@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2310020214.md",
+                "file": "nodes/2310020140.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2310020214.md",
+                "file": "nodes/2310020140.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2310020214.md",
+                "file": "nodes/2310020140.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2310020214.md"
+                "file": "nodes/2310020140.md"
               }
             }
           }
@@ -202,9 +202,18 @@
   },
   "active": "138896300b45715d",
   "lastOpenFiles": [
-    "2310020159.md",
-    "2310020214.md",
-    "2310020202.md",
+    "nodes/2310020142.md",
+    "nodes/2310020148.md",
+    "nodes/2310020159.md",
+    "nodes/2310020214.md",
+    "attachments/202302010223.md",
+    "attachments/202302010224.md",
+    "attachments/202302062309.md",
+    "attachments/202302010225.md",
+    "2309142126.md",
+    "nodes/2310020202.md",
+    "nodes/2310020140.md",
+    "attachments/2310020148e.md",
     "nodes/2305222049.md",
     "nodes/2309271658.md",
     "nodes/2310020117.md",
@@ -219,15 +228,6 @@
     "nodes/2309222232.md",
     "nodes/2308200227.md",
     "nodes/2304111930.md",
-    "nodes/2310011532.md",
-    "nodes/2310011600.md",
-    "2310020011e.md",
-    "2310011605.md",
-    "2310011600.md",
-    "2309301759.md",
-    "2310011532.md",
-    "2310010036.md",
-    "2310010058.md",
     "attachments/2309222338i.png",
     "attachments/2023-09-22T23:37:18,791417517-05:00.png",
     "attachments/2309161115i.png",
