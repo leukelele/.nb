@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/2309301759.md",
+                "file": "nodes/2310011605.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nodes/2309301759.md",
+                "file": "nodes/2310011605.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nodes/2309301759.md",
+                "file": "nodes/2310011605.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nodes/2309301759.md"
+                "file": "nodes/2310011605.md"
               }
             }
           }
@@ -175,6 +175,7 @@
   "active": "780ce699aaceddca",
   "lastOpenFiles": [
     "nodes/2310020117.md",
+    "nodes/2309301759.md",
     "nodes/2309222232.md",
     "nodes/2308200227.md",
     "nodes/2304111930.md",
@@ -199,7 +200,6 @@
     "nodes/2309262153.md",
     "nodes/2309272002.md",
     "nodes/2309222331.md",
-    "2308200252.md",
     "attachments/2309222338i.png",
     "attachments/2023-09-22T23:37:18,791417517-05:00.png",
     "attachments/2309161115i.png",
