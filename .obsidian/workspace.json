@@ -13,41 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/2309272343.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6639aec27129d9bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "nodes/2309271658.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "138896300b45715d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "nodes/2310020140.md",
+                "file": "2310030009.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 305.5,
+    "collapsed": true
   },
   "right": {
     "id": "74e1ce9a16329adb",
@@ -132,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nodes/2310020140.md",
+                "file": "2310030009.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nodes/2310020140.md",
+                "file": "2310030009.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nodes/2310020140.md"
+                "file": "2310030009.md"
               }
             }
           }
@@ -200,8 +174,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "138896300b45715d",
+  "active": "780ce699aaceddca",
   "lastOpenFiles": [
+    "nodes/2309272343.md",
+    "2310030009.md",
+    "nodes/2309271658.md",
+    "nodes/2310020140.md",
     "nodes/2310020142.md",
     "nodes/2310020148.md",
     "nodes/2310020159.md",
@@ -212,14 +190,11 @@
     "attachments/202302010225.md",
     "2309142126.md",
     "nodes/2310020202.md",
-    "nodes/2310020140.md",
     "attachments/2310020148e.md",
     "nodes/2305222049.md",
-    "nodes/2309271658.md",
     "nodes/2310020117.md",
     "nodes/2309272143.md",
     "nodes/2309262225.md",
-    "nodes/2309272343.md",
     "nodes/2309142156.md",
     "nodes/2309281811.md",
     "nodes/2309281854.md",
@@ -227,7 +202,6 @@
     "nodes/2309301759.md",
     "nodes/2309222232.md",
     "nodes/2308200227.md",
-    "nodes/2304111930.md",
     "attachments/2309222338i.png",
     "attachments/2023-09-22T23:37:18,791417517-05:00.png",
     "attachments/2309161115i.png",
