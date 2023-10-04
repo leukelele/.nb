@@ -258,7 +258,7 @@
   "ontologySuggesterTrigger": ":::",
   "ontologySuggesterMidSentenceTrigger": "(",
   "boldFields": false,
-  "allowAutozoom": false,
+  "allowAutozoom": true,
   "maxZoom": 1,
   "allowAutofocuOnSearch": true,
   "defaultAlwaysOnTop": false,
