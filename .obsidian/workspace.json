@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/2304111930.md",
+                "file": "2310032255.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -81,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5,
-    "collapsed": true
+    "width": 305.5
   },
   "right": {
     "id": "74e1ce9a16329adb",
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nodes/2304111930.md",
+                "file": "2310032255.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nodes/2304111930.md",
+                "file": "2310032255.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nodes/2304111930.md"
+                "file": "2310032255.md"
               }
             }
           }
@@ -176,13 +175,14 @@
   },
   "active": "780ce699aaceddca",
   "lastOpenFiles": [
+    "nodes/2310030434.md",
+    "2310032255.md",
     "nodes/2304111930.md",
     "attachments/202302010224.md",
     "nodes/2309102338.md",
     "nodes/2305222049.md",
     "nodes/2308200227.md",
     "nodes/2305192328.md",
-    "2310030434.md",
     "2309102334.md",
     "2309142126.md",
     "nodes/2309272343.md",
@@ -201,7 +201,6 @@
     "nodes/2310020117.md",
     "nodes/2309272143.md",
     "nodes/2309262225.md",
-    "nodes/2309142156.md",
     "attachments/2309222338i.png",
     "attachments/2023-09-22T23:37:18,791417517-05:00.png",
     "attachments/2309161115i.png",
