@@ -21,25 +21,12 @@
             }
           },
           {
-            "id": "acffb78fb38dbf00",
+            "id": "dea4a9de52ef0e8d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "2310040018.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bbbf2630db91ed87",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2310032356.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -201,11 +188,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "acffb78fb38dbf00",
+  "active": "dea4a9de52ef0e8d",
   "lastOpenFiles": [
-    "2310032356.md",
-    "2310040018.md",
     "nodes/2310032255.md",
+    "2310040018.md",
+    "2310032356.md",
     "nodes/2310030434.md",
     "nodes/2304111930.md",
     "attachments/202302010224.md",
