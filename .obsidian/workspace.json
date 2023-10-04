@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/2309290057.md",
+                "file": "nodes/2310032356.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -81,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 305.5,
+    "collapsed": true
   },
   "right": {
     "id": "74e1ce9a16329adb",
@@ -105,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "nodes/2310032356.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "nodes/2310032356.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,14 +144,17 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "nodes/2310032356.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 394.5
+    "width": 394.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,10 +174,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "780ce699aaceddca",
+  "active": "d29b14dbdbfc1ce0",
   "lastOpenFiles": [
-    "nodes/2309290057.md",
     "nodes/2310040018.md",
+    "templates/date-tmpl.md",
+    "nodes/2309290057.md",
     "nodes/2310032356.md",
     "nodes/2310032255.md",
     "nodes/2310030434.md",
@@ -195,7 +202,6 @@
     "attachments/202302062309.md",
     "attachments/202302010225.md",
     "nodes/2310020202.md",
-    "attachments/2310020148e.md",
     "attachments/2309222338i.png",
     "attachments/2023-09-22T23:37:18,791417517-05:00.png",
     "attachments/2309161115i.png",
