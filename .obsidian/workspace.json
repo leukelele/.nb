@@ -13,19 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2310040219.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3f573d4c8d68b782",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "2310040237.md",
                 "mode": "source",
                 "backlinks": true,
@@ -34,25 +21,12 @@
             }
           },
           {
-            "id": "0780d85da1e3f8ed",
+            "id": "22ac448d8dd8c661",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2310040342.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "888d8a85a12f54ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2310041628.md",
+                "file": "2310041639.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -175,13 +149,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "888d8a85a12f54ac",
+  "active": "22ac448d8dd8c661",
   "lastOpenFiles": [
-    "2310041610.md",
-    "2310041628.md",
-    "2310040342.md",
+    "2310041639.md",
     "2310040237.md",
     "2310040219.md",
+    "2310040342.md",
+    "2310041628.md",
+    "2310041631.md",
+    "2310041610.md",
     "excalibrain.md",
     "2310040326e.md",
     "2310040306e.md",
@@ -201,8 +177,6 @@
     "nodes/2308200227.md",
     "nodes/2305192328.md",
     "2309102334.md",
-    "2309142126.md",
-    "nodes/2309272343.md",
     "attachments/2309222338i.png",
     "attachments/2023-09-22T23:37:18,791417517-05:00.png",
     "attachments/2309161115i.png",
