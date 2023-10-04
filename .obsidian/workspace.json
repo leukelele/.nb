@@ -127,7 +127,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 366.5
+    "width": 353.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,9 +149,9 @@
   },
   "active": "d29b14dbdbfc1ce0",
   "lastOpenFiles": [
-    "nodes/2310040126.md",
-    "2310040219.md",
     "excalibrain.md",
+    "2310040219.md",
+    "nodes/2310040126.md",
     "nodes/2310040132.md",
     "attachments/2310040137e.md",
     "nodes/2310032356.md",

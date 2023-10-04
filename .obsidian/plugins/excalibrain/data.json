@@ -78,7 +78,7 @@
     ]
   },
   "inferAllLinksAsFriends": false,
-  "inverseInfer": false,
+  "inverseInfer": true,
   "inverseArrowDirection": false,
   "renderAlias": false,
   "nodeTitleScript": "",
@@ -258,7 +258,7 @@
   "ontologySuggesterTrigger": ":::",
   "ontologySuggesterMidSentenceTrigger": "(",
   "boldFields": false,
-  "allowAutozoom": true,
+  "allowAutozoom": false,
   "maxZoom": 1,
   "allowAutofocuOnSearch": true,
   "defaultAlwaysOnTop": false,
