@@ -21,10 +21,10 @@
   "strictLineBreaks": true,
   "showFrontmatter": true,
   "spellcheckLanguages": null,
-  "attachmentFolderPath": "notes/attachments",
+  "attachmentFolderPath": "/",
   "userIgnoreFilters": [
     "templates/",
-    "notes/attachments/"
+    "attachments/"
   ],
   "focusNewTab": false
 }
