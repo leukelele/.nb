@@ -188,13 +188,7 @@
       "command-palette:Open command palette": true,
       "workspaces:Manage workspace layouts": true,
       "zk-prefixer:Create new unique note": true,
-      "random-note:Open random note": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
-      "privacy-glasses:Hide all": false,
-      "privacy-glasses:Reveal non-private": false,
-      "privacy-glasses:Reveal all": false,
-      "omnisearch:Omnisearch": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "random-note:Open random note": false
     }
   },
   "active": "d29b14dbdbfc1ce0",
