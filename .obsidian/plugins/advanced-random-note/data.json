@@ -1,15 +1,15 @@
 {
-  "openInNewLeaf": true,
+  "openInNewLeaf": false,
   "queries": [
     {
-      "id": "query:3a2ece0b-4d23-4d21-839a-fe5cf3b43a87",
+      "id": "query:37d3fdd3-df05-4350-b3f9-8267ff612965",
       "name": "nodes",
-      "query": "path:/nodes",
+      "query": "path: nodes/",
       "type": "Default",
       "createCommand": true,
       "useDisabledFolders": true
     }
   ],
-  "disabledFolders": "templates/,\nattachments/,\n/",
+  "disabledFolders": "",
   "debug": false
 }
