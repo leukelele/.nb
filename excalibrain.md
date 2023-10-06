@@ -19,69 +19,61 @@ in Excalidraw settings under 'Links and Transclusion'. ^4mylk7KK
 
 %%
 # Drawing
-```json
-{
-	"type": "excalidraw",
-	"version": 2,
-	"source": "https://excalidraw.com",
-	"elements": [
-		{
-			"type": "text",
-			"version": 1,
-			"versionNonce": 423577018,
-			"isDeleted": false,
-			"id": "4mylk7KK",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 0,
-			"y": 0,
-			"strokeColor": "white",
-			"backgroundColor": "transparent",
-			"width": 703,
-			"height": 96,
-			"seed": 4429,
-			"groupIds": [],
-			"strokeSharpness": "sharp",
-			"boundElements": [],
-			"updated": 1650784785611,
-			"link": null,
-			"locked": false,
-			"fontSize": 20,
-			"fontFamily": 3,
-			"text": "Open a document in another pane and click it to get started.\n\nFor the best experience enable 'Open in adjacent pane'\nin Excalidraw settings under 'Links and Transclusion'.",
-			"rawText": "Open a document in another pane and click it to get started.\n\nFor the best experience enable 'Open in adjacent pane'\nin Excalidraw settings under 'Links and Transclusion'.",
-			"baseline": 91,
-			"textAlign": "center",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "Open a document in another pane and click it to get started.\n\nFor the best experience enable 'Open in adjacent pane'\nin Excalidraw settings under 'Links and Transclusion'."
-		}
-	],
-	"appState": {
-		"theme": "dark",
-		"viewBackgroundColor": "hsl(208, 80%, 23%)",
-		"currentItemStrokeColor": "#000000",
-		"currentItemBackgroundColor": "transparent",
-		"currentItemFillStyle": "hachure",
-		"currentItemStrokeWidth": 2,
-		"currentItemStrokeStyle": "solid",
-		"currentItemRoughness": 1,
-		"currentItemOpacity": 100,
-		"currentItemFontFamily": 1,
-		"currentItemFontSize": 16,
-		"currentItemTextAlign": "left",
-		"currentItemStrokeSharpness": "sharp",
-		"currentItemStartArrowhead": null,
-		"currentItemEndArrowhead": "arrow",
-		"currentItemLinearStrokeSharpness": "round",
-		"gridSize": null,
-		"colorPalette": {}
-	},
-	"files": {}
-}
+```compressed-json
+N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATL
+
+ZMzYBXUtiRoIACyhQ4zZAHoFAc0JRJQgEYA6bGwC2CgF7N6hbEcK4OCtptbErHAL
+
+RY8RMpWdx8Q1TdIEfARcZgRmBShcZQUARm0ATm0eAAYaOiCEfQQOKGZuAG1wMFAw
+
+Muh4cXQoLCh0sshGFnYuNFj+cqbWTgA5TjFuABYeAGYAVgB2CZTYgA4OyEJmABFM
+
+muJuADMCMIWIEm4IQf0YfABrCYBpS/ryzcJ8fABlWGDDyVxsDUDbgShSNhnBAAdR
+
+I6m47WKfwBQJepyqEEEHl+EABfkkHHC+TaezYcE+ahgEJSKT21mUbzQpKhEEw3Gp
+
+DQgRKpe2Y/0BCAAwmx8GxSIcKJI1Eg9ppPmdlGiOMRubz+RJ/tZmPjArkURQwZJu
+
+NMRtpYjwxntJAhCMppNwEgA2VkIBAbNCDYYJPaS4RwACSxGxqAKAF09ptyNlPdwO
+
+EJHnspcRMcxvWGIzTNMJpQBRYLZXLev17IRwYi4dYQy1jFITWaDMtjS2xSGMogcM
+
+6h8P4Pa87BA+2obb4XY0zacKBPQhGKqpAMDgBiuH0D2ZqBGexqmDqEgA8ogOKhcK
+
+hiGxsEIM1BUIRN9Y2OomKh8Zit9LUNgiO3j0eoGxUMoEEe2bhSOttAAdDhAInPlU
+
+AvVBNHCI8sEQUhCByMRUByXBNGCVAAHJ1xyY9T2IAArT4ciPa8EHQwCT1QFMcAIE
+
+hyAoVAwhkE9lGYVAhGlS90IAGRPM5WOsYhUAAFXIDhmAfIRug4dDtBROihNqQ4sN
+
+PHc9wPIicNvc9jVIK9rAQW9BIfcwzmfMC3w/L8ol/O0AKAjgQN08DILZJDMFg+CO
+
+EQ5DUIMzCN003B8MI3I9MxMiOAoqj3FoygGM/KBmNY9jiE4niG34u8RKVCSpJklE
+
+lygABBIhlFadAxFyJgUSaRL3BK01yugPEUT0XJcBPJgQzQeMWxpPlTRPAgFOXJSA
+
+u3Xd90PQKOG0y8SMM+9H1MtRzPfT8GOsv9AOA0DnKgtyPIQgyfLQ/zsIooKCMq4j
+
+9IiqLqI8Oj4qYjgWLYjjdO43jMsE7KxNylp8tbTqAAkTTNFdUHiPhE1CIJOotWJi
+
+gAX3Af06FwOA4BeAsqlKSAL2yQ5SvNDoGHgigACFxVdFLZT5d5mHwAAKVJ5lQWYU
+
+gAUmoXgRm5gBKW4IH3UhVSgd0an0F4YS5HlGYkABiElVbScmxYlqWshp9s6elBn5
+
+WqUTlR/IiRc1ojtf0CcHmeV4EQ+L4RBFYpRZELXpdljlQWIcE0Fh8pLdya3vdhB3
+
+DiRA4NY9q3pYAJWEM0Y29WtIGDyXpfXAlYGJBl09jkPpZA3IpxnfA5zT93xbjrIS
+
+8HYcqlia03Yz62RuK0qmuCTY6hjmui6yXHfyK8W2EFEJO16/vPayFNpVHgEJ6Cw4
+
+fyXkXxIBR4AA1uBGEYJm0QYD8NN3N55fAAE099iMZEktWYJlP8ojDYAxuAJxoCCE
+
+JvUZn2v9CJxSinQ4UYRaShIEOEcTYEzlAgTKBWRtP4QCpjyTsEAlbNwmJaTkRUJw
+
+ThRPHBAyhww/kOCrCcYw5h4IIX/VuiCAAKBAEr4xRv/XIYcEDrkSpwOMzZyZwECG
+
+YYQzAADicFiBQKqNPN2gZpwICIZ9ZiH8aSnTtNwf4P89jGTgBo0gWiaQcHkXogxj
+
+JhBQHrFUTRCBUbgDYXQe4wRvTADRijIAA===
 ```
 %%
