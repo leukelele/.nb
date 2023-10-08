@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "64a8b602a38d4fd5",
+        "id": "6efda51a44f366b3",
         "type": "tabs",
         "children": [
           {
-            "id": "292677266c881632",
+            "id": "555ba07642a88889",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "nodes/2310040126.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -116,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nodes/2310040126.md",
+                "file": "excalibrain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nodes/2310040126.md",
+                "file": "excalibrain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,16 +150,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nodes/2310040126.md"
+                "file": "excalibrain.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 355.5,
-    "collapsed": true
+    "width": 355.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,8 +178,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "292677266c881632",
+  "active": "9e720db671433e76",
   "lastOpenFiles": [
+    "nodes/2310040126.md",
+    "nodes/2310040132.md",
+    "excalibrain.md",
     "nodes/2310041610.md",
     "nodes/2309272035.md",
     "nodes/2310032255.md",
@@ -196,13 +194,11 @@
     "nodes/2310020148.md",
     "networks.rnote",
     "attachments/2304270647e.md",
-    "excalibrain.md",
     "nodes/2310020117.md",
     "nodes/2305192328.md",
     "nodes/2304111930.md",
     "nodes/-bookshelf.md",
     "2310040237.md",
-    "nodes/2310040126.md",
     "nodes/2310041628.md",
     "nodes/2310041631.md",
     "nodes/2309262225.md",
@@ -212,7 +208,6 @@
     "attachments/2301311456e.md",
     "attachments/2301292146e.md",
     "nodes/2310040219.md",
-    "nodes/2310040342.md",
     "attachments/2309222338i.png",
     "attachments/2023-09-22T23:37:18,791417517-05:00.png",
     "attachments/2309161115i.png",
