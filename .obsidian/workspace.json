@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2310082109.md",
+                "file": "nodes/2309102338.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "394b05c92414f38a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nodes/2310020202.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -115,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2310082109.md",
+                "file": "nodes/2310020202.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,17 +158,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dd9b033fc4089b5f",
+  "active": "394b05c92414f38a",
   "lastOpenFiles": [
-    "nodes/2310082120.md",
-    "2310082109.md",
-    "2310082110e.md",
     "2304250253.md",
+    "2304250223.md",
     "2310040237.md",
+    "nodes/2310020202.md",
+    "nodes/2309102338.md",
+    "nodes/2309261828.md",
     "2310041639.md",
+    "2310082110e.md",
+    "nodes/2310082109.md",
+    "nodes/2310082120.md",
     "nodes/2310082329.md",
     "excalibrain.md",
-    "2304250223.md",
     "nodes/2310041631.md",
     "nodes/2310041610.md",
     "nodes/2310041628.md",
@@ -169,9 +186,6 @@
     "nodes/2310020148.md",
     "nodes/2310020142.md",
     "nodes/2310020117.md",
-    "nodes/2310011605.md",
-    "nodes/2310011600.md",
-    "nodes/2310011532.md",
     "attachments/202302271449.pdf",
     "networks.rnote",
     "attachments/2309222338i.png",
