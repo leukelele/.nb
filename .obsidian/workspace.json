@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ef8a33bb2a3b952e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2310082120.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -115,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2310082109.md",
+                "file": "2310082120.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,70 +158,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "floating": {
-    "id": "229e35ac184d67eb",
-    "type": "floating",
-    "children": [
-      {
-        "id": "6d7eb740a6cce4e4",
-        "type": "window",
-        "children": [
-          {
-            "id": "ef1c87afad61b279",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "a4052e6501817577",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "2310082110e.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 8,
-        "y": 86,
-        "width": 1424,
-        "height": 806,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "dd9b033fc4089b5f",
+  "active": "ef8a33bb2a3b952e",
   "lastOpenFiles": [
-    "2310082110e.md",
-    "2310082109.md",
-    "2310040237.md",
     "2310041639.md",
     "2304250253.md",
     "2304250223.md",
-    "nodes/2304250226.md",
-    "nodes/2304250207.md",
-    "excalibrain.md",
-    "nodes/2309272343.md",
+    "nodes/2310041631.md",
+    "nodes/2310041610.md",
+    "nodes/2310041628.md",
+    "nodes/2310040342.md",
+    "nodes/2310040219.md",
+    "nodes/2310040126.md",
+    "nodes/2310032356.md",
+    "nodes/2310032255.md",
+    "nodes/2310030434.md",
+    "nodes/2310020214.md",
+    "nodes/2310020159.md",
+    "nodes/2310020148.md",
+    "nodes/2310020142.md",
+    "nodes/2310020117.md",
+    "nodes/2310011605.md",
+    "nodes/2310011600.md",
+    "nodes/2310011532.md",
+    "nodes/2310010036.md",
     "nodes/2309301609.md",
     "nodes/2309281829.md",
-    "nodes/2310020117.md",
-    "nodes/2310011600.md",
-    "nodes/2304111930.md",
-    "nodes/2309222232.md",
-    "nodes/2309261828.md",
-    "nodes/2309110054.md",
-    "nodes/2310030434.md",
-    "nodes/2305192328.md",
-    "nodes/2310040126.md",
-    "nodes/2310040132.md",
-    "nodes/2310041610.md",
-    "nodes/2309272035.md",
-    "nodes/2310032255.md",
+    "nodes/2309281811.md",
+    "nodes/2309290057.md",
+    "nodes/2309272343.md",
     "attachments/202302271449.pdf",
-    "attachments/202302062309.md",
     "networks.rnote",
     "attachments/2309222338i.png",
     "attachments/2023-09-22T23:37:18,791417517-05:00.png",
