@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "56fb764250d21c55",
+        "id": "58bc519f0d80f2ea",
         "type": "tabs",
         "children": [
           {
-            "id": "dd9b033fc4089b5f",
+            "id": "f453f3562c2cdda3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/2309102338.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "394b05c92414f38a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "nodes/2310020202.md",
+                "file": "2310040237.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -129,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nodes/2310020202.md",
+                "file": "2310040237.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,13 +144,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "394b05c92414f38a",
+  "active": "f453f3562c2cdda3",
   "lastOpenFiles": [
     "2304250253.md",
     "2304250223.md",
-    "2310040237.md",
-    "nodes/2310020202.md",
+    "nodes/2309272343.md",
     "nodes/2309102338.md",
+    "nodes/2310020202.md",
+    "nodes/2309271658.md",
+    "2310040237.md",
     "nodes/2309261828.md",
     "2310041639.md",
     "2310082110e.md",
@@ -184,8 +172,6 @@
     "nodes/2310020214.md",
     "nodes/2310020159.md",
     "nodes/2310020148.md",
-    "nodes/2310020142.md",
-    "nodes/2310020117.md",
     "attachments/202302271449.pdf",
     "networks.rnote",
     "attachments/2309222338i.png",
