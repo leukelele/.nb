@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2304250207.md",
+                "file": "2310082109.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -115,19 +115,17 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2304250207.md",
+                "file": "2310082109.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 355.5,
-    "collapsed": true
+    "width": 355.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,13 +144,51 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
+  "floating": {
+    "id": "229e35ac184d67eb",
+    "type": "floating",
+    "children": [
+      {
+        "id": "6d7eb740a6cce4e4",
+        "type": "window",
+        "children": [
+          {
+            "id": "ef1c87afad61b279",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a4052e6501817577",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "2310082110e.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 8,
+        "y": 86,
+        "width": 1424,
+        "height": 806,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "dd9b033fc4089b5f",
   "lastOpenFiles": [
-    "2304250223.md",
-    "2304250226.md",
-    "2310041639.md",
+    "2310082110e.md",
+    "2310082109.md",
     "2310040237.md",
-    "2304250207.md",
+    "2310041639.md",
+    "2304250253.md",
+    "2304250223.md",
+    "nodes/2304250226.md",
+    "nodes/2304250207.md",
     "excalibrain.md",
     "nodes/2309272343.md",
     "nodes/2309301609.md",
@@ -172,10 +208,7 @@
     "nodes/2310032255.md",
     "attachments/202302271449.pdf",
     "attachments/202302062309.md",
-    "attachments/2309062300e.md",
-    "nodes/2310020148.md",
     "networks.rnote",
-    "attachments/2304270647e.md",
     "attachments/2309222338i.png",
     "attachments/2023-09-22T23:37:18,791417517-05:00.png",
     "attachments/2309161115i.png",
