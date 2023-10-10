@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2310092026.md",
+                "file": "2310040237.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,14 +26,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2310040237.md",
+                "file": "2310092026.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "32eaa511251d3181",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2310092050.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -128,14 +142,13 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2310092026.md",
+                "file": "2310092050.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -158,21 +171,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "36f2c7976dfbd23e",
+  "active": "32eaa511251d3181",
   "lastOpenFiles": [
+    "2310092026.md",
+    "2310092050.md",
     "2310040237.md",
-    "excalibrain.md",
+    "nodes/2310040342.md",
     "2310092010.md",
     "attachments/2310040326e.md",
-    "2310092026.md",
+    "2304250253.md",
+    "2304250223.md",
+    "excalibrain.md",
     "nodes/2310032356.md",
     "attachments/2310040306e.md",
     "nodes/2310032255.md",
     "nodes/2310040219.md",
     "nodes/2310020159.md",
     "nodes/2310020214.md",
-    "2304250253.md",
-    "2304250223.md",
     "nodes/2309272343.md",
     "nodes/2309102338.md",
     "nodes/2310020202.md",
@@ -184,8 +199,6 @@
     "nodes/2310082120.md",
     "nodes/2310082329.md",
     "nodes/2310041631.md",
-    "nodes/2310041610.md",
-    "nodes/2310041628.md",
     "attachments/202302271449.pdf",
     "networks.rnote",
     "attachments/2309222338i.png",
