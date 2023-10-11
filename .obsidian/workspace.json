@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/2310040237.md",
+                "file": "2310092010.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -32,22 +32,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "eca102e955cc4c28",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2310101901.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2310101901.md",
+                "file": "2310102350e.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,34 +158,69 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "eca102e955cc4c28",
+  "floating": {
+    "id": "229e35ac184d67eb",
+    "type": "floating",
+    "children": [
+      {
+        "id": "e6222f0fa4f462ba",
+        "type": "window",
+        "children": [
+          {
+            "id": "222f6fdc92546fa3",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "9d950e652d747b75",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "2310102350e.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 8,
+        "y": 86,
+        "width": 1424,
+        "height": 806,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "9d950e652d747b75",
   "lastOpenFiles": [
-    "2310101901.md",
     "2310092010.md",
-    "2304250253.md",
-    "2304250223.md",
-    "2310041639.md",
+    "2310102350e.md",
     "2310082110e.md",
+    "nodes/2309301609.md",
     "nodes/2310040237.md",
-    "2310092104.md",
-    "excalibrain.md",
-    "nodes/2310092026.md",
-    "nodes/2310092050.md",
-    "nodes/2310040342.md",
-    "attachments/2310040326e.md",
     "nodes/2310032356.md",
-    "attachments/2310040306e.md",
     "nodes/2310032255.md",
-    "nodes/2310040219.md",
+    "nodes/2310030434.md",
+    "nodes/2310040132.md",
+    "nodes/2309272229.md",
+    "nodes/2310011600.md",
+    "nodes/2309301759.md",
+    "nodes/2310041610.md",
+    "nodes/2309272002.md",
     "nodes/2310020159.md",
-    "nodes/2310020214.md",
+    "nodes/2310020117.md",
     "nodes/2309272343.md",
-    "nodes/2309102338.md",
-    "nodes/2310020202.md",
-    "nodes/2309271658.md",
-    "nodes/2309261828.md",
+    "nodes/2310020142.md",
     "nodes/2310082109.md",
-    "nodes/2310082120.md",
+    "nodes/2310040018.md",
+    "nodes/2310041628.md",
+    "nodes/2310020214.md",
+    "nodes/2309142228.md",
+    "2310101901.md",
+    "nodes/2309222232.md",
+    "nodes/2309272035.md",
     "attachments/202302271449.pdf",
     "networks.rnote",
     "attachments/2309222338i.png",
