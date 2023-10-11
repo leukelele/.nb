@@ -33,7 +33,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 210.5
+    "width": 210.5,
+    "collapsed": true
   },
   "right": {
     "id": "74e1ce9a16329adb",
@@ -128,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2310102350e.md",
+                "file": "2310092010.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,45 +160,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "floating": {
-    "id": "229e35ac184d67eb",
-    "type": "floating",
-    "children": [
-      {
-        "id": "e6222f0fa4f462ba",
-        "type": "window",
-        "children": [
-          {
-            "id": "222f6fdc92546fa3",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "9d950e652d747b75",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "2310102350e.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 8,
-        "y": 86,
-        "width": 1424,
-        "height": 806,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "9d950e652d747b75",
+  "active": "a7ec470faaee35f9",
   "lastOpenFiles": [
-    "2310092010.md",
     "2310102350e.md",
+    "2310092010.md",
+    "2310101901.md",
+    "attachments/2310040326e.md",
     "2310082110e.md",
     "nodes/2309301609.md",
     "nodes/2310040237.md",
@@ -218,9 +187,7 @@
     "nodes/2310041628.md",
     "nodes/2310020214.md",
     "nodes/2309142228.md",
-    "2310101901.md",
     "nodes/2309222232.md",
-    "nodes/2309272035.md",
     "attachments/202302271449.pdf",
     "networks.rnote",
     "attachments/2309222338i.png",
