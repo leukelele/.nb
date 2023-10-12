@@ -8,25 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ffd09f27545c70c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2310112154.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "469b18cc7da2a5b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/2310041628.md",
+                "file": "2310112302.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -128,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2310112154.md",
+                "file": "2310112302.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,10 +144,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ffd09f27545c70c1",
+  "active": "469b18cc7da2a5b1",
   "lastOpenFiles": [
-    "nodes/2310041628.md",
     "2310112154.md",
+    "2310112302.md",
+    "nodes/2310041628.md",
     "nodes/2310082120.md",
     "nodes/2310040237.md",
     "excalibrain.md",
@@ -186,7 +174,6 @@
     "nodes/2309301609.md",
     "nodes/2310032356.md",
     "nodes/2310032255.md",
-    "nodes/2310030434.md",
     "attachments/202302271449.pdf",
     "networks.rnote",
     "attachments/2309222338i.png",
