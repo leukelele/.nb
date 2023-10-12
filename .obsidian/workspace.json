@@ -120,9 +120,42 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "2cc0b717baced353",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "152fbd8493c72880",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "7e26e8a0ffd85b52",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -145,14 +178,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ffd09f27545c70c1",
+  "active": "780ce699aaceddca",
   "lastOpenFiles": [
+    "nodes/2310082120.md",
+    "nodes/2310040237.md",
+    "nodes/2310040342.md",
+    "attachments/2310110138i.png",
+    "Pasted image 20231011013735.png",
     "2304250253.md",
     "2310041639.md",
     "excalibrain.md",
-    "nodes/2310040237.md",
     "nodes/2310041628.md",
-    "nodes/2310040342.md",
     "nodes/2304250226.md",
     "nodes/2310092010.md",
     "2304250223.md",
@@ -172,7 +208,6 @@
     "nodes/2310032255.md",
     "nodes/2310030434.md",
     "nodes/2310040132.md",
-    "nodes/2309272229.md",
     "attachments/202302271449.pdf",
     "networks.rnote",
     "attachments/2309222338i.png",
