@@ -2,8 +2,7 @@
   "attachmentsPaths": [],
   "trashFolderOverride": "",
   "ignorePatterns": [
-    "gathering-hub/",
-    "periodic/",
-    "templates/"
+    "templates/",
+    "nodes/"
   ]
 }

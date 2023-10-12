@@ -156,6 +156,9 @@
   },
   "tagNodeStyles": {},
   "tagStyleList": [],
+  "primaryTagField": "Note type",
+  "primaryTagFieldLowerCase": "note-type",
+  "displayAllStylePrefixes": true,
   "baseLinkStyle": {
     "strokeColor": "#696969FF",
     "strokeWidth": 1,
@@ -221,7 +224,6 @@
     "Next": {}
   },
   "navigationHistory": [
-    "2310082329.md",
     "2310082120.md",
     "nodes/2310082120.md",
     "2310082109.md",
@@ -270,7 +272,8 @@
     "2304250223.md",
     "2310041639.md",
     "nodes/2310092010.md",
-    "nodes/2310040237.md"
+    "nodes/2310040237.md",
+    "2310112310.md"
   ],
   "allowOntologySuggester": true,
   "ontologySuggesterParentTrigger": "::p",
