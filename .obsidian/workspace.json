@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2310122253.md",
+                "file": "nodes/2310112321.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -81,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 210.5
+    "width": 210.5,
+    "collapsed": true
   },
   "right": {
     "id": "74e1ce9a16329adb",
@@ -115,7 +116,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2310122253.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2310122253.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,9 +152,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2310122253.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -181,9 +178,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8a4147025089ee7b",
+  "active": "780ce699aaceddca",
   "lastOpenFiles": [
-    "2310122253.md",
+    "nodes/2310112321.md",
+    "nodes/2310030434.md",
+    "nodes/2305192328.md",
+    "nodes/2310092050.md",
+    "nodes/2309222232.md",
+    "nodes/2304111930.md",
+    "nodes/2310011600.md",
+    "nodes/2310020117.md",
+    "excalibrain.md",
+    "nodes/2310122253.md",
+    "nodes/2310011532.md",
     "nodes/2304250223.md",
     "2304250253.md",
     "nodes/2309290057.md",
@@ -199,18 +206,8 @@
     "attachments/2310020148e.md",
     "attachments/2310040137e.md",
     "attachments/2310040306e.md",
-    "attachments/2309142158e.md",
-    "nodes/2310112350.md",
-    "nodes/2310040219.md",
-    "nodes/2310112337.md",
     "attachments/2309222338i.png",
-    "excalibrain.md",
     "attachments/2310112328i.png",
-    "nodes/2310092050.md",
-    "nodes/2310110036.md",
-    "nodes/2310110109.md",
-    "nodes/2310112154.md",
-    "nodes/2310112302.md",
     "attachments/2310112310i.png",
     "attachments/2310110138i.png",
     "attachments/2309161115i.png",
