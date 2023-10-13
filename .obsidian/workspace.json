@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2310112350.md",
+                "file": "nodes/2310112350.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -115,9 +115,46 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2310112350.md",
+                "file": "nodes/2310112350.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a5cd6e6470cfc619",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "nodes/2310112350.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d86e0439e39eaa45",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "b5a1fa73312b5a65",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "nodes/2310112350.md"
               }
             }
           }
@@ -146,8 +183,9 @@
   },
   "active": "8f8d472e3eba852c",
   "lastOpenFiles": [
+    "nodes/2310112350.md",
+    "nodes/2310040219.md",
     "nodes/2310112337.md",
-    "2310112350.md",
     "2304250223.md",
     "2304250253.md",
     "attachments/2309222338i.png",
@@ -174,7 +212,6 @@
     "attachments/2309142158e.md",
     "attachments/2310112310i.png",
     "attachments/2309262204e.md",
-    "attachments/2309272037e.md",
     "attachments/2310110138i.png",
     "attachments/2309161115i.png",
     "attachments/2023-10-11T23:10:43,543380379-05:00.png",
