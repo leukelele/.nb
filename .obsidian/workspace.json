@@ -158,7 +158,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -181,17 +182,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2dbac7dbe5964508",
+  "active": "63177f14d29455db",
   "lastOpenFiles": [
-    "attachments/2310141158i.png",
-    "nodes/2310141138.md",
+    "nodes/2310092026.md",
     "nodes/2310131727.md",
+    "excalibrain.md",
+    "nodes/2309281854.md",
+    "nodes/2310141138.md",
+    "attachments/2310141158i.png",
     "nodes/2310032255.md",
     "nodes/2310122253.md",
     "nodes/2310040126.md",
     "attachments/2310141146e.md",
     "nodes/2310040132.md",
-    "excalibrain.md",
     "2310140016.md",
     "2310140017.md",
     "nodes/2310040237.md",
@@ -208,7 +211,6 @@
     "2304250253.md",
     "nodes/2309290057.md",
     "nodes/2310082120.md",
-    "nodes/2310082329.md",
     "attachments/2309222338i.png",
     "attachments/2310112328i.png",
     "attachments/2310112310i.png",
@@ -225,7 +227,6 @@
     "attachments/202303011618.pdf",
     "attachments/202303032252.pdf",
     "Untitled",
-    "attachments/202302010223.png",
     "test",
     "test",
     "todo/RE",
