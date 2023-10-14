@@ -34,20 +34,41 @@
             }
           },
           {
-            "id": "5670575f831960ab",
+            "id": "2f1772a1a4e8dac0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2310140017.md",
+                "file": "nodes/2310040126.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "81d5d7903b7cdeb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nodes/2310040132.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fbad7bdd4dd3a2f0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -142,7 +163,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2310140017.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +174,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2310140017.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,9 +199,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2310140017.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -209,12 +226,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5670575f831960ab",
+  "active": "fbad7bdd4dd3a2f0",
   "lastOpenFiles": [
-    "2310140017.md",
+    "nodes/2310040132.md",
+    "nodes/2310040126.md",
     "nodes/2310122253.md",
-    "2310140016.md",
     "nodes/2310131727.md",
+    "2310140016.md",
+    "2310140017.md",
     "nodes/2310040237.md",
     "excalibrain.md",
     "nodes/2310112321.md",
@@ -235,8 +254,6 @@
     "attachments/2310082110e.md",
     "attachments/2310102350e.md",
     "attachments/2309262204e.md",
-    "attachments/2309272037e.md",
-    "attachments/2309272229e.md",
     "attachments/2309222338i.png",
     "attachments/2310112328i.png",
     "attachments/2310112310i.png",
