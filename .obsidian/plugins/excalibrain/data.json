@@ -89,8 +89,8 @@
   "autoOpenCentralDocument": true,
   "toggleEmbedTogglesAutoOpen": true,
   "showInferredNodes": true,
-  "showAttachments": false,
-  "showURLNodes": true,
+  "showAttachments": true,
+  "showURLNodes": false,
   "showVirtualNodes": true,
   "showFolderNodes": false,
   "showTagNodes": false,
@@ -224,11 +224,6 @@
     "Next": {}
   },
   "navigationHistory": [
-    "nodes/2309222232.md",
-    "nodes/2309142228.md",
-    "nodes/2310020214.md",
-    "nodes/2310020117.md",
-    "nodes/2310040018.md",
     "nodes/2310020142.md",
     "nodes/2309272343.md",
     "nodes/2310020159.md",
@@ -273,7 +268,12 @@
     "nodes/2310110036.md",
     "nodes/2310092050.md",
     "attachments/202310112328i.png",
-    "attachments/2309222338i.png"
+    "attachments/2309222338i.png",
+    "2310141702.md",
+    "2310141258.md",
+    "2310152025.md",
+    "2310152228.md",
+    "nodes/2304111930.md"
   ],
   "allowOntologySuggester": true,
   "ontologySuggesterParentTrigger": "::p",

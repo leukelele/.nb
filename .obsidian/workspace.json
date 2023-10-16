@@ -141,7 +141,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 355.5
+    "width": 352.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,17 +156,19 @@
       "privacy-glasses:Reveal non-private": false,
       "privacy-glasses:Reveal all": false,
       "obsidian-spaced-repetition:Review flashcards": false,
+      "omnisearch:Omnisearch": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "omnisearch:Omnisearch": false
+      "advanced-random-note:Open random note modal": false
     }
   },
   "active": "2fc84c1328b1026d",
   "lastOpenFiles": [
-    "2310152025.md",
+    "excalibrain.md",
     "2310152228.md",
+    "2310152025.md",
+    "nodes/2304111930.md",
     "2310141258.md",
     "2310141702.md",
-    "excalibrain.md",
     "nodes/2310122253.md",
     "nodes/2310131727.md",
     "nodes/2310092026.md",
@@ -185,7 +187,6 @@
     "nodes/2310030434.md",
     "nodes/2305192328.md",
     "nodes/2310092050.md",
-    "nodes/2304111930.md",
     "nodes/2310011600.md",
     "nodes/2310020117.md",
     "nodes/2310011532.md",
