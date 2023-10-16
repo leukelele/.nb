@@ -4,50 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "7bce1b72110e2ae7",
+        "id": "6d66642588700136",
         "type": "tabs",
         "children": [
           {
-            "id": "63177f14d29455db",
+            "id": "a71a6bf229a17f58",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2310141258.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2fc84c1328b1026d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2310152228.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2ecbe85baa02b455",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2310152025.md",
+                "file": "2310161739.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -161,18 +134,26 @@
       "advanced-random-note:Open random note modal": false
     }
   },
-  "active": "2fc84c1328b1026d",
+  "active": "a71a6bf229a17f58",
   "lastOpenFiles": [
-    "excalibrain.md",
-    "2310152228.md",
-    "2310152025.md",
-    "nodes/2304111930.md",
+    "2310161739.md",
     "2310141258.md",
+    "2310152025.md",
+    "2310152228.md",
+    "nodes/2310020117.md",
+    "nodes/2310011532.md",
+    "nodes/2309281854.md",
+    "nodes/2309281811.md",
+    "nodes/2310041631.md",
+    "nodes/2310082109.md",
+    "nodes/2310092010.md",
+    "nodes/2310110109.md",
+    "excalibrain.md",
+    "nodes/2304111930.md",
     "2310141702.md",
     "nodes/2310122253.md",
     "nodes/2310131727.md",
     "nodes/2310092026.md",
-    "nodes/2309281854.md",
     "nodes/2310141138.md",
     "attachments/2310141158i.png",
     "nodes/2310032255.md",
@@ -182,14 +163,6 @@
     "2310140016.md",
     "2310140017.md",
     "nodes/2310040237.md",
-    "nodes/2310112321.md",
-    "nodes/2309222232.md",
-    "nodes/2310030434.md",
-    "nodes/2305192328.md",
-    "nodes/2310092050.md",
-    "nodes/2310011600.md",
-    "nodes/2310020117.md",
-    "nodes/2310011532.md",
     "attachments/2309222338i.png",
     "attachments/2310112328i.png",
     "attachments/2310112310i.png",
