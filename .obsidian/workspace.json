@@ -11,8 +11,13 @@
             "id": "9bd5673232b4e391",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2310170117.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -130,8 +135,9 @@
   },
   "active": "9bd5673232b4e391",
   "lastOpenFiles": [
-    "nodes/2310141702.md",
     "2310170044.md",
+    "2310170117.md",
+    "nodes/2310141702.md",
     "2310161739.md",
     "excalibrain.md",
     "attachments/2310170044e.md",
@@ -156,7 +162,6 @@
     "nodes/2310040126.md",
     "attachments/2310141146e.md",
     "nodes/2310040132.md",
-    "2310140016.md",
     "attachments/2309222338i.png",
     "attachments/2310112328i.png",
     "attachments/2310112310i.png",
