@@ -108,6 +108,55 @@
                 "file": "excalibrain.md"
               }
             }
+          },
+          {
+            "id": "0392e898d02d0a4e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2310170117.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "726296e8ea71aeff",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2310170117.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6bb6f96ef2b72758",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "37ed267b0c811795",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2310170117.md"
+              }
+            }
           }
         ]
       }
