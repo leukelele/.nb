@@ -11,8 +11,13 @@
             "id": "72a12ebcb1ddd4cc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2310252210.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -110,6 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2310252210.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,6 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2310252210.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2310252146.md"
+                "file": "2310252210.md"
               }
             }
           }
@@ -175,8 +182,46 @@
       "advanced-random-note:Open random note modal": false
     }
   },
-  "active": "2dbac7dbe5964508",
+  "floating": {
+    "id": "77cf3127f004efc5",
+    "type": "floating",
+    "children": [
+      {
+        "id": "bbbaad6d8a5d50fb",
+        "type": "window",
+        "children": [
+          {
+            "id": "1fdf8ee218fade4e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "655a17be2775a8dc",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "2310252215e.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 8,
+        "y": 86,
+        "width": 1424,
+        "height": 806,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "72a12ebcb1ddd4cc",
   "lastOpenFiles": [
+    "2310252215e.md",
+    "2310252210.md",
+    "2310252215.md",
     "2310252146.md",
     "2310252135.md",
     "2310231950e.md",
@@ -200,9 +245,6 @@
     "nodes/2310141258.md",
     "nodes/2310020117.md",
     "nodes/2310011532.md",
-    "nodes/2309281854.md",
-    "nodes/2309281811.md",
-    "nodes/2310041631.md",
     "attachments/2310141158i.png",
     "attachments/2309222338i.png",
     "attachments/2310112328i.png",
