@@ -110,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "excalibrain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "excalibrain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +148,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "excalibrain.md"
+              }
             }
           }
         ]
@@ -173,7 +177,7 @@
       "advanced-random-note:Open random note modal": false
     }
   },
-  "active": "d2a8a8cf5b796880",
+  "active": "25208c7097be90df",
   "lastOpenFiles": [
     "nodes/2310131727.md",
     "nodes/2309301609.md",
