@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "011fd42dd489ad0d",
+        "id": "6c8dba92d9617d70",
         "type": "tabs",
         "children": [
           {
-            "id": "72a12ebcb1ddd4cc",
+            "id": "d2a8a8cf5b796880",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "nodes/2310131727.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -115,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nodes/2310131727.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +126,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nodes/2310131727.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,9 +146,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "nodes/2310131727.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -182,8 +173,10 @@
       "advanced-random-note:Open random note modal": false
     }
   },
-  "active": "72a12ebcb1ddd4cc",
+  "active": "d2a8a8cf5b796880",
   "lastOpenFiles": [
+    "nodes/2310131727.md",
+    "nodes/2309301609.md",
     "nodes/2310032255.md",
     "2310252135.md",
     "2310252130.md",
@@ -208,8 +201,6 @@
     "2310171900.md",
     "attachments/2310170044e.md",
     "nodes/2310152228.md",
-    "nodes/2310152025.md",
-    "nodes/2310141258.md",
     "attachments/2310141158i.png",
     "attachments/2309222338i.png",
     "attachments/2310112328i.png",
