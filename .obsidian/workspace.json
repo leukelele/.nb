@@ -21,6 +21,45 @@
             }
           },
           {
+            "id": "ac56715a47c777ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nodes/2310122253.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f22d63abafe284e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nodes/2310112350.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bbc47a0c998dc61a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nodes/2310040018.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "7c170c5a6743e2b0",
             "type": "leaf",
             "state": {
@@ -33,7 +72,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -128,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2311052139.md",
+                "file": "nodes/2310020159.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2311052139.md",
+                "file": "nodes/2310020159.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2311052139.md"
+                "file": "nodes/2310020159.md"
               }
             }
           }
@@ -195,10 +235,15 @@
       "advanced-random-note:Open random note modal": false
     }
   },
-  "active": "d2a8a8cf5b796880",
+  "active": "7c170c5a6743e2b0",
   "lastOpenFiles": [
-    "nodes/2310020159.md",
+    "nodes/2310032255.md",
     "2311052139.md",
+    "nodes/2310020159.md",
+    "nodes/2310040018.md",
+    "nodes/2310112350.md",
+    "nodes/2310122253.md",
+    "nodes/2310040237.md",
     "nodes/2310141138.md",
     "2310170117.md",
     "2310252239.md",
@@ -206,13 +251,11 @@
     "2310311729.md",
     "excalibrain.md",
     "nodes/2310110036.md",
-    "nodes/2310040237.md",
     "2310252135.md",
     "2310252130.md",
     "2310210012.md",
     "nodes/2310131727.md",
     "nodes/2309301609.md",
-    "nodes/2310032255.md",
     "nodes/2310222219.md",
     "nodes/2310170044.md",
     "nodes/2310141702.md",
@@ -220,9 +263,6 @@
     "2310252210.md",
     "2310252215e.md",
     "2310231950e.md",
-    "2310252215.md",
-    "2310252146.md",
-    "Untitled.md",
     "attachments/2310141158i.png",
     "attachments/2309222338i.png",
     "attachments/2310112328i.png",
