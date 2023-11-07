@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2311062339.md",
+                "file": "2311062353.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2311062339.md",
+                "file": "2311062353.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2311062339.md",
+                "file": "2311062353.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2311062339.md"
+                "file": "2311062353.md"
               }
             }
           }
@@ -185,11 +185,12 @@
   },
   "active": "ba822c83efc145c5",
   "lastOpenFiles": [
+    "2311062339.md",
+    "2311062353.md",
     "2310252135.md",
     "nodes/2309222232.md",
     "2310252130.md",
     "2310170117.md",
-    "2311062339.md",
     "2311062159.md",
     "2311062138.md",
     "2311052139.md",
@@ -210,7 +211,6 @@
     "nodes/2310252210.md",
     "nodes/2310210012.md",
     "attachments/2310231950e.md",
-    "nodes/2310231947.md",
     "attachments/2310141158i.png",
     "attachments/2309222338i.png",
     "attachments/2310112328i.png",
