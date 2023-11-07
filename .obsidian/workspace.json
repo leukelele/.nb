@@ -13,7 +13,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2311052139.md",
+                "file": "nodes/2309272035.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fcd1f7e6dbb1d3ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nodes/2309142156.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "70ee0ee54d5b760f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nodes/2309272143.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -115,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2311052139.md",
+                "file": "nodes/2309272035.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2311052139.md",
+                "file": "nodes/2309272035.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,12 +180,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2311052139.md"
+                "file": "nodes/2309272035.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -177,40 +202,40 @@
       "privacy-glasses:Hide all": false,
       "privacy-glasses:Reveal non-private": false,
       "privacy-glasses:Reveal all": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "advanced-random-note:Open random note modal": false
+      "advanced-random-note:Open random note modal": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "d2a8a8cf5b796880",
   "lastOpenFiles": [
-    "2311060109.md",
+    "nodes/2309142156.md",
+    "nodes/2309272143.md",
+    "nodes/2309272035.md",
+    "2310170117.md",
+    "excalibrain.md",
+    "nodes/2310082120.md",
     "2311052139.md",
     "2310252239.md",
+    "2310252135.md",
+    "nodes/2310252215e.md",
+    "nodes/2310252210.md",
+    "2310252130.md",
+    "nodes/2310210012.md",
+    "attachments/2310231950e.md",
+    "nodes/2310231947.md",
+    "2311060109.md",
     "nodes/2310020159.md",
     "nodes/2310112350.md",
-    "excalibrain.md",
     "nodes/2310122253.md",
     "nodes/2310040018.md",
     "nodes/2310032255.md",
     "nodes/2310040237.md",
     "nodes/2310141138.md",
-    "2310170117.md",
-    "2310231947.md",
     "2310311729.md",
     "nodes/2310110036.md",
-    "2310252135.md",
-    "2310252130.md",
-    "2310210012.md",
     "nodes/2310131727.md",
-    "nodes/2309301609.md",
-    "nodes/2310222219.md",
-    "nodes/2310170044.md",
-    "nodes/2310141702.md",
-    "2310161739.md",
-    "2310252210.md",
-    "2310252215e.md",
     "attachments/2310141158i.png",
     "attachments/2309222338i.png",
     "attachments/2310112328i.png",
