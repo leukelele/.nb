@@ -4,23 +4,50 @@
     "type": "split",
     "children": [
       {
-        "id": "6c8dba92d9617d70",
+        "id": "62602a5dbc42aa7a",
         "type": "tabs",
         "children": [
           {
-            "id": "d2a8a8cf5b796880",
+            "id": "ba822c83efc145c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/2310020140.md",
+                "file": "2311062138.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "01e2ac1162c46a4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nodes/2310020159.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0ac64399c102bb47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2311052139.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -115,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nodes/2310020140.md",
+                "file": "2311052139.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nodes/2310020140.md",
+                "file": "2311052139.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nodes/2310020140.md"
+                "file": "2311052139.md"
               }
             }
           }
@@ -182,9 +209,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d2a8a8cf5b796880",
+  "active": "0ac64399c102bb47",
   "lastOpenFiles": [
+    "nodes/2310020159.md",
+    "2311052139.md",
+    "2311062138.md",
     "excalibrain.md",
+    "nodes/2310020140.md",
+    "nodes/2310011605.md",
     "nodes/2310020148.md",
     "nodes/2305222049.md",
     "nodes/2310020202.md",
@@ -194,7 +226,6 @@
     "nodes/2309272035.md",
     "2310170117.md",
     "nodes/2310082120.md",
-    "2311052139.md",
     "2310252239.md",
     "2310252135.md",
     "nodes/2310252215e.md",
@@ -204,12 +235,8 @@
     "attachments/2310231950e.md",
     "nodes/2310231947.md",
     "2311060109.md",
-    "nodes/2310020159.md",
     "nodes/2310112350.md",
     "nodes/2310122253.md",
-    "nodes/2310040018.md",
-    "nodes/2310032255.md",
-    "nodes/2310040237.md",
     "attachments/2310141158i.png",
     "attachments/2309222338i.png",
     "attachments/2310112328i.png",
