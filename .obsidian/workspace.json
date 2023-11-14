@@ -8,25 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ba822c83efc145c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2311062159.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "dcb20b0ec033da41",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2310252130.md",
+                "file": "nodes/2311062159.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -115,11 +102,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "25208c7097be90df",
+            "id": "b223877ef9824686",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "excalibrain.md"
+              }
             }
           },
           {
@@ -136,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2311062159.md",
+                "file": "nodes/2311062159.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2311062159.md",
+                "file": "nodes/2311062159.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2311062159.md"
+                "file": "nodes/2311062159.md"
               }
             }
           }
@@ -204,34 +193,34 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ba822c83efc145c5",
+  "active": "dcb20b0ec033da41",
   "lastOpenFiles": [
+    "2310170117.md",
+    "2311070013.md",
+    "2311140046.md",
+    "nodes/2310110109.md",
+    "nodes/2309102338.md",
+    "nodes/2308200227.md",
+    "nodes/2305222049.md",
+    "nodes/2305192328.md",
     "2310252130.md",
+    "nodes/2304250226.md",
+    "nodes/2304250223.md",
+    "nodes/2304250207.md",
+    "nodes/2304111930.md",
+    "nodes/2311062159.md",
+    "excalibrain.md",
+    "nodes/2310040342.md",
     "attachments/2310170044e.md",
     "2311062353.md",
-    "2311062159.md",
     "2311062339.md",
-    "2311140046.md",
     "2311062138.md",
     "nodes/2310041628.md",
     "2311070037.md",
     "2310252135.md",
-    "2310170117.md",
-    "nodes/2310040342.md",
     "nodes/2310020140.md",
     "nodes/2310020142.md",
     "nodes/2310112337.md",
-    "nodes/2310020159.md",
-    "nodes/2309142156.md",
-    "nodes/2310092026.md",
-    "nodes/2310032356.md",
-    "nodes/2310020148.md",
-    "2311102240.md",
-    "attachments/2310020148e.md",
-    "2311070013.md",
-    "2311062359.md",
-    "nodes/2309222232.md",
-    "2311052139.md",
     "attachments/2310141158i.png",
     "attachments/2309222338i.png",
     "attachments/2310112328i.png",
