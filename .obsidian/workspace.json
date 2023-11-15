@@ -34,25 +34,12 @@
             }
           },
           {
-            "id": "fd24bde070df8bfd",
+            "id": "ab16777567b6022d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2311062138.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7ac47f59a6c8ad19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2311062138.md",
+                "file": "2311141900.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -155,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2311062138.md",
+                "file": "2311141900.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2311062138.md",
+                "file": "2311141900.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,11 +181,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2311062138.md"
+                "file": "2311141900.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -222,11 +210,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "fd24bde070df8bfd",
+  "active": "ab16777567b6022d",
   "lastOpenFiles": [
+    "nodes/2311062138.md",
+    "2311141900.md",
     "nodes/2311062159.md",
-    "2311062138.md",
     "attachments/2310170044e.md",
+    "2311062353.md",
+    "nodes/2310020159.md",
+    "2310252135.md",
+    "nodes/2310040237.md",
+    "nodes/2310040126.md",
     "nodes/2310222219.md",
     "nodes/2310170044.md",
     "nodes/2310152228.md",
@@ -244,12 +238,6 @@
     "nodes/2305222049.md",
     "nodes/2305192328.md",
     "2310252130.md",
-    "nodes/2304250226.md",
-    "nodes/2304250223.md",
-    "nodes/2304250207.md",
-    "nodes/2304111930.md",
-    "nodes/2310040342.md",
-    "2311062353.md",
     "attachments/2310141158i.png",
     "attachments/2309222338i.png",
     "attachments/2310112328i.png",
