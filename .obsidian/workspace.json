@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9396cbf3a5bb6274",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nodes/2311062159.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -115,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2311162319.md",
+                "file": "nodes/2311062159.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2311162319.md",
+                "file": "nodes/2311062159.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2311162319.md"
+                "file": "nodes/2311062159.md"
               }
             }
           }
@@ -182,12 +196,48 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "dcb20b0ec033da41",
+  "floating": {
+    "id": "366080d1455649aa",
+    "type": "floating",
+    "children": [
+      {
+        "id": "aebd0d832f135690",
+        "type": "window",
+        "children": [
+          {
+            "id": "6f5d8ec15aea2954",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0a65646ffca68be8",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "2311162337e.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 8,
+        "y": 86,
+        "width": 1424,
+        "height": 806,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "9396cbf3a5bb6274",
   "lastOpenFiles": [
-    "nodes/2311062353.md",
     "2311162319.md",
-    "2310170117.md",
+    "2311162337e.md",
     "nodes/2311062159.md",
+    "nodes/2311062353.md",
+    "2310170117.md",
     "excalibrain.md",
     "nodes/2310040237.md",
     "nodes/2310092026.md",
@@ -209,7 +259,6 @@
     "2310210012.md",
     "2310030434.md",
     "2304111930.md",
-    "2310252239.md",
     "attachments/2310141158i.png",
     "attachments/2309222338i.png",
     "attachments/2310112328i.png",
