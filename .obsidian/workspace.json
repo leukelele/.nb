@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/2311062159.md",
+                "file": "nodes/2311062353.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nodes/2311062159.md",
+                "file": "nodes/2311062353.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nodes/2311062159.md",
+                "file": "nodes/2311062353.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nodes/2311062159.md"
+                "file": "nodes/2311062353.md"
               }
             }
           }
@@ -196,46 +196,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "floating": {
-    "id": "366080d1455649aa",
-    "type": "floating",
-    "children": [
-      {
-        "id": "aebd0d832f135690",
-        "type": "window",
-        "children": [
-          {
-            "id": "6f5d8ec15aea2954",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "0a65646ffca68be8",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "2311162337e.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 8,
-        "y": 86,
-        "width": 1424,
-        "height": 806,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "9396cbf3a5bb6274",
   "lastOpenFiles": [
+    "nodes/2311062159.md",
     "2311162319.md",
     "2311162337e.md",
-    "nodes/2311062159.md",
     "nodes/2311062353.md",
     "2310170117.md",
     "excalibrain.md",
