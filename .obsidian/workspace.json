@@ -108,10 +108,8 @@
             "id": "d0c1fb1d5f742be3",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "excalibrain.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -120,55 +118,6 @@
             "state": {
               "type": "graph",
               "state": {}
-            }
-          },
-          {
-            "id": "0392e898d02d0a4e",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "nodes/2309272229.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "726296e8ea71aeff",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "nodes/2309272229.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "6bb6f96ef2b72758",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency"
-              }
-            }
-          },
-          {
-            "id": "37ed267b0c811795",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "nodes/2309272229.md"
-              }
             }
           }
         ]
@@ -191,20 +140,20 @@
       "privacy-glasses:Reveal non-private": false,
       "privacy-glasses:Reveal all": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "advanced-random-note:Open random note modal": false
+      "advanced-random-note:Open random note modal": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "d9590e58e52f7899",
   "lastOpenFiles": [
-    "nodes/2309272035.md",
+    "excalibrain.md",
     "nodes/2309272229.md",
+    "nodes/2309272035.md",
     "attachments/2309272229e.md",
     "2311162319.md",
     "2311142324.md",
     "2311270024.md",
     "blackbox.md",
-    "excalibrain.md",
     "2310210012.md",
     "2311270014.md",
     "nodes/2310112321.md",
