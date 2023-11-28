@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2311270024.md",
+                "file": "nodes/2309272229.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8c9fd5b5b79e5b46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nodes/2309272035.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -115,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2311270024.md",
+                "file": "nodes/2309272229.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2311270024.md",
+                "file": "nodes/2309272229.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2311270024.md"
+                "file": "nodes/2309272229.md"
               }
             }
           }
@@ -184,9 +197,13 @@
   },
   "active": "d9590e58e52f7899",
   "lastOpenFiles": [
-    "blackbox.md",
-    "2311270024.md",
+    "nodes/2309272035.md",
+    "nodes/2309272229.md",
+    "attachments/2309272229e.md",
     "2311162319.md",
+    "2311142324.md",
+    "2311270024.md",
+    "blackbox.md",
     "excalibrain.md",
     "2310210012.md",
     "2311270014.md",
@@ -206,10 +223,6 @@
     "nodes/2310040237.md",
     "nodes/2310092026.md",
     "nodes/2310131727.md",
-    "nodes/2310110036.md",
-    "2311062359.md",
-    "2311142324.md",
-    "nodes/2311062138.md",
     "attachments/2310141158i.png",
     "attachments/2309222338i.png",
     "attachments/2310112328i.png",
