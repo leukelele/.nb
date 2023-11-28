@@ -7,14 +7,12 @@
   "canvas",
   "outgoing-link",
   "tag-pane",
-  "properties",
   "page-preview",
   "templates",
   "command-palette",
   "editor-status",
   "bookmarks",
   "zk-prefixer",
-  "outline",
   "word-count",
   "workspaces"
 ]

@@ -10,7 +10,6 @@
   "nuke-orphans",
   "privacy-glasses",
   "find-unlinked-files",
-  "smart-connections",
   "obsidian-smart-typography",
   "obsidian-style-settings",
   "tag-wrangler",
@@ -18,5 +17,6 @@
   "dataview",
   "excalibrain",
   "advanced-random-note",
-  "obsidian-relativenumber"
+  "obsidian-relativenumber",
+  "copilot"
 ]

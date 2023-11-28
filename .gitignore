@@ -1,5 +1,4 @@
-.obsidian/plugins/copilot/data.json
-
+second-brain/.obsidian/plugins/copilot
 
 # Ignore Smart Connections folder because embeddings file is large and updated frequently
 .smart-connections

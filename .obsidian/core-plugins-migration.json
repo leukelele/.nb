@@ -17,7 +17,7 @@
   "markdown-importer": false,
   "zk-prefixer": true,
   "random-note": false,
-  "outline": true,
+  "outline": false,
   "word-count": true,
   "slides": false,
   "audio-recorder": false,
@@ -27,5 +27,5 @@
   "sync": false,
   "canvas": true,
   "bookmarks": true,
-  "properties": true
+  "properties": false
 }

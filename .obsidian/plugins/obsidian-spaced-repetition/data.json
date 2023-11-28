@@ -26,8 +26,8 @@
       "#review"
     ],
     "noteFoldersToIgnore": [
-      "notes/attachments",
-      "periodic/",
+      "notes/",
+      "attachments/",
       "templates/"
     ],
     "openRandomNote": true,
