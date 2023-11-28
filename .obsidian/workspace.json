@@ -4,23 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "a70821cb105af323",
+        "id": "396e9efa559e4d6f",
         "type": "tabs",
         "children": [
           {
-            "id": "d9590e58e52f7899",
+            "id": "edd4ddc6063527df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/2310141258.md",
+                "file": "2311272149.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1caa7c6a669a2d2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nodes/2311062353.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -116,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nodes/2310141258.md",
+                "file": "nodes/2311062353.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,22 +147,13 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nodes/2310141258.md",
+                "file": "nodes/2311062353.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "870166bfa83b4a20",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -169,16 +174,17 @@
       "privacy-glasses:Reveal all": false,
       "omnisearch:Omnisearch": false,
       "advanced-random-note:Open random note modal": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "copilot:Copilot Chat": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "870166bfa83b4a20",
+  "active": "1caa7c6a669a2d2a",
   "lastOpenFiles": [
+    "2311272149.md",
+    "nodes/2310141258.md",
+    "excalibrain.md",
     "nodes/2310082329.md",
     "nodes/2310112154.md",
     "nodes/2309272229.md",
-    "excalibrain.md",
     "nodes/2309272035.md",
     "attachments/2309272229e.md",
     "2311162319.md",
@@ -199,8 +205,6 @@
     "2311170006.md",
     "nodes/2311062159.md",
     "2311162337e.md",
-    "nodes/2310040237.md",
-    "nodes/2310092026.md",
     "attachments/2310141158i.png",
     "attachments/2309222338i.png",
     "attachments/2310112328i.png",
