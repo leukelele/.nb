@@ -138,8 +138,17 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "870166bfa83b4a20",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -160,10 +169,11 @@
       "privacy-glasses:Reveal all": false,
       "omnisearch:Omnisearch": false,
       "advanced-random-note:Open random note modal": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "copilot:Copilot Chat": false
     }
   },
-  "active": "d9590e58e52f7899",
+  "active": "870166bfa83b4a20",
   "lastOpenFiles": [
     "nodes/2310082329.md",
     "nodes/2310112154.md",
