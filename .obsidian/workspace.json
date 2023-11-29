@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/2311062353.md",
+                "file": "2311162319.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nodes/2311062353.md",
+                "file": "excalibrain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nodes/2311062353.md",
+                "file": "excalibrain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,21 +163,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1caa7c6a669a2d2a",
+  "active": "8c9fd5b5b79e5b46",
   "lastOpenFiles": [
+    "2311162319.md",
+    "excalibrain.md",
+    "2311162337e.md",
+    "nodes/2311062159.md",
+    "nodes/2311062353.md",
     "nodes/2310152025.md",
     "nodes/2310141258.md",
     "nodes/2310141702.md",
-    "nodes/2311062353.md",
     "2311272149.md",
     "2310252135.md",
-    "excalibrain.md",
     "nodes/2310082329.md",
     "nodes/2310112154.md",
     "nodes/2309272229.md",
     "nodes/2309272035.md",
     "attachments/2309272229e.md",
-    "2311162319.md",
     "2311142324.md",
     "2311270024.md",
     "blackbox.md",
@@ -189,8 +191,6 @@
     "2310030434.md",
     "2304111930.md",
     "2311270010.md",
-    "2311070013.md",
-    "2311170006.md",
     "attachments/2310141158i.png",
     "attachments/2309222338i.png",
     "attachments/2310112328i.png",
