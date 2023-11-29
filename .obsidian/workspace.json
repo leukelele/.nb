@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2311162319.md",
+                "file": "2311282258.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -116,6 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2311282258.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,6 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2311282258.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,10 +164,47 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7acc409f2c31467b",
+  "floating": {
+    "id": "97b0dbc034acb700",
+    "type": "floating",
+    "children": [
+      {
+        "id": "63ff52660a55c0b3",
+        "type": "window",
+        "children": [
+          {
+            "id": "730ab1073b94e34b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "df1c25ef5d31cbf7",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "2311282258e.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 9,
+        "y": 129,
+        "width": 1422,
+        "height": 762,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "1caa7c6a669a2d2a",
   "lastOpenFiles": [
     "2311162319.md",
+    "2311282258.md",
     "nodes/2309102338.md",
+    "2311282258e.md",
     "nodes/2311062353.md",
     "excalibrain.md",
     "nodes/2311062159.md",
@@ -188,8 +227,6 @@
     "nodes/2310112321.md",
     "2310231947.md",
     "2310170117.md",
-    "2310030434.md",
-    "2304111930.md",
     "attachments/2310141158i.png",
     "attachments/2309222338i.png",
     "attachments/2310112328i.png",
