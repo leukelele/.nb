@@ -21,19 +21,6 @@
             }
           },
           {
-            "id": "da47aa4e5106725e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2311292118.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "625e43bfd3d3b9ad",
             "type": "leaf",
             "state": {
@@ -43,6 +30,16 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "6c09fede4f92351e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "2311300113e.md"
               }
             }
           }
@@ -170,7 +167,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 547.5
+    "width": 547.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,48 +188,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "floating": {
-    "id": "d09c8c177278158c",
-    "type": "floating",
-    "children": [
-      {
-        "id": "b4e93835dadbb7bb",
-        "type": "window",
-        "children": [
-          {
-            "id": "df281af470a9f4a2",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "2b7adb2db5618535",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "2311300113e.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 9,
-        "y": 129,
-        "width": 1422,
-        "height": 762,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "2b7adb2db5618535",
+  "active": "6c09fede4f92351e",
   "lastOpenFiles": [
     "2311292137.md",
-    "2311292118.md",
-    "2311300113e.md",
-    "nodes/2311062159.md",
     "nodes/2310110036.md",
+    "2311300113e.md",
+    "2311292118.md",
+    "nodes/2311062159.md",
     "2311282347.md",
     "2311142324.md",
     "excalibrain.md",
