@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2311282347.md",
+                "file": "excalibrain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2311282347.md",
+                "file": "excalibrain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,10 +163,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "22f00787d553768c",
+  "active": "8c9fd5b5b79e5b46",
   "lastOpenFiles": [
-    "2311282258.md",
     "2311282347.md",
+    "2311282258.md",
     "2311162319.md",
     "2311282348e.md",
     "nodes/2311062159.md",
