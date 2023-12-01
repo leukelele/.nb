@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2311302054e.md",
+                "file": "2311292137.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2311302054e.md",
+                "file": "2311292137.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,20 +183,20 @@
     "type": "floating",
     "children": [
       {
-        "id": "f5fad7f06d9bf09a",
+        "id": "d8d86d45a0222a4c",
         "type": "window",
         "children": [
           {
-            "id": "0c4440a8d602b23d",
+            "id": "38283b638c3e3708",
             "type": "tabs",
             "children": [
               {
-                "id": "860589f5ece036a1",
+                "id": "cebfe2c2090454b2",
                 "type": "leaf",
                 "state": {
                   "type": "excalidraw",
                   "state": {
-                    "file": "2311302054e.md"
+                    "file": "2311300113e.md"
                   }
                 }
               }
@@ -213,11 +213,11 @@
       }
     ]
   },
-  "active": "860589f5ece036a1",
+  "active": "625e43bfd3d3b9ad",
   "lastOpenFiles": [
+    "2311300113e.md",
     "2311292137.md",
     "2311302054e.md",
-    "2311300113e.md",
     "nodes/2310110036.md",
     "2311292118.md",
     "nodes/2311062159.md",
