@@ -8,32 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "990f4525080b6e0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "nodes/2310110036.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "625e43bfd3d3b9ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2311292137.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ee47075d9b945456",
             "type": "leaf",
             "state": {
@@ -45,9 +19,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d81f4519695686bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2312040133.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,14 +180,14 @@
   "lastOpenFiles": [
     "2312040133.md",
     "2312040141.md",
+    "nodes/2310110036.md",
+    "2311292137.md",
     "2311302331.md",
     "excalibrain.md",
-    "2311292137.md",
     "nodes/2311062159.md",
     "2311300113e.md",
     "2311302110e.md",
     "2311302054e.md",
-    "nodes/2310110036.md",
     "2311292118.md",
     "2311282347.md",
     "2311142324.md",
