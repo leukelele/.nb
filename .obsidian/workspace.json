@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ee47075d9b945456",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2312101725.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "240a300f33a751f9",
             "type": "leaf",
             "state": {
@@ -213,11 +200,11 @@
   },
   "active": "144b1917bf413bfb",
   "lastOpenFiles": [
-    "2312101725.md",
+    "nodes/2310131727.md",
     "2312101730e.md",
+    "2312101725.md",
     "2312101651.md",
     "2312101730.md",
-    "nodes/2310131727.md",
     "2304111930.md",
     "nodes/2309301759.md",
     "nodes/2309261828.md",
