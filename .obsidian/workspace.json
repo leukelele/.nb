@@ -13,33 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2312050358.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d81f4519695686bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2312050359.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f189bfbcc09d948d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2312050318.md",
+                "file": "2311302331.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -119,7 +93,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8c9fd5b5b79e5b46",
+            "id": "9cb035ca154a5fd5",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -142,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "excalibrain.md",
+                "file": "2311302331.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "excalibrain.md",
+                "file": "2311302331.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +143,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 547.5
+    "width": 496.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,20 +163,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8c9fd5b5b79e5b46",
+  "active": "ee47075d9b945456",
   "lastOpenFiles": [
-    "2312050358.md",
-    "Pasted image 20231205171739.png",
-    "Pasted image 20231205171649.png",
-    "2312050359.md",
-    "2312050318.md",
-    "2312050312.md",
-    "2312040141.md",
-    "2312040133.md",
-    "nodes/2310110036.md",
-    "2311292137.md",
-    "2311302331.md",
     "excalibrain.md",
+    "2311302331.md",
+    "2312040133.md",
+    "2312050312.md",
+    "2311292137.md",
+    "2312050359.md",
+    "Pasted image 20231205171649.png",
+    "Pasted image 20231205171739.png",
+    "2312050358.md",
+    "2312050318.md",
+    "2312040141.md",
+    "nodes/2310110036.md",
     "nodes/2311062159.md",
     "2311300113e.md",
     "2311302110e.md",
