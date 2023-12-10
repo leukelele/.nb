@@ -45,6 +45,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3a4d6632a7ab1069",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "2311302110e.md"
+              }
+            }
           }
         ]
       }
@@ -142,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2312101613e.md",
+                "file": "2311302331.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2312101613e.md",
+                "file": "2311302331.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,47 +199,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "floating": {
-    "id": "66ce19d3d8611365",
-    "type": "floating",
-    "children": [
-      {
-        "id": "8da4426a8112c5d5",
-        "type": "window",
-        "children": [
-          {
-            "id": "49cc089c46eb5219",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "af11ea1703fcc6d0",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "2312101613e.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 9,
-        "y": 225,
-        "width": 1422,
-        "height": 666,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "af11ea1703fcc6d0",
+  "active": "ee47075d9b945456",
   "lastOpenFiles": [
+    "2312101613e.md",
     "2311302331.md",
     "2311292101.md",
     "2311292137.md",
-    "2312101613e.md",
+    "2311302110e.md",
+    "2311302054e.md",
     "2311292118.md",
     "excalibrain.md",
     "2312040133.md",
@@ -243,8 +220,6 @@
     "nodes/2310110036.md",
     "nodes/2311062159.md",
     "2311300113e.md",
-    "2311302110e.md",
-    "2311302054e.md",
     "2311282347.md",
     "2311142324.md",
     "2311282258.md",
