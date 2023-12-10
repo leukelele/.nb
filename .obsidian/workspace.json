@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2312050358.md",
+                "file": "excalibrain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2312050358.md",
+                "file": "excalibrain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,14 +189,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ee47075d9b945456",
+  "active": "8c9fd5b5b79e5b46",
   "lastOpenFiles": [
+    "2312050358.md",
     "Pasted image 20231205171739.png",
     "Pasted image 20231205171649.png",
     "2312050359.md",
     "2312050318.md",
     "2312050312.md",
-    "2312050358.md",
     "2312040141.md",
     "2312040133.md",
     "nodes/2310110036.md",
@@ -228,7 +228,6 @@
     "Pasted image 20231011013735.png",
     "attachments/202302271449.pdf",
     "networks.rnote",
-    "attachments/2023-09-22T23:37:18,791417517-05:00.png",
     "nodes/intro-to-modern-RE-practices.canvas",
     "nodes/intro-to-ins.canvas",
     "attachments/202303011618.pdf",
