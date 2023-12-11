@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e15432db17dd4999",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2312101725.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -116,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2312101730e.md",
+                "file": "2312101725.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2312101730e.md",
+                "file": "2312101725.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,49 +177,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "floating": {
-    "id": "66ce19d3d8611365",
-    "type": "floating",
-    "children": [
-      {
-        "id": "2fdcaf13293abd70",
-        "type": "window",
-        "children": [
-          {
-            "id": "65e8e80f3bfb6719",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "144b1917bf413bfb",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "2312101730e.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 33,
-        "y": 81,
-        "width": 1398,
-        "height": 810,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "144b1917bf413bfb",
+  "active": "e15432db17dd4999",
   "lastOpenFiles": [
-    "nodes/2310131727.md",
     "2312101730e.md",
     "2312101725.md",
+    "nodes/2310131727.md",
+    "2304111930.md",
     "2312101651.md",
     "2312101730.md",
-    "2304111930.md",
     "nodes/2309301759.md",
     "nodes/2309261828.md",
     "nodes/2310112302.md",
