@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2312101959.md",
+                "file": "2312102015.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2312101959.md",
+                "file": "2312102015.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2312101959.md",
+                "file": "2312102015.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,10 +165,12 @@
   },
   "active": "676d5e4542da3318",
   "lastOpenFiles": [
+    "2312101959.md",
+    "2312102015.md",
+    "Pasted image 20231210201525.png",
     "Pasted image 20231210201103.png",
     "Pasted image 20231210200001.png",
     "2312101945.md",
-    "2312101959.md",
     "nodes/2310131727.md",
     "2312101725.md",
     "2312101836.md",
@@ -199,8 +201,6 @@
     "attachments/2310112328i.png",
     "attachments/2310112310i.png",
     "attachments/2310110138i.png",
-    "attachments/2309161115i.png",
-    "attachments/2023-10-11T23:10:43,543380379-05:00.png",
     "attachments/202302271449.pdf",
     "networks.rnote",
     "nodes/intro-to-modern-RE-practices.canvas",
