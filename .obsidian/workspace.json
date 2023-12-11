@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2312102015.md",
+                "file": "2312102108.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7ab26baeec6b4ebf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2311282347.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -116,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2312102015.md",
+                "file": "2312102108.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2312102015.md",
+                "file": "2312102108.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,8 +178,11 @@
   },
   "active": "676d5e4542da3318",
   "lastOpenFiles": [
-    "2312101959.md",
+    "2311282347.md",
+    "2312101651.md",
+    "2312102108.md",
     "2312102015.md",
+    "2312101959.md",
     "Pasted image 20231210201525.png",
     "Pasted image 20231210201103.png",
     "Pasted image 20231210200001.png",
@@ -176,14 +192,12 @@
     "2312101836.md",
     "2312101730e.md",
     "2304111930.md",
-    "2312101651.md",
     "2312101730.md",
     "nodes/2309301759.md",
     "nodes/2309261828.md",
     "nodes/2310112302.md",
     "2311302110e.md",
     "2311292137.md",
-    "2311282347.md",
     "2311292101.md",
     "2311302331.md",
     "2312101613e.md",
@@ -195,7 +209,6 @@
     "2312050359.md",
     "Pasted image 20231205171649.png",
     "Pasted image 20231205171739.png",
-    "2312050358.md",
     "attachments/2310141158i.png",
     "attachments/2309222338i.png",
     "attachments/2310112328i.png",
