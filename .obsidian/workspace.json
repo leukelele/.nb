@@ -4,50 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "396e9efa559e4d6f",
+        "id": "37775b9fe9c6598e",
         "type": "tabs",
         "children": [
           {
-            "id": "240a300f33a751f9",
+            "id": "676d5e4542da3318",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "nodes/2310131727.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e15432db17dd4999",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2312101725.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1e69dfca2fd49ad9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2312101836.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -143,7 +111,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2312101836.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +127,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2312101836.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,12 +156,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1e69dfca2fd49ad9",
+  "active": "676d5e4542da3318",
   "lastOpenFiles": [
-    "2312101836.md",
-    "2312101725.md",
-    "2312101730e.md",
     "nodes/2310131727.md",
+    "2312101725.md",
+    "2312101836.md",
+    "2312101730e.md",
     "2304111930.md",
     "2312101651.md",
     "2312101730.md",
