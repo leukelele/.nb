@@ -8,25 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "676d5e4542da3318",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2312102239.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7ab26baeec6b4ebf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2311282347.md",
+                "file": "nodes/2310110109.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -129,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "excalibrain.md",
+                "file": "nodes/2310110109.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "excalibrain.md",
+                "file": "nodes/2310110109.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,14 +163,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9cb035ca154a5fd5",
+  "active": "7ab26baeec6b4ebf",
   "lastOpenFiles": [
+    "2311282347.md",
     "2312102239.md",
+    "excalibrain.md",
     "2312102126.md",
     "2312102125.md",
     "Pasted image 20231210212502.png",
     "2312102108.md",
-    "2311282347.md",
     "2312101651.md",
     "2312102015.md",
     "2312101959.md",
@@ -207,7 +195,6 @@
     "2312101613e.md",
     "2311302054e.md",
     "2311292118.md",
-    "excalibrain.md",
     "Pasted image 20231205171649.png",
     "Pasted image 20231205171739.png",
     "attachments/2310141158i.png",
