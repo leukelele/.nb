@@ -127,16 +127,18 @@ var TrashFilesModal = class extends import_obsidian2.Modal {
       div.createEl("p", {
         cls: "trash-modal-link",
         text: file.path
-      }).addEventListener("click", (e) => __async(this, null, function* () {
+      }).addEventListener("click", () => __async(this, null, function* () {
         this.close();
         yield this.app.workspace.activeLeaf.openFile(file);
       }));
     });
     contentEl.createEl("button", {
+      cls: ["trash-modal-button"],
       text: "Cancel"
     }).addEventListener("click", () => this.close());
     contentEl.createEl("button", {
-      text: "Copy to clipboard"
+      cls: ["trash-modal-button"],
+      text: "Copy list to clipboard"
     }).addEventListener("click", () => __async(this, null, function* () {
       yield navigator.clipboard.writeText(this.files.map((file) => file.path).join("\n"));
       new import_obsidian2.Notice("Copied list to clipboard");
@@ -196,10 +198,11 @@ var NukeOrphansPlugin = class extends import_obsidian3.Plugin {
   }
   isAttachment(file) {
     return this.getAttachmentsPaths().some((element) => {
-      if (element.startsWith("./") && file.parent.name == element.substring(2))
-        return true;
       if (file.parent.path == element)
         return true;
+      if (file.path.startsWith(element))
+        return true;
+      return false;
     });
   }
   getCanvasLinks() {
@@ -224,7 +227,11 @@ var NukeOrphansPlugin = class extends import_obsidian3.Plugin {
       const canvasLinks = yield this.getCanvasLinks();
       const filter = this.getIgnoreFilter();
       return this.app.vault.getFiles().filter((file) => {
-        return ![links.has(file.path), canvasLinks.has(file.path), filter.test(file.path)].some((x) => x === true);
+        return ![
+          links.has(file.path),
+          canvasLinks.has(file.path),
+          filter.test(file.path)
+        ].some((x) => x === true);
       });
     });
   }

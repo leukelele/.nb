@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2312102126.md",
+                "file": "nodes/2310110036.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fbfa98dfa97865ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2311142324.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,11 +39,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2312102108.md",
+                "file": "2401031834.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
+            }
+          },
+          {
+            "id": "23e637dd065594b8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -128,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2312102126.md",
+                "file": "nodes/2310110036.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2312102126.md",
+                "file": "nodes/2310110036.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,14 +186,29 @@
       "templates:Insert template": true,
       "command-palette:Open command palette": true,
       "workspaces:Manage workspace layouts": true,
-      "zk-prefixer:Create new unique note": true
+      "zk-prefixer:Create new unique note": true,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "advanced-random-note:Open random note modal": false,
+      "privacy-glasses:Hide all": false,
+      "privacy-glasses:Reveal non-private": false,
+      "privacy-glasses:Reveal headlines only": false,
+      "privacy-glasses:Reveal all": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "7ab26baeec6b4ebf",
   "lastOpenFiles": [
+    "nodes/2305192328.md",
+    "2310170117.md",
+    "2311142324.md",
+    "nodes/2311062138.md",
+    "2401031834.md",
+    "2312102108.md",
+    "2310030434.md",
+    "2304111930.md",
     "excalibrain.md",
     "2312102126.md",
-    "2312102108.md",
     "nodes/2310110109.md",
     "2311282347.md",
     "2312102239.md",
@@ -189,17 +225,10 @@
     "2312101725.md",
     "2312101836.md",
     "2312101730e.md",
-    "2304111930.md",
     "2312101730.md",
     "nodes/2309301759.md",
     "nodes/2309261828.md",
     "nodes/2310112302.md",
-    "2311302110e.md",
-    "2311292137.md",
-    "2311292101.md",
-    "2311302331.md",
-    "2312101613e.md",
-    "2311302054e.md",
     "Pasted image 20231205171649.png",
     "Pasted image 20231205171739.png",
     "attachments/2310141158i.png",
