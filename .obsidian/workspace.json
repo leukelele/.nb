@@ -13,20 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2310170117.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fbfa98dfa97865ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2311142324.md",
+                "file": "2310252130.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -46,7 +33,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -141,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2310170117.md",
+                "file": "2401031834.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,13 +146,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2310170117.md",
+                "file": "2401031834.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -189,9 +178,21 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "7ab26baeec6b4ebf",
+  "active": "86c8dbcb0c52df37",
   "lastOpenFiles": [
+    "2310252130.md",
+    "nodes/2310170044.md",
+    "excalibrain.md",
+    "2310231947.md",
+    "2310210012.md",
+    "nodes/2310092050.md",
     "2310030434.md",
+    "nodes/2310170117.md",
+    "2311162319.md",
+    "nodes/2311062353.md",
+    "nodes/2311062138.md",
+    "2401031834.md",
+    "2311142324.md",
     "2304111930.md",
     "nodes/2310110036.md",
     "nodes/2305222049.md",
@@ -199,28 +200,16 @@
     "nodes/2305192328.md",
     "nodes/2310011600.md",
     "nodes/2310011532.md",
-    "2311142324.md",
-    "2401031834.md",
     "nodes/2310010036.md",
     "attachments/2310010036e.md",
-    "2310170117.md",
-    "nodes/2311062138.md",
     "2312102108.md",
-    "excalibrain.md",
     "2312102126.md",
     "nodes/2310110109.md",
     "2311282347.md",
-    "2312102239.md",
-    "2312102125.md",
     "Pasted image 20231210212502.png",
-    "2312101651.md",
-    "2312102015.md",
-    "2312101959.md",
     "Pasted image 20231210201525.png",
     "Pasted image 20231210201103.png",
     "Pasted image 20231210200001.png",
-    "2312101945.md",
-    "nodes/2310131727.md",
     "Pasted image 20231205171649.png",
     "Pasted image 20231205171739.png",
     "attachments/2310141158i.png",
