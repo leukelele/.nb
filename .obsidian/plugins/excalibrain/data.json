@@ -224,7 +224,6 @@
     "Next": {}
   },
   "navigationHistory": [
-    "nodes/2310041631.md",
     "nodes/2310041610.md",
     "2310112337.md",
     "2304250223.md",
@@ -273,7 +272,8 @@
     "2312050359.md",
     "2311292137.md",
     "2311302331.md",
-    "2312040133.md"
+    "2312040133.md",
+    "2304111930.md"
   ],
   "allowOntologySuggester": true,
   "ontologySuggesterParentTrigger": "::p",
