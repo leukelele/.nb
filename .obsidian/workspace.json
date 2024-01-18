@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2310252130.md",
+                "file": "nodes/2310252130.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2401031834.md",
+                "file": "2304111930.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2401031834.md",
+                "file": "excalibrain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,14 +146,13 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2401031834.md",
+                "file": "excalibrain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -178,34 +177,34 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "86c8dbcb0c52df37",
+  "active": "9cb035ca154a5fd5",
   "lastOpenFiles": [
-    "2310252130.md",
-    "nodes/2310170044.md",
+    "2304111930.md",
+    "2312102126.md",
+    "2312102108.md",
+    "2311282338.md",
+    "2311282347.md",
+    "2311282258e.md",
+    "2311282258.md",
+    "2311270024.md",
+    "2311162319.md",
+    "2311270010.md",
+    "2311142324.md",
+    "2311070013.md",
+    "2311062359.md",
+    "2311052139.md",
+    "2310252239.md",
+    "2310252210.md",
+    "2310252135.md",
     "excalibrain.md",
     "2310231947.md",
-    "2310210012.md",
-    "nodes/2310092050.md",
     "2310030434.md",
-    "nodes/2310170117.md",
-    "2311162319.md",
-    "nodes/2311062353.md",
-    "nodes/2311062138.md",
+    "nodes/2310252130.md",
+    "2310210012.md",
     "2401031834.md",
-    "2311142324.md",
-    "2304111930.md",
-    "nodes/2310110036.md",
-    "nodes/2305222049.md",
-    "nodes/2308200227.md",
-    "nodes/2305192328.md",
-    "nodes/2310011600.md",
-    "nodes/2310011532.md",
-    "nodes/2310010036.md",
-    "attachments/2310010036e.md",
-    "2312102108.md",
-    "2312102126.md",
-    "nodes/2310110109.md",
-    "2311282347.md",
+    "nodes/2310170044.md",
+    "nodes/2310092050.md",
+    "nodes/2310170117.md",
     "Pasted image 20231210212502.png",
     "Pasted image 20231210201525.png",
     "Pasted image 20231210201103.png",
