@@ -58,7 +58,8 @@ var import_obsidian = __toModule(require("obsidian"));
 var DEFAULT_SETTINGS = {
   attachmentsPaths: [],
   trashFolderOverride: "",
-  ignorePatterns: []
+  ignorePatterns: [],
+  alternativeAttachmentAlg: false
 };
 var CSS_CLASS_CHECK_PASS = "nuke-orphans-pass";
 var CSS_CLASS_CHECK_FAIL = "nuke-orphans-fail";
@@ -104,6 +105,16 @@ var NukeOrphansSettingsTab = class extends import_obsidian.PluginSettingTab {
       text.inputEl.addEventListener("focusout", () => resetColor());
       text.inputEl.addEventListener("focusin", () => text.onChanged());
     });
+    containerEl.createEl("h3", {
+      attr: {
+        style: "font-weight: bold"
+      },
+      text: "Advanced Settings"
+    });
+    new import_obsidian.Setting(containerEl).setName("Alternative Attachments Finding Algorithm").setDesc("Try enabling this if attachments are not found in subfolders").addToggle((btn) => btn.setValue(this.plugin.settings.alternativeAttachmentAlg).onChange((value) => __async(this, null, function* () {
+      this.plugin.settings.alternativeAttachmentAlg = value;
+      yield this.plugin.saveSettings();
+    })));
   }
 };
 
@@ -168,20 +179,21 @@ var TrashFilesModal = class extends import_obsidian2.Modal {
 };
 
 // src/main.ts
-var RegexFilter = class {
-  constructor(ignoredPaths) {
-    this.regexes = new Set(ignoredPaths.map((x) => RegExp(x)));
+var CustomFilter = class {
+  constructor(regexes, strings) {
+    this.regexes = new Set(regexes.map((x) => RegExp(x)));
+    this.strings = new Set(strings);
   }
   test(input) {
-    return Array.from(this.regexes).some((x) => x.test(input));
+    return Array.from(this.regexes).some((x) => x.test(input)) || Array.from(this.strings).some((x) => x === input);
   }
 };
 var NukeOrphansPlugin = class extends import_obsidian3.Plugin {
   getIgnoreFilter() {
-    let patterns = [...this.settings.ignorePatterns];
+    let strings = [];
     if (this.settings.trashFolderOverride.length > 0)
-      patterns.push("^" + this.settings.trashFolderOverride);
-    return new RegexFilter(patterns);
+      strings.push(this.settings.trashFolderOverride);
+    return new CustomFilter(this.settings.ignorePatterns, strings);
   }
   shouldUseSystemTrash() {
     switch (this.app.vault.config.trashOption) {
@@ -198,10 +210,24 @@ var NukeOrphansPlugin = class extends import_obsidian3.Plugin {
   }
   isAttachment(file) {
     return this.getAttachmentsPaths().some((element) => {
-      if (file.parent.path == element)
-        return true;
-      if (file.path.startsWith(element))
-        return true;
+      console.log(file.path);
+      if (element.startsWith("./")) {
+        if (this.settings.alternativeAttachmentAlg) {
+          let path2 = file.parent;
+          while (path2.name !== void 0 && path2.name.length > 0) {
+            if (path2.name == element.substring(2))
+              return true;
+            path2 = path2.parent;
+          }
+        } else {
+          return file.path.startsWith(element.substring(2)) || file.path.contains(element.substring(1) + "/");
+        }
+      } else {
+        if (file.parent.path == element)
+          return true;
+        if (file.path.startsWith(element))
+          return true;
+      }
       return false;
     });
   }
@@ -248,21 +274,24 @@ var NukeOrphansPlugin = class extends import_obsidian3.Plugin {
         id: "nuke-orphaned-attachments",
         name: "Trash orphaned attachments",
         callback: () => __async(this, null, function* () {
-          return this.trash((yield this.getOrphans()).filter((file) => this.isAttachment(file)));
+          new import_obsidian3.Notice("Gathering orphaned attachments..");
+          this.trash((yield this.getOrphans()).filter((file) => this.isAttachment(file)));
         })
       });
       this.addCommand({
         id: "nuke-orphaned-notes",
         name: "Trash orphaned notes",
         callback: () => __async(this, null, function* () {
-          return this.trash((yield this.getOrphans()).filter((file) => file.extension === "md"));
+          new import_obsidian3.Notice("Gathering orphaned notes..");
+          this.trash((yield this.getOrphans()).filter((file) => file.extension === "md"));
         })
       });
       this.addCommand({
         id: "nuke-orphaned",
         name: "Trash orphaned files",
         callback: () => __async(this, null, function* () {
-          return this.trash(yield this.getOrphans());
+          new import_obsidian3.Notice("Gathering orphaned files..");
+          this.trash(yield this.getOrphans());
         })
       });
       this.addSettingTab(new NukeOrphansSettingsTab(this.app, this));

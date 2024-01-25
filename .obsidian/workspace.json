@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2401231622.md",
+                "file": "2401251617.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "excalibrain.md",
+                "file": "2401251617.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "excalibrain.md",
+                "file": "2401251617.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 496.5
+    "width": 467.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,22 +168,23 @@
       "command-palette:Open command palette": true,
       "workspaces:Manage workspace layouts": true,
       "zk-prefixer:Create new unique note": true,
-      "obsidian-spaced-repetition:Review flashcards": false,
       "advanced-random-note:Open random note modal": false,
       "privacy-glasses:Hide all": false,
       "privacy-glasses:Reveal non-private": false,
       "privacy-glasses:Reveal headlines only": false,
       "privacy-glasses:Reveal all": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9cb035ca154a5fd5",
+  "active": "86c8dbcb0c52df37",
   "lastOpenFiles": [
+    "excalibrain.md",
+    "2401251617.md",
     "2401231622.md",
     "nodes/2310252130.md",
     "2401181715.md",
-    "excalibrain.md",
     "2304111930.md",
     "2401181714.md",
     "2312102126.md",
@@ -205,7 +206,6 @@
     "2310231947.md",
     "2310030434.md",
     "2310210012.md",
-    "2401031834.md",
     "Pasted image 20231210212502.png",
     "Pasted image 20231210201525.png",
     "Pasted image 20231210201103.png",
