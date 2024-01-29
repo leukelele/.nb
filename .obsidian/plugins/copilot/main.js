@@ -27963,39 +27963,65 @@ var require_implementation = __commonJS({
   "node_modules/function-bind/implementation.js"(exports, module2) {
     "use strict";
     var ERROR_MESSAGE = "Function.prototype.bind called on incompatible ";
-    var slice = Array.prototype.slice;
     var toStr = Object.prototype.toString;
+    var max = Math.max;
     var funcType = "[object Function]";
+    var concatty = function concatty2(a2, b) {
+      var arr = [];
+      for (var i = 0; i < a2.length; i += 1) {
+        arr[i] = a2[i];
+      }
+      for (var j = 0; j < b.length; j += 1) {
+        arr[j + a2.length] = b[j];
+      }
+      return arr;
+    };
+    var slicy = function slicy2(arrLike, offset) {
+      var arr = [];
+      for (var i = offset || 0, j = 0; i < arrLike.length; i += 1, j += 1) {
+        arr[j] = arrLike[i];
+      }
+      return arr;
+    };
+    var joiny = function(arr, joiner) {
+      var str2 = "";
+      for (var i = 0; i < arr.length; i += 1) {
+        str2 += arr[i];
+        if (i + 1 < arr.length) {
+          str2 += joiner;
+        }
+      }
+      return str2;
+    };
     module2.exports = function bind2(that) {
       var target = this;
-      if (typeof target !== "function" || toStr.call(target) !== funcType) {
+      if (typeof target !== "function" || toStr.apply(target) !== funcType) {
         throw new TypeError(ERROR_MESSAGE + target);
       }
-      var args = slice.call(arguments, 1);
+      var args = slicy(arguments, 1);
       var bound;
       var binder = function() {
         if (this instanceof bound) {
           var result = target.apply(
             this,
-            args.concat(slice.call(arguments))
+            concatty(args, arguments)
           );
           if (Object(result) === result) {
             return result;
           }
           return this;
-        } else {
-          return target.apply(
-            that,
-            args.concat(slice.call(arguments))
-          );
         }
+        return target.apply(
+          that,
+          concatty(args, arguments)
+        );
       };
-      var boundLength = Math.max(0, target.length - args.length);
+      var boundLength = max(0, target.length - args.length);
       var boundArgs = [];
       for (var i = 0; i < boundLength; i++) {
-        boundArgs.push("$" + i);
+        boundArgs[i] = "$" + i;
       }
-      bound = Function("binder", "return function (" + boundArgs.join(",") + "){ return binder.apply(this,arguments); }")(binder);
+      bound = Function("binder", "return function (" + joiny(boundArgs, ",") + "){ return binder.apply(this,arguments); }")(binder);
       if (target.prototype) {
         var Empty = function Empty2() {
         };
@@ -64753,7 +64779,7 @@ var DISPLAY_NAME_TO_MODEL = {
   ["GPT-3.5" /* GPT_35_TURBO */]: "gpt-3.5-turbo" /* GPT_35_TURBO */,
   ["GPT-3.5 16K" /* GPT_35_TURBO_16K */]: "gpt-3.5-turbo-16k" /* GPT_35_TURBO_16K */,
   ["GPT-4" /* GPT_4 */]: "gpt-4" /* GPT_4 */,
-  ["GPT-4 TURBO" /* GPT_4_TURBO */]: "gpt-4-1106-preview" /* GPT_4_TURBO */,
+  ["GPT-4 TURBO" /* GPT_4_TURBO */]: "gpt-4-turbo-preview" /* GPT_4_TURBO */,
   ["GPT-4 32K" /* GPT_4_32K */]: "gpt-4-32k" /* GPT_4_32K */,
   ["AZURE GPT-3.5" /* AZURE_GPT_35_TURBO */]: "gpt-35-turbo" /* AZURE_GPT_35_TURBO */,
   ["AZURE GPT-3.5-16K" /* AZURE_GPT_35_TURBO_16K */]: "gpt-35-turbo-16k" /* AZURE_GPT_35_TURBO_16K */,
@@ -64766,6 +64792,14 @@ var EMBEDDING_PROVIDERS = [
   "azure_openai" /* AZURE_OPENAI */,
   "cohereai" /* COHEREAI */,
   "huggingface" /* HUGGINGFACE */
+];
+var ADA_V2 = "text-embedding-ada-002";
+var OPENAI_EMBEDDING_SMALL = "text-embedding-3-small";
+var OPENAI_EMBEDDING_LARGE = "text-embedding-3-large";
+var OPENAI_EMBEDDING_MODELS = [
+  ADA_V2,
+  OPENAI_EMBEDDING_SMALL,
+  OPENAI_EMBEDDING_LARGE
 ];
 var DEFAULT_SETTINGS = {
   openAIApiKey: "",
@@ -64780,8 +64814,9 @@ var DEFAULT_SETTINGS = {
   googleApiKey: "",
   openRouterAiApiKey: "",
   openRouterModel: "cognitivecomputations/dolphin-mixtral-8x7b",
-  defaultModel: "gpt-4-1106-preview" /* GPT_4_TURBO */,
+  defaultModel: "gpt-4-turbo-preview" /* GPT_4_TURBO */,
   defaultModelDisplayName: "GPT-4 TURBO" /* GPT_4_TURBO */,
+  embeddingModel: OPENAI_EMBEDDING_SMALL,
   temperature: 0.1,
   maxTokens: 1e3,
   contextTurns: 15,
@@ -64794,11 +64829,27 @@ var DEFAULT_SETTINGS = {
   stream: true,
   embeddingProvider: "openai" /* OPENAI */,
   defaultSaveFolder: "copilot-conversations",
+  chatNoteContextPath: "",
   debug: false
 };
 
 // src/utils.ts
 var import_moment = __toESM(require_moment());
+var isFolderMatch = (fileFullpath, inputPath) => {
+  const fileSegments = fileFullpath.split("/").map((segment) => segment.toLowerCase());
+  return fileSegments.includes(inputPath.toLowerCase());
+};
+var getNotesFromPath = async (vault, path2) => {
+  const files = await vault.getMarkdownFiles();
+  if (path2 === "/") {
+    return files;
+  }
+  const pathSegments = path2.split("/");
+  const lastSegment = pathSegments[pathSegments.length - 1].toLowerCase();
+  return files.filter((file) => {
+    return isFolderMatch(file.path, lastSegment) || file.basename === lastSegment;
+  });
+};
 var stringToChainType = (chain) => {
   switch (chain) {
     case "llm_chain":
@@ -64831,7 +64882,7 @@ var formatDateTime = (now, timezone = "local") => {
 async function getFileContent(file) {
   if (file.extension != "md")
     return null;
-  return await this.app.vault.read(file);
+  return await this.app.vault.cachedRead(file);
 }
 function getFileName(file) {
   return file.basename;
@@ -64846,17 +64897,23 @@ function sanitizeSettings(settings) {
   sanitizedSettings.contextTurns = isNaN(contextTurns) ? DEFAULT_SETTINGS.contextTurns : contextTurns;
   return sanitizedSettings;
 }
-function sendNoteContentPrompt(noteName, noteContent) {
-  return `Please read the note below and be ready to answer questions about it. If there's no information about a certain topic, just say the note does not mention it. The content of the note is between "/***/":
+function sendNotesContentPrompt(notes) {
+  return `Please read the notes below and be ready to answer questions about them. If there's no information about a certain topic, just say the note does not mention it. The content of the note is between "/***/":
 
 /***/
 
-${noteContent}
+${JSON.stringify(notes)}
 
 /***/
 
-Please reply with the following word for word:"OK I've read this note titled [[ ${noteName} ]]. Feel free to ask related questions, such as 'give me a summary of this note in bullet points', 'what key questions does it answer', etc. "
+Please reply with the following word for word:"OK I've read these notes. Feel free to ask related questions, such as 'give me a summary of these notes in bullet points', 'what key questions does these notes answer', etc. "
 `;
+}
+function getSendChatContextNotesPrompt(notes) {
+  const noteTitles = notes.map((note) => `[[${note.name}]]`).join("\n\n");
+  return `Please read the notes below and be ready to answer questions about them. 
+
+${noteTitles}`;
 }
 function fixGrammarSpellingSelectionPrompt(selectedText) {
   return `Please fix the grammar and spelling of the following text and return it without any other changes:
@@ -64937,6 +64994,16 @@ ${selectedText}`;
 function createChangeToneSelectionPrompt(tone) {
   return (selectedText) => {
     return `Please change the tone of the following text to ${tone}. Output in the same language as the source, do not output English if it is not English:
+
+${selectedText}`;
+  };
+}
+function createAdhocSelectionPrompt(adhocPrompt) {
+  return (selectedText) => {
+    if (!adhocPrompt) {
+      return selectedText;
+    }
+    return `${adhocPrompt}.
 
 ${selectedText}`;
   };
@@ -73390,21 +73457,27 @@ var EmbeddingManager = class {
       azureOpenAIApiEmbeddingDeploymentName,
       openAIProxyBaseUrl
     } = this.langChainParams;
-    const OpenAIEmbeddingsAPI = openAIProxyBaseUrl ? new ProxyOpenAIEmbeddings({
+    const OpenAIEmbeddingsAPI = openAIApiKey ? openAIProxyBaseUrl ? new ProxyOpenAIEmbeddings({
+      modelName: this.langChainParams.embeddingModel,
       openAIApiKey,
       maxRetries: 3,
       maxConcurrency: 3,
       timeout: 1e4,
       openAIProxyBaseUrl
     }) : new OpenAIEmbeddings({
+      modelName: this.langChainParams.embeddingModel,
       openAIApiKey,
       maxRetries: 3,
       maxConcurrency: 3,
       timeout: 1e4
-    });
+    }) : null;
     switch (this.langChainParams.embeddingProvider) {
       case "openai" /* OPENAI */:
-        return OpenAIEmbeddingsAPI;
+        if (OpenAIEmbeddingsAPI) {
+          return OpenAIEmbeddingsAPI;
+        }
+        console.error("OpenAI API key is not provided for the embedding model.");
+        break;
       case "huggingface" /* HUGGINGFACE */:
         return new HuggingFaceInferenceEmbeddings({
           apiKey: this.langChainParams.huggingfaceApiKey,
@@ -73418,17 +73491,27 @@ var EmbeddingManager = class {
           maxConcurrency: 3
         });
       case "azure_openai" /* AZURE_OPENAI */:
-        return new OpenAIEmbeddings({
-          azureOpenAIApiKey,
-          azureOpenAIApiInstanceName,
-          azureOpenAIApiDeploymentName: azureOpenAIApiEmbeddingDeploymentName,
-          azureOpenAIApiVersion,
-          maxRetries: 3,
-          maxConcurrency: 3
-        });
+        if (azureOpenAIApiKey) {
+          return new OpenAIEmbeddings({
+            azureOpenAIApiKey,
+            azureOpenAIApiInstanceName,
+            azureOpenAIApiDeploymentName: azureOpenAIApiEmbeddingDeploymentName,
+            azureOpenAIApiVersion,
+            maxRetries: 3,
+            maxConcurrency: 3
+          });
+        }
+        console.error("Azure OpenAI API key is not provided for the embedding model.");
+        break;
       default:
-        console.error("No embedding provider set. Using OpenAI.");
-        return OpenAIEmbeddingsAPI;
+        console.error("No embedding provider set or no valid API key provided. Defaulting to OpenAI.");
+        return OpenAIEmbeddingsAPI || new OpenAIEmbeddings({
+          modelName: this.langChainParams.embeddingModel,
+          openAIApiKey: "default-key",
+          maxRetries: 3,
+          maxConcurrency: 3,
+          timeout: 1e4
+        });
     }
   }
 };
@@ -73715,7 +73798,6 @@ var _ChainManager = class {
     this.memoryManager = MemoryManager.getInstance(this.langChainParams);
     this.chatModelManager = ChatModelManager.getInstance(this.langChainParams);
     this.promptManager = PromptManager.getInstance(this.langChainParams);
-    this.embeddingsManager = EmbeddingManager.getInstance(this.langChainParams);
     this.createChainWithNewModel(this.langChainParams.modelDisplayName);
   }
   setNoteContent(noteContent) {
@@ -73777,10 +73859,12 @@ var _ChainManager = class {
       return;
     }
     this.validateChainType(chainType);
+    if (chainType === "retrieval_qa" /* RETRIEVAL_QA_CHAIN */) {
+      this.embeddingsManager = EmbeddingManager.getInstance(this.langChainParams);
+    }
     const chatModel = this.chatModelManager.getChatModel();
     const memory = this.memoryManager.getMemory();
     const chatPrompt = this.promptManager.getChatPrompt();
-    const embeddingsAPI = this.embeddingsManager.getEmbeddingsAPI();
     switch (chainType) {
       case "llm_chain" /* LLM_CHAIN */: {
         if (options.forceNewCreation) {
@@ -73815,6 +73899,11 @@ var _ChainManager = class {
         const docHash = vectorDBManager_default.getDocumentHash(options.noteContent);
         const parsedMemoryVectors = await vectorDBManager_default.getMemoryVectors(docHash);
         if (parsedMemoryVectors) {
+          const embeddingsAPI = this.embeddingsManager.getEmbeddingsAPI();
+          if (!embeddingsAPI) {
+            console.error("Error getting embeddings API. Please check your settings.");
+            return;
+          }
           const vectorStore = await vectorDBManager_default.rebuildMemoryVectorStore(
             parsedMemoryVectors,
             embeddingsAPI
@@ -73993,11 +74082,17 @@ chat context turns: ${chatContextTurns}
     return fullAIResponse;
   }
   async buildIndex(noteContent, docHash) {
-    const textSplitter = new RecursiveCharacterTextSplitter({ chunkSize: 1e3 });
-    const docs = await textSplitter.createDocuments([noteContent]);
-    const embeddingsAPI = this.embeddingsManager.getEmbeddingsAPI();
     console.log("Creating vector store...");
     try {
+      const textSplitter = new RecursiveCharacterTextSplitter({ chunkSize: 1e3 });
+      const docs = await textSplitter.createDocuments([noteContent]);
+      const embeddingsAPI = this.embeddingsManager.getEmbeddingsAPI();
+      if (!embeddingsAPI) {
+        const errorMsg = "Failed to create vector store, embedding API is not set correctly, please check your settings.";
+        new import_obsidian2.Notice(errorMsg);
+        console.error(errorMsg);
+        return;
+      }
       this.vectorStore = await MemoryVectorStore.fromDocuments(
         docs,
         embeddingsAPI
@@ -74021,20 +74116,20 @@ var AddPromptModal = class extends import_obsidian3.Modal {
   constructor(app2, onSave, initialTitle = "", initialPrompt = "", disabledTitle) {
     super(app2);
     this.contentEl.createEl("h2", { text: "User Custom Prompt" });
-    const formContainer = this.contentEl.createEl("div", { cls: "custom-prompt-modal" });
+    const formContainer = this.contentEl.createEl("div", { cls: "copilot-command-modal" });
     const titleContainer = formContainer.createEl(
       "div",
-      { cls: "custom-prompt-input-container" }
+      { cls: "copilot-command-input-container" }
     );
     titleContainer.createEl(
       "h3",
-      { text: "Title", cls: "custom-prompt-header" }
+      { text: "Title", cls: "copilot-command-header" }
     );
     titleContainer.createEl(
       "p",
       {
         text: "The title of the prompt, must be unique.",
-        cls: "custom-prompt-description"
+        cls: "copilot-command-input-description"
       }
     );
     const titleField = titleContainer.createEl("input", { type: "text" });
@@ -74046,17 +74141,17 @@ var AddPromptModal = class extends import_obsidian3.Modal {
     }
     const promptContainer = formContainer.createEl(
       "div",
-      { cls: "custom-prompt-input-container" }
+      { cls: "copilot-command-input-container" }
     );
     promptContainer.createEl(
       "h3",
-      { text: "Prompt", cls: "custom-prompt-header" }
+      { text: "Prompt", cls: "copilot-command-header" }
     );
     promptContainer.createEl(
       "p",
       {
         text: 'The content of the prompt. Use "{}" to represent the selected text. For example, "Improve the readability of the following text: {}"',
-        cls: "custom-prompt-description"
+        cls: "copilot-command-input-description"
       }
     );
     const promptField = promptContainer.createEl("textarea");
@@ -74078,16 +74173,16 @@ var AddPromptModal = class extends import_obsidian3.Modal {
       frag.appendText(" for inspiration.");
     });
     const descContainer = promptContainer.createEl("p", {
-      cls: "custom-prompt-description"
+      cls: "copilot-command-input-description"
     });
     descContainer.appendChild(descFragment);
     const saveButtonContainer = formContainer.createEl(
       "div",
-      { cls: "custom-prompt-save-btn-container" }
+      { cls: "copilot-command-save-btn-container" }
     );
     const saveButton = saveButtonContainer.createEl(
       "button",
-      { text: "Save", cls: "custom-prompt-save-btn" }
+      { text: "Save", cls: "copilot-command-save-btn" }
     );
     saveButton.addEventListener("click", () => {
       if (titleField.value && promptField.value) {
@@ -74096,6 +74191,86 @@ var AddPromptModal = class extends import_obsidian3.Modal {
       } else {
         new import_obsidian3.Notice("Please fill in both fields: Title and Prompt.");
       }
+    });
+  }
+};
+
+// src/components/AdhocPromptModal.tsx
+var import_obsidian4 = require("obsidian");
+var AdhocPromptModal = class extends import_obsidian4.Modal {
+  constructor(app2, onSubmit) {
+    super(app2);
+    this.placeholderText = "Please enter your custom ad-hoc prompt to process the selection.";
+    this.onSubmit = onSubmit;
+  }
+  onOpen() {
+    const { contentEl } = this;
+    const textareaEl = contentEl.createEl("textarea", { attr: { placeholder: this.placeholderText } });
+    textareaEl.style.width = "100%";
+    textareaEl.style.height = "100px";
+    textareaEl.style.padding = "10px";
+    textareaEl.style.resize = "vertical";
+    textareaEl.addEventListener("input", (evt) => {
+      this.result = evt.target.value;
+    });
+    textareaEl.addEventListener("keydown", (evt) => {
+      if (evt.key === "Enter" && !evt.shiftKey) {
+        evt.preventDefault();
+        this.close();
+        this.onSubmit(this.result);
+      }
+    });
+  }
+  onClose() {
+    const { contentEl } = this;
+    contentEl.empty();
+  }
+};
+
+// src/components/ChatNoteContextModal.tsx
+var import_obsidian5 = require("obsidian");
+var ChatNoteContextModal = class extends import_obsidian5.Modal {
+  constructor(app2, settings, onSubmit) {
+    super(app2);
+    this.settings = settings;
+    this.onSubmit = onSubmit;
+  }
+  onOpen() {
+    const formContainer = this.contentEl.createEl("div", { cls: "copilot-command-modal" });
+    const pathContainer = formContainer.createEl("div", { cls: "copilot-command-input-container" });
+    pathContainer.createEl("h3", { text: "Folder Path", cls: "copilot-command-header" });
+    const descFragment = createFragment((frag) => {
+      frag.appendText("All notes under the path will be sent to the prompt when the ");
+      frag.createEl(
+        "strong",
+        { text: "Send Note(s) to Prompt" }
+      );
+      frag.appendText(" button is clicked in Chat mode. ");
+      frag.appendText("If none provided, ");
+      frag.createEl(
+        "strong",
+        { text: "default context is the active note" }
+      );
+    });
+    pathContainer.appendChild(descFragment);
+    const pathField = pathContainer.createEl(
+      "input",
+      {
+        type: "text",
+        cls: "copilot-command-input",
+        value: this.settings.chatNoteContextPath
+      }
+    );
+    pathField.setAttribute("name", "folderPath");
+    const submitButtonContainer = formContainer.createEl("div", { cls: "copilot-command-save-btn-container" });
+    const submitButton = submitButtonContainer.createEl("button", { text: "Submit", cls: "copilot-command-save-btn" });
+    submitButton.addEventListener("click", () => {
+      let pathValue = pathField.value;
+      if (pathValue.startsWith("/") && pathValue.length > 1) {
+        pathValue = pathValue.slice(1);
+      }
+      this.onSubmit(pathValue);
+      this.close();
     });
   }
 };
@@ -74129,7 +74304,7 @@ function useAIState(chainManager) {
 }
 
 // src/components/ChatComponents/ChatIcons.tsx
-var import_obsidian4 = require("obsidian");
+var import_obsidian6 = require("obsidian");
 var import_react3 = __toESM(require_react());
 
 // src/components/Icons.tsx
@@ -74305,7 +74480,7 @@ var ChatIcons = ({
       }
       const file = app.workspace.getActiveFile();
       if (!file) {
-        new import_obsidian4.Notice("No active note found.");
+        new import_obsidian6.Notice("No active note found.");
         console.error("No active note found.");
         return;
       }
@@ -74358,7 +74533,7 @@ Please note that this is a retrieval-based QA for notes longer than the model co
     },
     /* @__PURE__ */ import_react4.default.createElement("option", { value: "llm_chain" }, "Chat"),
     /* @__PURE__ */ import_react4.default.createElement("option", { value: "retrieval_qa" }, "QA")
-  ), /* @__PURE__ */ import_react4.default.createElement("span", { className: "tooltip-text" }, "Mode Selection"))), selectedChain === "llm_chain" && /* @__PURE__ */ import_react4.default.createElement("button", { className: "chat-icon-button", onClick: onSendActiveNoteToPrompt }, /* @__PURE__ */ import_react4.default.createElement(SendActiveNoteToPromptIcon, { className: "icon-scaler" }), /* @__PURE__ */ import_react4.default.createElement("span", { className: "tooltip-text" }, "Send Active Note to Prompt", /* @__PURE__ */ import_react4.default.createElement("br", null), "(use with long context models)")), selectedChain === "retrieval_qa" && /* @__PURE__ */ import_react4.default.createElement("button", { className: "chat-icon-button", onClick: onForceRebuildActiveNoteContext }, /* @__PURE__ */ import_react4.default.createElement(UseActiveNoteAsContextIcon, { className: "icon-scaler" }), /* @__PURE__ */ import_react4.default.createElement("span", { className: "tooltip-text" }, "Rebuild Index for Active Note")));
+  ), /* @__PURE__ */ import_react4.default.createElement("span", { className: "tooltip-text" }, "Mode Selection"))), selectedChain === "llm_chain" && /* @__PURE__ */ import_react4.default.createElement("button", { className: "chat-icon-button", onClick: onSendActiveNoteToPrompt }, /* @__PURE__ */ import_react4.default.createElement(SendActiveNoteToPromptIcon, { className: "icon-scaler" }), /* @__PURE__ */ import_react4.default.createElement("span", { className: "tooltip-text" }, "Send Note(s) to Prompt", /* @__PURE__ */ import_react4.default.createElement("br", null), "(Set with Copilot command.", /* @__PURE__ */ import_react4.default.createElement("br", null), "Default is active note)")), selectedChain === "retrieval_qa" && /* @__PURE__ */ import_react4.default.createElement("button", { className: "chat-icon-button", onClick: onForceRebuildActiveNoteContext }, /* @__PURE__ */ import_react4.default.createElement(UseActiveNoteAsContextIcon, { className: "icon-scaler" }), /* @__PURE__ */ import_react4.default.createElement("span", { className: "tooltip-text" }, "Rebuild Index for Active Note")));
 };
 var ChatIcons_default = ChatIcons;
 
@@ -83000,7 +83175,7 @@ var React8 = __toESM(require_react());
 var AppContext = React8.createContext(void 0);
 
 // src/langchainStream.ts
-var import_obsidian5 = require("obsidian");
+var import_obsidian7 = require("obsidian");
 var getAIResponse = async (userMessage, chainManager, addMessage, updateCurrentAiMessage, updateShouldAbort, options = {}) => {
   const abortController = new AbortController();
   updateShouldAbort(abortController);
@@ -83014,7 +83189,7 @@ var getAIResponse = async (userMessage, chainManager, addMessage, updateCurrentA
     );
   } catch (error) {
     console.error("Model request failed:", error);
-    new import_obsidian5.Notice("Model request failed:", error);
+    new import_obsidian7.Notice("Model request failed:", error);
   }
 };
 
@@ -83058,14 +83233,16 @@ function useSharedState(sharedState) {
 var sharedState_default = SharedState;
 
 // src/components/Chat.tsx
-var import_obsidian6 = require("obsidian");
+var import_obsidian8 = require("obsidian");
 var import_react12 = __toESM(require_react());
 var Chat3 = ({
   sharedState,
+  settings,
   chainManager,
   emitter,
   getChatVisibility,
   defaultSaveFolder,
+  vault,
   debug: debug2
 }) => {
   const [
@@ -83139,25 +83316,36 @@ var Chat3 = ({
       console.error("App instance is not available.");
       return;
     }
-    const file = app2.workspace.getActiveFile();
-    if (!file) {
-      new import_obsidian6.Notice("No active note found.");
-      console.error("No active note found.");
-      return;
+    let noteFiles = [];
+    if (debug2) {
+      console.log("Chat note context path:", settings.chatNoteContextPath);
     }
-    const noteContent = await getFileContent(file);
-    const noteName = getFileName(file);
-    if (!noteContent) {
-      new import_obsidian6.Notice("No note content found.");
-      console.error("No note content found.");
-      return;
+    if (settings.chatNoteContextPath) {
+      noteFiles = await getNotesFromPath(vault, settings.chatNoteContextPath);
+    }
+    const file = app2.workspace.getActiveFile();
+    if (noteFiles.length === 0) {
+      if (!file) {
+        new import_obsidian8.Notice("No active note found.");
+        console.error("No active note found.");
+        return;
+      }
+      new import_obsidian8.Notice("No valid Chat context provided. Defaulting to the active note.");
+      noteFiles = [file];
+    }
+    const notes = [];
+    for (const file2 of noteFiles) {
+      const content3 = await getFileContent(file2);
+      if (content3) {
+        notes.push({ name: getFileName(file2), content: content3 });
+      }
     }
     const promptMessageHidden = {
-      message: sendNoteContentPrompt(noteName, noteContent),
+      message: sendNotesContentPrompt(notes),
       sender: USER_SENDER,
       isVisible: false
     };
-    const sendNoteContentUserMessage = `Please read this note [[${noteName}]] and be ready to answer questions about it.`;
+    const sendNoteContentUserMessage = getSendChatContextNotesPrompt(notes);
     const promptMessageVisible = {
       message: sendNoteContentUserMessage,
       sender: USER_SENDER,
@@ -83183,14 +83371,14 @@ var Chat3 = ({
     }
     const file = app2.workspace.getActiveFile();
     if (!file) {
-      new import_obsidian6.Notice("No active note found.");
+      new import_obsidian8.Notice("No active note found.");
       console.error("No active note found.");
       return;
     }
     const noteContent = await getFileContent(file);
     const noteName = getFileName(file);
     if (!noteContent) {
-      new import_obsidian6.Notice("No note content found.");
+      new import_obsidian8.Notice("No note content found.");
       console.error("No note content found.");
       return;
     }
@@ -83325,6 +83513,13 @@ var Chat3 = ({
     ),
     []
   );
+  (0, import_react12.useEffect)(
+    createEffect(
+      "applyAdhocPromptSelection",
+      (selectedText, prompt) => createAdhocSelectionPrompt(prompt)(selectedText)
+    ),
+    []
+  );
   return /* @__PURE__ */ import_react12.default.createElement("div", { className: "chat-container" }, /* @__PURE__ */ import_react12.default.createElement(
     ChatMessages_default,
     {
@@ -83365,10 +83560,10 @@ var Chat_default = Chat3;
 
 // src/components/CopilotView.tsx
 var import_events = require("events");
-var import_obsidian7 = require("obsidian");
+var import_obsidian9 = require("obsidian");
 var React10 = __toESM(require_react());
 var import_client3 = __toESM(require_client5());
-var CopilotView = class extends import_obsidian7.ItemView {
+var CopilotView = class extends import_obsidian9.ItemView {
   constructor(leaf, plugin) {
     super(leaf);
     this.plugin = plugin;
@@ -83376,12 +83571,14 @@ var CopilotView = class extends import_obsidian7.ItemView {
     this.debug = false;
     this.userSystemPrompt = "";
     this.sharedState = plugin.sharedState;
+    this.settings = plugin.settings;
     this.app = plugin.app;
     this.chainManager = plugin.chainManager;
     this.debug = plugin.settings.debug;
     this.emitter = new import_events.EventEmitter();
     this.getChatVisibility = this.getChatVisibility.bind(this);
     this.userSystemPrompt = plugin.settings.userSystemPrompt;
+    this.vault = plugin.app.vault;
     this.defaultSaveFolder = plugin.settings.defaultSaveFolder;
   }
   getViewType() {
@@ -83411,10 +83608,12 @@ var CopilotView = class extends import_obsidian7.ItemView {
         Chat_default,
         {
           sharedState: this.sharedState,
+          settings: this.settings,
           chainManager: this.chainManager,
           emitter: this.emitter,
           getChatVisibility: this.getChatVisibility,
           defaultSaveFolder: this.defaultSaveFolder,
+          vault: this.vault,
           debug: this.debug
         }
       )))
@@ -83428,7 +83627,7 @@ var CopilotView = class extends import_obsidian7.ItemView {
 };
 
 // src/components/LanguageModal.tsx
-var import_obsidian8 = require("obsidian");
+var import_obsidian10 = require("obsidian");
 var LANGUAGES = [
   { code: "en", name: "English" },
   { code: "zh", name: "Chinese" },
@@ -83483,7 +83682,7 @@ var LANGUAGES = [
   { code: "pa", name: "Punjabi" },
   { code: "si", name: "Sinhala" }
 ];
-var LanguageModal = class extends import_obsidian8.FuzzySuggestModal {
+var LanguageModal = class extends import_obsidian10.FuzzySuggestModal {
   constructor(app2, onChooseLanguage) {
     super(app2);
     this.onChooseLanguage = onChooseLanguage;
@@ -83500,8 +83699,8 @@ var LanguageModal = class extends import_obsidian8.FuzzySuggestModal {
 };
 
 // src/components/ListPromptModal.tsx
-var import_obsidian9 = require("obsidian");
-var ListPromptModal = class extends import_obsidian9.FuzzySuggestModal {
+var import_obsidian11 = require("obsidian");
+var ListPromptModal = class extends import_obsidian11.FuzzySuggestModal {
   constructor(app2, promptTitles, onChoosePromptTitle) {
     super(app2);
     this.promptTitles = promptTitles;
@@ -83519,7 +83718,7 @@ var ListPromptModal = class extends import_obsidian9.FuzzySuggestModal {
 };
 
 // src/components/ToneModal.tsx
-var import_obsidian10 = require("obsidian");
+var import_obsidian12 = require("obsidian");
 var TONES = [
   "Professional",
   "Casual",
@@ -83527,7 +83726,7 @@ var TONES = [
   "Confident",
   "Friendly"
 ];
-var ToneModal = class extends import_obsidian10.FuzzySuggestModal {
+var ToneModal = class extends import_obsidian12.FuzzySuggestModal {
   constructor(app2, onChooseTone) {
     super(app2);
     this.onChooseTone = onChooseTone;
@@ -83544,12 +83743,12 @@ var ToneModal = class extends import_obsidian10.FuzzySuggestModal {
 };
 
 // src/settings/SettingsPage.tsx
-var import_obsidian12 = require("obsidian");
+var import_obsidian14 = require("obsidian");
 var import_react21 = __toESM(require_react());
 var import_client4 = __toESM(require_client5());
 
 // src/settings/components/SettingsMain.tsx
-var import_obsidian11 = require("obsidian");
+var import_obsidian13 = require("obsidian");
 var import_react20 = __toESM(require_react());
 
 // src/settings/components/AdvancedSettings.tsx
@@ -83696,7 +83895,9 @@ var ApiSettings = ({
   azureOpenAIApiDeploymentName,
   setAzureOpenAIApiDeploymentName,
   azureOpenAIApiVersion,
-  setAzureOpenAIApiVersion
+  setAzureOpenAIApiVersion,
+  azureOpenAIApiEmbeddingDeploymentName,
+  setAzureOpenAIApiEmbeddingDeploymentName
 }) => {
   return /* @__PURE__ */ import_react17.default.createElement("div", null, /* @__PURE__ */ import_react17.default.createElement("br", null), /* @__PURE__ */ import_react17.default.createElement("br", null), /* @__PURE__ */ import_react17.default.createElement("h1", null, "API Settings"), /* @__PURE__ */ import_react17.default.createElement("p", null, "All your API keys are stored locally."), /* @__PURE__ */ import_react17.default.createElement("div", { className: "warning-message" }, "Make sure you have access to the model and the correct API key.", /* @__PURE__ */ import_react17.default.createElement("br", null), "If errors occur, please re-enter the API key, save and reload the plugin to see if it resolves the issue."), /* @__PURE__ */ import_react17.default.createElement("div", null, /* @__PURE__ */ import_react17.default.createElement("div", null, /* @__PURE__ */ import_react17.default.createElement(
     ApiSetting_default,
@@ -83766,6 +83967,16 @@ var ApiSettings = ({
       placeholder: "Enter Azure OpenAI API Version",
       type: "text"
     }
+  ), /* @__PURE__ */ import_react17.default.createElement(
+    ApiSetting_default,
+    {
+      title: "Azure OpenAI API Embedding Deployment Name",
+      description: "(Optional) For embedding provider Azure OpenAI",
+      value: azureOpenAIApiEmbeddingDeploymentName,
+      setValue: setAzureOpenAIApiEmbeddingDeploymentName,
+      placeholder: "Enter Azure OpenAI API Embedding Deployment Name",
+      type: "text"
+    }
   ))));
 };
 var ApiSettings_default = ApiSettings;
@@ -83816,6 +84027,8 @@ var import_react19 = __toESM(require_react());
 var QASettings = ({
   embeddingProvider,
   setEmbeddingProvider,
+  embeddingModel,
+  setEmbeddingModel,
   ttlDays,
   setTtlDays,
   cohereApiKey,
@@ -83831,6 +84044,15 @@ var QASettings = ({
       value: embeddingProvider,
       onChange: setEmbeddingProvider,
       options: EMBEDDING_PROVIDERS
+    }
+  ), /* @__PURE__ */ import_react19.default.createElement(
+    DropdownComponent,
+    {
+      name: "OpenAI Embedding Model",
+      description: "(for when embedding provider is OpenAI)",
+      value: embeddingModel,
+      onChange: setEmbeddingModel,
+      options: OPENAI_EMBEDDING_MODELS
     }
   ), /* @__PURE__ */ import_react19.default.createElement(
     SliderComponent,
@@ -83894,7 +84116,9 @@ function SettingsMain({ plugin, reloadPlugin }) {
   const [azureOpenAIApiInstanceName, setAzureOpenAIApiInstanceName] = (0, import_react20.useState)(plugin.settings.azureOpenAIApiInstanceName);
   const [azureOpenAIApiDeploymentName, setAzureOpenAIApiDeploymentName] = (0, import_react20.useState)(plugin.settings.azureOpenAIApiDeploymentName);
   const [azureOpenAIApiVersion, setAzureOpenAIApiVersion] = (0, import_react20.useState)(plugin.settings.azureOpenAIApiVersion);
+  const [azureOpenAIApiEmbeddingDeploymentName, setAzureOpenAIApiEmbeddingDeploymentName] = (0, import_react20.useState)(plugin.settings.azureOpenAIApiEmbeddingDeploymentName);
   const [embeddingProvider, setEmbeddingProvider] = (0, import_react20.useState)(plugin.settings.embeddingProvider);
+  const [embeddingModel, setEmbeddingModel] = (0, import_react20.useState)(plugin.settings.embeddingModel);
   const [ttlDays, setTtlDays] = (0, import_react20.useState)(plugin.settings.ttlDays);
   const [cohereApiKey, setCohereApiKey] = (0, import_react20.useState)(plugin.settings.cohereApiKey);
   const [huggingfaceApiKey, setHuggingfaceApiKey] = (0, import_react20.useState)(plugin.settings.huggingfaceApiKey);
@@ -83918,7 +84142,9 @@ function SettingsMain({ plugin, reloadPlugin }) {
     plugin.settings.azureOpenAIApiInstanceName = azureOpenAIApiInstanceName;
     plugin.settings.azureOpenAIApiDeploymentName = azureOpenAIApiDeploymentName;
     plugin.settings.azureOpenAIApiVersion = azureOpenAIApiVersion;
+    plugin.settings.azureOpenAIApiEmbeddingDeploymentName = azureOpenAIApiEmbeddingDeploymentName;
     plugin.settings.embeddingProvider = embeddingProvider;
+    plugin.settings.embeddingModel = embeddingModel;
     plugin.settings.ttlDays = ttlDays;
     plugin.settings.cohereApiKey = cohereApiKey;
     plugin.settings.huggingfaceApiKey = huggingfaceApiKey;
@@ -83929,13 +84155,13 @@ function SettingsMain({ plugin, reloadPlugin }) {
     plugin.settings.ollamaBaseUrl = ollamaBaseUrl;
     await plugin.saveSettings();
     await reloadPlugin();
-    new import_obsidian11.Notice("Settings have been saved and the plugin has been reloaded.");
+    new import_obsidian13.Notice("Settings have been saved and the plugin has been reloaded.");
   };
   const resetToDefaultSettings = async () => {
     plugin.settings = DEFAULT_SETTINGS;
     await plugin.saveSettings();
     await reloadPlugin();
-    new import_obsidian11.Notice("Settings have been reset to their default values.");
+    new import_obsidian13.Notice("Settings have been reset to their default values.");
   };
   return /* @__PURE__ */ import_react20.default.createElement(import_react20.default.Fragment, null, /* @__PURE__ */ import_react20.default.createElement("div", null, /* @__PURE__ */ import_react20.default.createElement("h2", null, "Copilot Settings"), /* @__PURE__ */ import_react20.default.createElement("div", { className: "button-container" }, /* @__PURE__ */ import_react20.default.createElement("button", { className: "mod-cta", onClick: saveAllSettings }, "Save and Reload"), /* @__PURE__ */ import_react20.default.createElement("button", { className: "mod-cta", onClick: resetToDefaultSettings }, "Reset to Default Settings")), /* @__PURE__ */ import_react20.default.createElement("div", { className: "warning-message" }, "Please Save and Reload the plugin when you change any setting below!"), /* @__PURE__ */ import_react20.default.createElement(
     DropdownComponent,
@@ -84011,13 +84237,17 @@ function SettingsMain({ plugin, reloadPlugin }) {
       azureOpenAIApiDeploymentName,
       setAzureOpenAIApiDeploymentName,
       azureOpenAIApiVersion,
-      setAzureOpenAIApiVersion
+      setAzureOpenAIApiVersion,
+      azureOpenAIApiEmbeddingDeploymentName,
+      setAzureOpenAIApiEmbeddingDeploymentName
     }
   ), /* @__PURE__ */ import_react20.default.createElement(
     QASettings_default,
     {
       embeddingProvider,
       setEmbeddingProvider,
+      embeddingModel,
+      setEmbeddingModel,
       ttlDays,
       setTtlDays,
       cohereApiKey,
@@ -84047,7 +84277,7 @@ function SettingsMain({ plugin, reloadPlugin }) {
 }
 
 // src/settings/SettingsPage.tsx
-var CopilotSettingTab = class extends import_obsidian12.PluginSettingTab {
+var CopilotSettingTab = class extends import_obsidian14.PluginSettingTab {
   constructor(app2, plugin) {
     super(app2, plugin);
     this.plugin = plugin;
@@ -84059,9 +84289,9 @@ var CopilotSettingTab = class extends import_obsidian12.PluginSettingTab {
       await app2.plugins.disablePlugin("copilot");
       await app2.plugins.enablePlugin("copilot");
       app2.setting.openTabById("copilot").display();
-      new import_obsidian12.Notice("Plugin reloaded successfully.");
+      new import_obsidian14.Notice("Plugin reloaded successfully.");
     } catch (error) {
-      new import_obsidian12.Notice("Failed to reload the plugin. Please reload manually.");
+      new import_obsidian14.Notice("Failed to reload the plugin. Please reload manually.");
       console.error("Error reloading plugin:", error);
     }
   }
@@ -84076,7 +84306,7 @@ var CopilotSettingTab = class extends import_obsidian12.PluginSettingTab {
     );
     const devModeHeader = containerEl.createEl("h1", { text: "Development mode" });
     devModeHeader.style.marginTop = "40px";
-    new import_obsidian12.Setting(containerEl).setName("Debug mode").setDesc(
+    new import_obsidian14.Setting(containerEl).setName("Debug mode").setDesc(
       createFragment((frag) => {
         frag.appendText("Debug mode will log all API requests and prompts to the console.");
       })
@@ -84090,7 +84320,7 @@ var CopilotSettingTab = class extends import_obsidian12.PluginSettingTab {
 };
 
 // src/main.ts
-var import_obsidian13 = require("obsidian");
+var import_obsidian15 = require("obsidian");
 
 // node_modules/pouchdb/lib/index-browser.es.js
 var import_immediate = __toESM(require_lib3());
@@ -92711,7 +92941,7 @@ PouchDB.plugin(IDBPouch).plugin(HttpPouch$1).plugin(mapreduce).plugin(replicatio
 var index_browser_es_default = PouchDB;
 
 // src/main.ts
-var CopilotPlugin = class extends import_obsidian13.Plugin {
+var CopilotPlugin = class extends import_obsidian15.Plugin {
   constructor() {
     super(...arguments);
     this.activateViewPromise = null;
@@ -92849,7 +93079,7 @@ var CopilotPlugin = class extends import_obsidian13.Plugin {
       editorCallback: (editor) => {
         new LanguageModal(this.app, (language) => {
           if (!language) {
-            new import_obsidian13.Notice("Please select a language.");
+            new import_obsidian15.Notice("Please select a language.");
             return;
           }
           this.processSelection(editor, "translateSelection", language);
@@ -92862,7 +93092,7 @@ var CopilotPlugin = class extends import_obsidian13.Plugin {
       editorCallback: (editor) => {
         new ToneModal(this.app, (tone) => {
           if (!tone) {
-            new import_obsidian13.Notice("Please select a tone.");
+            new import_obsidian15.Notice("Please select a tone.");
             return;
           }
           this.processSelection(editor, "changeToneSelection", tone);
@@ -92883,9 +93113,9 @@ var CopilotPlugin = class extends import_obsidian13.Plugin {
         new AddPromptModal(this.app, async (title, prompt) => {
           try {
             await this.dbPrompts.put({ _id: title, prompt });
-            new import_obsidian13.Notice("Custom prompt saved successfully.");
+            new import_obsidian15.Notice("Custom prompt saved successfully.");
           } catch (e) {
-            new import_obsidian13.Notice("Error saving custom prompt. Please check if the title already exists.");
+            new import_obsidian15.Notice("Error saving custom prompt. Please check if the title already exists.");
             console.error(e);
           }
         }).open();
@@ -92898,26 +93128,41 @@ var CopilotPlugin = class extends import_obsidian13.Plugin {
         this.fetchPromptTitles().then((promptTitles) => {
           new ListPromptModal(this.app, promptTitles, async (promptTitle) => {
             if (!promptTitle) {
-              new import_obsidian13.Notice("Please select a prompt title.");
+              new import_obsidian15.Notice("Please select a prompt title.");
               return;
             }
             try {
               const doc = await this.dbPrompts.get(promptTitle);
               if (!doc.prompt) {
-                new import_obsidian13.Notice(`No prompt found with the title "${promptTitle}".`);
+                new import_obsidian15.Notice(`No prompt found with the title "${promptTitle}".`);
                 return;
               }
               this.processSelection(editor, "applyCustomPromptSelection", doc.prompt);
             } catch (err) {
               if (err.name === "not_found") {
-                new import_obsidian13.Notice(`No prompt found with the title "${promptTitle}".`);
+                new import_obsidian15.Notice(`No prompt found with the title "${promptTitle}".`);
               } else {
                 console.error(err);
-                new import_obsidian13.Notice("An error occurred.");
+                new import_obsidian15.Notice("An error occurred.");
               }
             }
           }).open();
         });
+      }
+    });
+    this.addCommand({
+      id: "apply-adhoc-prompt",
+      name: "Apply ad-hoc custom prompt to selection",
+      editorCallback: async (editor) => {
+        const modal = new AdhocPromptModal(this.app, async (adhocPrompt) => {
+          try {
+            this.processSelection(editor, "applyAdhocPromptSelection", adhocPrompt);
+          } catch (err) {
+            console.error(err);
+            new import_obsidian15.Notice("An error occurred.");
+          }
+        });
+        modal.open();
       }
     });
     this.addCommand({
@@ -92930,23 +93175,23 @@ var CopilotPlugin = class extends import_obsidian13.Plugin {
         this.fetchPromptTitles().then((promptTitles) => {
           new ListPromptModal(this.app, promptTitles, async (promptTitle) => {
             if (!promptTitle) {
-              new import_obsidian13.Notice("Please select a prompt title.");
+              new import_obsidian15.Notice("Please select a prompt title.");
               return;
             }
             try {
               const doc = await this.dbPrompts.get(promptTitle);
               if (doc._rev) {
                 await this.dbPrompts.remove(doc);
-                new import_obsidian13.Notice(`Prompt "${promptTitle}" has been deleted.`);
+                new import_obsidian15.Notice(`Prompt "${promptTitle}" has been deleted.`);
               } else {
-                new import_obsidian13.Notice(`Failed to delete prompt "${promptTitle}": No revision found.`);
+                new import_obsidian15.Notice(`Failed to delete prompt "${promptTitle}": No revision found.`);
               }
             } catch (err) {
               if (err.name === "not_found") {
-                new import_obsidian13.Notice(`No prompt found with the title "${promptTitle}".`);
+                new import_obsidian15.Notice(`No prompt found with the title "${promptTitle}".`);
               } else {
                 console.error(err);
-                new import_obsidian13.Notice("An error occurred while deleting the prompt.");
+                new import_obsidian15.Notice("An error occurred while deleting the prompt.");
               }
             }
           }).open();
@@ -92964,7 +93209,7 @@ var CopilotPlugin = class extends import_obsidian13.Plugin {
         this.fetchPromptTitles().then((promptTitles) => {
           new ListPromptModal(this.app, promptTitles, async (promptTitle) => {
             if (!promptTitle) {
-              new import_obsidian13.Notice("Please select a prompt title.");
+              new import_obsidian15.Notice("Please select a prompt title.");
               return;
             }
             try {
@@ -92975,17 +93220,17 @@ var CopilotPlugin = class extends import_obsidian13.Plugin {
                     ...doc,
                     prompt: newPrompt
                   });
-                  new import_obsidian13.Notice(`Prompt "${title}" has been updated.`);
+                  new import_obsidian15.Notice(`Prompt "${title}" has been updated.`);
                 }, doc._id, doc.prompt, true).open();
               } else {
-                new import_obsidian13.Notice(`No prompt found with the title "${promptTitle}".`);
+                new import_obsidian15.Notice(`No prompt found with the title "${promptTitle}".`);
               }
             } catch (err) {
               if (err.name === "not_found") {
-                new import_obsidian13.Notice(`No prompt found with the title "${promptTitle}".`);
+                new import_obsidian15.Notice(`No prompt found with the title "${promptTitle}".`);
               } else {
                 console.error(err);
-                new import_obsidian13.Notice("An error occurred.");
+                new import_obsidian15.Notice("An error occurred.");
               }
             }
           }).open();
@@ -93001,18 +93246,28 @@ var CopilotPlugin = class extends import_obsidian13.Plugin {
           await this.dbVectorStores.destroy();
           this.dbVectorStores = new index_browser_es_default("copilot_vector_stores");
           vectorDBManager_default.updateDBInstance(this.dbVectorStores);
-          new import_obsidian13.Notice("Local vector store cleared successfully.");
+          new import_obsidian15.Notice("Local vector store cleared successfully.");
           console.log("Local vector store cleared successfully, new instance created.");
         } catch (err) {
           console.error("Error clearing the local vector store:", err);
-          new import_obsidian13.Notice("An error occurred while clearing the local vector store.");
+          new import_obsidian15.Notice("An error occurred while clearing the local vector store.");
         }
+      }
+    });
+    this.addCommand({
+      id: "set-chat-note-context",
+      name: "Set note context for Chat mode",
+      callback: async () => {
+        new ChatNoteContextModal(this.app, this.settings, async (path2) => {
+          this.settings.chatNoteContextPath = path2;
+          await this.saveSettings();
+        }).open();
       }
     });
   }
   processSelection(editor, eventType, eventSubtype) {
     if (editor.somethingSelected() === false) {
-      new import_obsidian13.Notice("Please select some text to rewrite.");
+      new import_obsidian15.Notice("Please select some text to rewrite.");
       return;
     }
     const selectedText = editor.getSelection();
@@ -93087,6 +93342,7 @@ var CopilotPlugin = class extends import_obsidian13.Plugin {
       googleApiKey,
       openRouterAiApiKey,
       openRouterModel,
+      embeddingModel,
       temperature,
       maxTokens,
       contextTurns,
@@ -93113,6 +93369,7 @@ var CopilotPlugin = class extends import_obsidian13.Plugin {
       lmStudioPort: lmStudioPort || DEFAULT_SETTINGS.lmStudioPort,
       model: this.settings.defaultModel,
       modelDisplayName: this.settings.defaultModelDisplayName,
+      embeddingModel: embeddingModel || DEFAULT_SETTINGS.embeddingModel,
       temperature: Number(temperature),
       maxTokens: Number(maxTokens),
       systemMessage: this.settings.userSystemPrompt || DEFAULT_SYSTEM_PROMPT,

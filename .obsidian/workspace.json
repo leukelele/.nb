@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2401282146.md",
+                "file": "2304111930.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2401282146.md",
+                "file": "2304111930.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2401282146.md",
+                "file": "2304111930.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,8 +179,8 @@
   },
   "active": "86c8dbcb0c52df37",
   "lastOpenFiles": [
+    "nodes/2401282146.md",
     "excalibrain.md",
-    "2401282146.md",
     "2304111930.md",
     "2310030434.md",
     "2401251617.md",
