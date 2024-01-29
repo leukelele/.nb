@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "37775b9fe9c6598e",
+        "id": "d25834c7be5ebeb9",
         "type": "tabs",
         "children": [
           {
-            "id": "86c8dbcb0c52df37",
+            "id": "83392cbb8967929a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2401282216.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -115,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2401282216.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +126,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2401282216.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,12 +156,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "86c8dbcb0c52df37",
+  "active": "83392cbb8967929a",
   "lastOpenFiles": [
-    "nodes/2310252130.md",
-    "2401282216.md",
-    "excalibrain.md",
     "nodes/2401282146.md",
+    "nodes/2401282216.md",
+    "nodes/2310252130.md",
+    "excalibrain.md",
     "nodes/2310112154.md",
     "2304111930.md",
     "2310030434.md",
