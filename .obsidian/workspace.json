@@ -11,8 +11,13 @@
             "id": "83392cbb8967929a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2304111930.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -110,6 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "excalibrain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,6 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "excalibrain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,14 +163,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "83392cbb8967929a",
+  "active": "9cb035ca154a5fd5",
   "lastOpenFiles": [
+    "2304111930.md",
     "nodes/2401282146.md",
+    "excalibrain.md",
     "nodes/2401282216.md",
     "nodes/2310252130.md",
-    "excalibrain.md",
     "nodes/2310112154.md",
-    "2304111930.md",
     "2310030434.md",
     "2401251617.md",
     "2401231622.md",
