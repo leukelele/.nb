@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2310210012.md",
+                "file": "excalibrain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2310210012.md",
+                "file": "excalibrain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,10 +163,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "83392cbb8967929a",
+  "active": "9cb035ca154a5fd5",
   "lastOpenFiles": [
-    "excalibrain.md",
     "2310210012.md",
+    "excalibrain.md",
     "2401231622.md",
     "2401251617.md",
     "2310030434.md",
