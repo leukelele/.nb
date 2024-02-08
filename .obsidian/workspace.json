@@ -74,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#compsci/sw-hw-interface/embedded",
+                "query": "tag:#compsci/sw-hw-interface",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -91,7 +91,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -178,7 +179,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "35bdacb4a41a864e",
+  "active": "f3cb1ea23345d2c3",
   "lastOpenFiles": [
     "2310210012.md",
     "2402072003.md",
