@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2402072137.md",
+                "file": "2402072003.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2402072137.md",
+                "file": "2402072003.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,14 +146,13 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2402072137.md",
+                "file": "2402072003.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -180,14 +179,14 @@
   },
   "active": "35bdacb4a41a864e",
   "lastOpenFiles": [
+    "excalibrain.md",
+    "nodes/2402072137.md",
     "2402072003.md",
-    "2402072137.md",
     "2310210012.md",
     "nodes/2402071944.md",
     "2311270024.md",
     "2310030434.md",
     "nodes/2304111930.md",
-    "excalibrain.md",
     "2402061622.md",
     "2401301604.md",
     "2401231622.md",
