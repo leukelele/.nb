@@ -13,28 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2402072003.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "35bdacb4a41a864e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2402111312.md",
+                "file": "2402111355.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -129,6 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2402111355.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,6 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2402111355.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,10 +164,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7acc409f2c31467b",
+  "active": "83392cbb8967929a",
   "lastOpenFiles": [
     "2402111312.md",
-    "2402072003.md",
+    "2402061622.md",
+    "2402111355.md",
+    "nodes/2402072003.md",
+    "nodes/2310020159.md",
     "excalibrain.md",
     "nodes/2402072137.md",
     "2310210012.md",
@@ -187,7 +178,6 @@
     "2311270024.md",
     "2310030434.md",
     "nodes/2304111930.md",
-    "2402061622.md",
     "2401301604.md",
     "2401231622.md",
     "2401251617.md",
@@ -206,8 +196,6 @@
     "2312102108.md",
     "2311282338.md",
     "2311282347.md",
-    "2311282258e.md",
-    "2311282258.md",
     "Pasted image 20231205171649.png",
     "Pasted image 20231205171739.png",
     "attachments/2310141158i.png",
