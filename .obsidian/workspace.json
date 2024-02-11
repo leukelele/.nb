@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2402072003.md",
+                "file": "2402111312.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -129,7 +129,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "excalibrain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,13 +145,13 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "excalibrain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -177,8 +176,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9cb035ca154a5fd5",
+  "active": "7acc409f2c31467b",
   "lastOpenFiles": [
+    "2402111312.md",
     "2402072003.md",
     "excalibrain.md",
     "nodes/2402072137.md",
@@ -208,7 +208,6 @@
     "2311282347.md",
     "2311282258e.md",
     "2311282258.md",
-    "2311162319.md",
     "Pasted image 20231205171649.png",
     "Pasted image 20231205171739.png",
     "attachments/2310141158i.png",
