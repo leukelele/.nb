@@ -11,9 +11,12 @@
             "id": "83392cbb8967929a",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "attachments/2309142158e.md"
+                "file": "nodes/2305192328.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -112,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "attachments/2309142158e.md",
+                "file": "nodes/2305192328.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "attachments/2309142158e.md",
+                "file": "nodes/2305192328.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,17 +166,19 @@
   },
   "active": "83392cbb8967929a",
   "lastOpenFiles": [
+    "nodes/2309142228.md",
+    "2402111355.md",
+    "2312102126.md",
+    "attachments/2309142158e.md",
     "nodes/2304111930.md",
     "2310252239.md",
     "2311052139.md",
     "2311062359.md",
-    "2402111355.md",
     "2311292118.md",
     "2311302054e.md",
     "2312102015.md",
     "2312102108.md",
     "2312102125.md",
-    "2312102126.md",
     "2401301604.md",
     "2402061622.md",
     "nodes/2401282146.md",
@@ -187,8 +192,6 @@
     "2401181715.md",
     "2402130004.md",
     "2402151610.md",
-    "nodes/2402072137.md",
-    "2312101959.md",
     "Pasted image 20231210212502.png",
     "Pasted image 20231210201525.png",
     "Pasted image 20231210201103.png",
