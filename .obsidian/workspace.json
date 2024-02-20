@@ -77,7 +77,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -165,7 +166,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "83392cbb8967929a",
+  "active": "64568ed90c6c6630",
   "lastOpenFiles": [
     "excalibrain.md",
     "2402201614.md",
