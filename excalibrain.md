@@ -19,61 +19,69 @@ in Excalidraw settings under 'Links and Transclusion'. ^4mylk7KK
 
 %%
 # Drawing
-```compressed-json
-N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATL
-
-ZMzYBXUtiRoIACyhQ4zZAHoFAc0JRJQgEYA6bGwC2CgF7N6hbEcK4OCtptbErHAL
-
-RY8RMpWdx8Q1TdIEfARcZgRmBShcZQUebQAGbQAWGjoghH0EDihmbgBtcDBQMBLo
-
-eHF0KCwoVJLIRhZ2LjQARn5ShtZOADlOMW4kngBmAFYAdjH4loAOdshCZgARdKri
-
-bgAzAjC5iBJuCCT9GHwAazGAaXPa0vXCfHwAZVhg/clcbA1A64EoUjYThAAdRI6m
-
-4bUKPz+AKexwqEEEHm+ED+fkkHHCuVaOzYcHeahgYPi8R21mULzQxIhEEw3EpdQg
-
-BIpO2Yv3+CAAwmx8GxSPsKJI1Egdpp3idlCiOMROdzeRJftZmLjAtkkRQQZJuJMh
-
-toWjwRjtJAhCMppNwAJwANmZCAQazQSUGZp24uEcAAksRMag8gBdHbrciZD3cDhC
-
-e47CXEdHML2h8NUzTCSUAUWCmWyXt9OyEcGIuFWYItI3iY2mSVLIwtLXB9KIHBOI
-
-bD+B23OwALtqE2+G2VPWnCgD0IRgqPDpN37ADFcPo7ozUEMdlVMDUJAB5RAcVC4V
-
-DENjYITpqCoQib6xsdRMVC49FbyWobBENvHo9QNioZQII8s3CkVbaAA6HCAROPKo
-
-BeqCaOER5YIgpCEFkYioFkuCaMEqAAOTrlkx6nsQABW7xZEe14IOhgEnqgyY4AQJ
-
-DkBQqBhDIJ7KMwqBCJKl7oQAMieJysdYxCoAAKuQHDMA+QhdBw6HaEidFCdU+xYa
-
-eO57geRE4be56GqQV7WAgt6CQ+5gnM+YFvh+X5RL+toAUBHAgbp4GQSySGYLB8Ec
-
-IhyGoQZmEbppuD4YR2R6eiZEcBRVHuLRlAMZ+UDMax7HEJxPH1vxd4iQqElSTJSJ
-
-LlAACCRDKM06BiNkTBIg0iXuCVxrldAOJIno2S4CeTDBmgcbNlSPLGieBAKcuSkB
-
-duu77oegUcNpl4kYZ96PqZajme+n4MdZf6AcBoHOVBbkeQhBk+Wh/nYRRQUEZVxH
-
-6RFUXUR4dHxUxHAsWxHG6dxvGZYJ2ViblTT5S2nUABJGiaK6oC02h8AmoRBJ15ot
-
-IUAC+4B+nQuBwHATz5hUxSQBemT7KVprtAw8EUAAQqKLopdKPKvMw+AABSjrMqDT
-
-PEACk1C8EMPMAJTXBA+6kMqUBulU+hPFCHJckzEgAMREmr8Si+LkvSxktNtvTkqM
-
-7KlSiYqP5EZrIjazLE53I8zxwm8HwiEKhRi1bRE67LrIAsCxCgmgcOlFrnsy3LbI
-
-wuS6AInsFMh9kXsAErCCa0ZejWkDx1LMvrnisCEmO7sS6HGQgdkU4zvgc4Z0X1ul
-
-/2g7DoWccewnMsjcVpVNcE6w1C3xdtxkeO/kVEtsPyIQdr1/d1/oyaSqPfwT0F+w
-
-/kvoviX89wABrcDw0zaNMPA8NWIxDGWVZn1abub1y+AAJrcJWcRjBaZrDCWb8f2M
-
-FNGGwBjcEJvUAgQgKiJCLGjGeJd9DJxSmnfYkZRbihII3Co083bIKlIrY2QCIDUy
-
-5B2CAysWgWlfuyIqE4JxIkTggZQYYfz7FVhOEYMwKFUMgW7PQMoAAKBAEoE1RlA7
-
-I4cATrkSpwWMTYKZwECGYYQzAADicFiCoMbPGG4gYEA0M+sxQBVJTq2m4L8UBOxj
-
-JwCMaQExVIODTgqMYhA2IhBQDrHYyxCA0bgEEXQW4wQvTAHRqjIAA===
+```json
+{
+	"type": "excalidraw",
+	"version": 2,
+	"source": "https://excalidraw.com",
+	"elements": [
+		{
+			"type": "text",
+			"version": 1,
+			"versionNonce": 423577018,
+			"isDeleted": false,
+			"id": "4mylk7KK",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 0,
+			"y": 0,
+			"strokeColor": "white",
+			"backgroundColor": "transparent",
+			"width": 703,
+			"height": 96,
+			"seed": 4429,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"boundElements": [],
+			"updated": 1650784785611,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 3,
+			"text": "Open a document in another pane and click it to get started.\n\nFor the best experience enable 'Open in adjacent pane'\nin Excalidraw settings under 'Links and Transclusion'.",
+			"rawText": "Open a document in another pane and click it to get started.\n\nFor the best experience enable 'Open in adjacent pane'\nin Excalidraw settings under 'Links and Transclusion'.",
+			"baseline": 91,
+			"textAlign": "center",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Open a document in another pane and click it to get started.\n\nFor the best experience enable 'Open in adjacent pane'\nin Excalidraw settings under 'Links and Transclusion'."
+		}
+	],
+	"appState": {
+		"theme": "dark",
+		"viewBackgroundColor": "hsl(208, 80%, 23%)",
+		"currentItemStrokeColor": "#000000",
+		"currentItemBackgroundColor": "transparent",
+		"currentItemFillStyle": "hachure",
+		"currentItemStrokeWidth": 2,
+		"currentItemStrokeStyle": "solid",
+		"currentItemRoughness": 1,
+		"currentItemOpacity": 100,
+		"currentItemFontFamily": 1,
+		"currentItemFontSize": 16,
+		"currentItemTextAlign": "left",
+		"currentItemStrokeSharpness": "sharp",
+		"currentItemStartArrowhead": null,
+		"currentItemEndArrowhead": "arrow",
+		"currentItemLinearStrokeSharpness": "round",
+		"gridSize": null,
+		"colorPalette": {}
+	},
+	"files": {}
+}
 ```
 %%
