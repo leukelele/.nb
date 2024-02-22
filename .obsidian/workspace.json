@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/2402212256.md",
+                "file": "2402220006.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#compsci/os/linux/wayland/wm/dynamic/river",
+                "query": "tag:#compsci/os",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nodes/2402212256.md",
+                "file": "2402220006.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nodes/2402212256.md",
+                "file": "2402220006.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,8 +166,9 @@
   },
   "active": "83392cbb8967929a",
   "lastOpenFiles": [
-    "nodes/2402201614.md",
     "nodes/2402212256.md",
+    "2402220006.md",
+    "nodes/2402201614.md",
     "nodes/2402212318.md",
     "nodes/2402212329.md",
     "nodes/2402212335.md",
@@ -191,7 +192,6 @@
     "2311292118.md",
     "2311302054e.md",
     "2312102015.md",
-    "2312102108.md",
     "Pasted image 20231210212502.png",
     "Pasted image 20231210201525.png",
     "Pasted image 20231210201103.png",
