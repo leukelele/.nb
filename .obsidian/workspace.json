@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2402201614.md",
+                "file": "2402212256.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#compsci/sw-hw-interface",
+                "query": "tag:#compsci/os/linux/wayland/wm/dynamic/river",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -78,12 +78,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 210.5,
-    "collapsed": true
+    "width": 270.51103591918945
   },
   "right": {
     "id": "74e1ce9a16329adb",
@@ -117,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2402201614.md",
+                "file": "2402212256.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2402201614.md",
+                "file": "2402212256.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,10 +165,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "83392cbb8967929a",
+  "active": "f3cb1ea23345d2c3",
   "lastOpenFiles": [
+    "nodes/2402201614.md",
+    "2402212256.md",
     "2402212246.md",
-    "2402201614.md",
     "excalibrain.md",
     "nodes/2305192328.md",
     "nodes/2309142228.md",
@@ -193,7 +193,6 @@
     "nodes/2310141702.md",
     "nodes/2310170117.md",
     "2401031834.md",
-    "2401181714.md",
     "Pasted image 20231210212502.png",
     "Pasted image 20231210201525.png",
     "Pasted image 20231210201103.png",
