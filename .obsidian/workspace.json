@@ -138,12 +138,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 467.5,
-    "collapsed": true
+    "width": 398.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,19 +166,19 @@
   },
   "active": "83392cbb8967929a",
   "lastOpenFiles": [
+    "nodes/2402201614.md",
+    "nodes/2402212256.md",
+    "nodes/2402212318.md",
     "nodes/2402212329.md",
-    "2402212344.md",
     "nodes/2402212335.md",
+    "excalibrain.md",
+    "2402212344.md",
     "templates/node-tmpl.md",
     "templates/question-tmpl.md",
     "templates/date-tmpl.md",
-    "nodes/2402201614.md",
     "Untitled.md",
-    "nodes/2402212256.md",
-    "nodes/2402212318.md",
     "nodes/Untitled.md",
     "2402212246.md",
-    "excalibrain.md",
     "nodes/2305192328.md",
     "nodes/2309142228.md",
     "2402111355.md",
