@@ -1,4 +1,0 @@
-## question
-## process
-- 
-## conclusion
