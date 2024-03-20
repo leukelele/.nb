@@ -24,9 +24,12 @@
             "id": "1333ac7a1ea8828e",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.11"
+                "file": "2403191612.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
