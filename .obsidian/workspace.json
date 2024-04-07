@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2404062246.md",
+                "file": "nodes/2404062140.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#compsci/arch",
+                "query": "tag:#compsci/os/linux/wayland/wm/dynamic/qtile",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2404062246.md",
+                "file": "nodes/2404062140.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2404062246.md",
+                "file": "nodes/2404062140.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,8 +167,8 @@
   },
   "active": "83392cbb8967929a",
   "lastOpenFiles": [
+    "nodes/2404062246.md",
     "nodes/2404062140.md",
-    "2404062246.md",
     "2403191612.md",
     "2403281608.md",
     "nodes/2402111312.md",
