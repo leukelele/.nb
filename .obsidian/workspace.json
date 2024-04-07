@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2404062140.md",
+                "file": "2402111312.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#compsci/arch",
+                "query": "tag:#compsci/sys-software",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -77,12 +77,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 270.51103591918945,
-    "collapsed": true
+    "width": 270.51103591918945
   },
   "right": {
     "id": "74e1ce9a16329adb",
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2404062140.md",
+                "file": "2402111312.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,19 +133,17 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2404062140.md",
+                "file": "2402111312.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 390.5,
-    "collapsed": true
+    "width": 364.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,24 +164,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "83392cbb8967929a",
+  "active": "f3cb1ea23345d2c3",
   "lastOpenFiles": [
-    "2402072003.md",
-    "2404062140.md",
-    "nodes/2402212318.md",
-    "nodes/2402212256.md",
-    "nodes/2402201614.md",
-    "nodes/2404062100.md",
-    "nodes/2402212335.md",
-    "Untitled.md",
-    "nodes/2402212329.md",
-    "excalibrain.md",
     "2403191612.md",
     "2403281608.md",
+    "excalibrain.md",
+    "nodes/2404062140.md",
+    "nodes/2402212335.md",
+    "nodes/2404062100.md",
+    "nodes/2402212256.md",
+    "nodes/2402201614.md",
+    "nodes/2402212318.md",
+    "nodes/2402212329.md",
+    "nodes/2402072003.md",
+    "nodes/2402072137.md",
+    "Untitled.md",
     "2402111312.md",
     "2402291608.md",
     "2402271621.md",
-    "2402072137.md",
     "2404021615.md",
     "2403261618.md",
     "2403071656.md",
