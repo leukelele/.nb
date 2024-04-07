@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2404021615.md",
+                "file": "nodes/2402201614.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#compsci/os",
+                "query": "tag:#compsci/arch",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -81,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.51103591918945,
-    "collapsed": true
+    "width": 270.51103591918945
   },
   "right": {
     "id": "74e1ce9a16329adb",
@@ -116,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2404021615.md",
+                "file": "nodes/2402201614.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2404021615.md",
+                "file": "nodes/2402201614.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,8 +143,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 398.5,
-    "collapsed": true
+    "width": 390.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,32 +166,32 @@
   },
   "active": "83392cbb8967929a",
   "lastOpenFiles": [
-    "2403281608.md",
-    "2404021615.md",
-    "2403191612.md",
-    "2403261618.md",
-    "2403071656.md",
-    "nodes/2402201614.md",
-    "nodes/2402212329.md",
-    "2402111312.md",
-    "2402072137.md",
-    "2402072003.md",
-    "nodes/2402212318.md",
-    "nodes/2402212335.md",
     "nodes/2402212256.md",
+    "nodes/2402201614.md",
+    "nodes/2404062100.md",
+    "nodes/2402212335.md",
+    "Untitled.md",
+    "nodes/2402212329.md",
+    "nodes/2402212318.md",
+    "excalibrain.md",
+    "2402072003.md",
+    "2403191612.md",
+    "2403281608.md",
+    "2402111312.md",
     "2402291608.md",
     "2402271621.md",
+    "2402072137.md",
+    "2404021615.md",
+    "2403261618.md",
+    "2403071656.md",
     "2402220006.md",
-    "excalibrain.md",
     "2402212344.md",
     "templates/node-tmpl.md",
     "templates/question-tmpl.md",
     "templates/date-tmpl.md",
-    "Untitled.md",
     "nodes/Untitled.md",
     "2402212246.md",
     "nodes/2305192328.md",
-    "nodes/2309142228.md",
     "Pasted image 20231210212502.png",
     "Pasted image 20231210201525.png",
     "Pasted image 20231210201103.png",
