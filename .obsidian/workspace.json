@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2402111312.md",
+                "file": "2404062246.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#compsci/sys-software",
+                "query": "tag:#compsci/arch",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -77,12 +77,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 270.51103591918945
+    "width": 270.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "74e1ce9a16329adb",
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2402111312.md",
+                "file": "2404062246.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2402111312.md",
+                "file": "2404062246.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 364.5
+    "width": 364.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,22 +165,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f3cb1ea23345d2c3",
+  "active": "83392cbb8967929a",
   "lastOpenFiles": [
+    "nodes/2404062140.md",
+    "2404062246.md",
     "2403191612.md",
     "2403281608.md",
-    "excalibrain.md",
-    "nodes/2404062140.md",
-    "nodes/2402212335.md",
-    "nodes/2404062100.md",
-    "nodes/2402212256.md",
-    "nodes/2402201614.md",
-    "nodes/2402212318.md",
-    "nodes/2402212329.md",
+    "nodes/2402111312.md",
     "nodes/2402072003.md",
     "nodes/2402072137.md",
+    "nodes/2402201614.md",
+    "nodes/2402212256.md",
+    "nodes/2402212318.md",
+    "nodes/2402212329.md",
+    "nodes/2402212335.md",
+    "nodes/2404062100.md",
+    "excalibrain.md",
     "Untitled.md",
-    "2402111312.md",
     "2402291608.md",
     "2402271621.md",
     "2404021615.md",
@@ -191,7 +193,6 @@
     "templates/question-tmpl.md",
     "templates/date-tmpl.md",
     "nodes/Untitled.md",
-    "2402212246.md",
     "Pasted image 20231210212502.png",
     "Pasted image 20231210201525.png",
     "Pasted image 20231210201103.png",
