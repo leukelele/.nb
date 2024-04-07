@@ -81,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.51103591918945
+    "width": 270.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "74e1ce9a16329adb",
@@ -143,7 +144,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 390.5
+    "width": 390.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,15 +168,15 @@
   },
   "active": "83392cbb8967929a",
   "lastOpenFiles": [
+    "nodes/2402212318.md",
     "nodes/2402212256.md",
-    "2404062140.md",
     "nodes/2402201614.md",
+    "2404062140.md",
     "2402072003.md",
     "nodes/2404062100.md",
     "nodes/2402212335.md",
     "Untitled.md",
     "nodes/2402212329.md",
-    "nodes/2402212318.md",
     "excalibrain.md",
     "2403191612.md",
     "2403281608.md",
