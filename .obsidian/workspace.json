@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2404091616.md",
+                "file": "2404091706.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2404091616.md",
+                "file": "2404091706.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2404091616.md",
+                "file": "2404091706.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,8 +194,9 @@
   "active": "7ed6ec3872b4616f",
   "lastOpenFiles": [
     "2404091619.md",
-    "nodes/2404062140.md",
+    "2404091706.md",
     "2404091616.md",
+    "nodes/2404062140.md",
     "2403191612.md",
     "nodes/2404062246.md",
     "2403281608.md",
@@ -218,7 +219,6 @@
     "2402220006.md",
     "2402212344.md",
     "templates/node-tmpl.md",
-    "templates/question-tmpl.md",
     "Pasted image 20231210212502.png",
     "Pasted image 20231210201525.png",
     "Pasted image 20231210201103.png",
