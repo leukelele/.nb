@@ -1,6 +1,7 @@
 {
   "useCache": true,
   "hideExcluded": true,
+  "downrankedFoldersFilters": [],
   "ignoreDiacritics": true,
   "indexedFileTypes": [],
   "PDFIndexing": false,
