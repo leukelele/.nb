@@ -24,8 +24,13 @@
             "id": "d51f9e05fd0f6ae7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2404142251.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -124,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2404091616.md",
+                "file": "2404142251.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2404091616.md",
+                "file": "2404142251.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,8 +181,9 @@
   "active": "d51f9e05fd0f6ae7",
   "lastOpenFiles": [
     "2404091616.md",
-    "2404091619.md",
+    "2404142251.md",
     "2403191612.md",
+    "2404091619.md",
     "2404091706.md",
     "nodes/2404062140.md",
     "nodes/2404062246.md",
@@ -200,7 +206,6 @@
     "2403071656.md",
     "2402220006.md",
     "2402212344.md",
-    "templates/node-tmpl.md",
     "Pasted image 20231210212502.png",
     "Pasted image 20231210201525.png",
     "Pasted image 20231210201103.png",
