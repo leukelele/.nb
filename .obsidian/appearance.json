@@ -6,7 +6,8 @@
   "accentColor": "",
   "enabledCssSnippets": [
     "big-math",
-    "default-font"
+    "default-font",
+    "bolder_bold"
   ],
   "nativeMenus": false,
   "monospaceFontFamily": "JetBrains Mono"
