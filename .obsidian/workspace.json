@@ -27,7 +27,7 @@
               "type": "markdown",
               "state": {
                 "file": "2404210243.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -129,7 +129,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2404210243.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,13 +145,13 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2404210243.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -178,27 +177,27 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d51f9e05fd0f6ae7",
+  "active": "7acc409f2c31467b",
   "lastOpenFiles": [
     "2404210243.md",
     "2404210219.md",
+    "nodes/2404062140.md",
+    "nodes/2402212335.md",
+    "2404142251.md",
+    "2404091616.md",
     "nodes/2404062246.md",
+    "nodes/2404062100.md",
+    "nodes/2402212329.md",
+    "nodes/2402212256.md",
+    "nodes/2402201614.md",
+    "nodes/2402111312.md",
     "nodes/2402072137.md",
     "nodes/2402072003.md",
-    "2404091616.md",
-    "2404142251.md",
     "2403191612.md",
     "2404091619.md",
     "2404091706.md",
-    "nodes/2404062140.md",
     "2403281608.md",
-    "nodes/2402111312.md",
-    "nodes/2402201614.md",
-    "nodes/2402212256.md",
     "nodes/2402212318.md",
-    "nodes/2402212329.md",
-    "nodes/2402212335.md",
-    "nodes/2404062100.md",
     "excalibrain.md",
     "Untitled.md",
     "2402291608.md",
