@@ -129,6 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2404091616.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,6 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2404091616.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
