@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2404142251.md",
+                "file": "2404091616.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#compsci/arch",
+                "query": "tag:#compsci/os/linux/distro",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2404142251.md",
+                "file": "2404091616.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2404142251.md",
+                "file": "2404091616.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,12 +180,12 @@
   },
   "active": "2b329123cb678274",
   "lastOpenFiles": [
-    "2404091616.md",
-    "2404210243.md",
-    "2404210219.md",
-    "nodes/2404062140.md",
-    "nodes/2402212335.md",
+    "nodes/2404210219.md",
     "2404142251.md",
+    "2404210243.md",
+    "nodes/2404062140.md",
+    "2404091616.md",
+    "nodes/2402212335.md",
     "nodes/2404062246.md",
     "nodes/2404062100.md",
     "nodes/2402212329.md",
