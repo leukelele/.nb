@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/2404062246.md",
-                "mode": "preview",
+                "file": "2404282219.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#compsci/os/linux/distro",
+                "query": "tag:#compsci/arch/memory",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -77,7 +77,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -115,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nodes/2404062246.md",
+                "file": "2404282219.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nodes/2404062246.md",
+                "file": "2404282219.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,22 +167,23 @@
   },
   "active": "f550f5ce8e6ce2b2",
   "lastOpenFiles": [
+    "nodes/2402072003.md",
+    "2404282219.md",
+    "nodes/2402212318.md",
+    "nodes/2402212329.md",
+    "nodes/2402212335.md",
+    "nodes/2404062100.md",
+    "nodes/2404062140.md",
+    "nodes/2404062246.md",
     "nodes/2404091616.md",
     "nodes/2404210219.md",
     "nodes/2404210243.md",
-    "nodes/2404062140.md",
-    "nodes/2402212318.md",
     "nodes/2402072137.md",
     "excalibrain.md",
     "2404142251.md",
-    "nodes/2402212335.md",
-    "nodes/2404062246.md",
-    "nodes/2404062100.md",
-    "nodes/2402212329.md",
     "nodes/2402212256.md",
     "nodes/2402201614.md",
     "nodes/2402111312.md",
-    "nodes/2402072003.md",
     "2403191612.md",
     "2404091619.md",
     "2404091706.md",
@@ -191,7 +193,6 @@
     "2402271621.md",
     "2404021615.md",
     "2403261618.md",
-    "2403071656.md",
     "Pasted image 20231210212502.png",
     "Pasted image 20231210201525.png",
     "Pasted image 20231210201103.png",
