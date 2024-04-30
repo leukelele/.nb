@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2404282235.md",
+                "file": "2404301619.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -81,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.51103591918945
+    "width": 270.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "74e1ce9a16329adb",
@@ -113,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2404282235.md",
+                "file": "2404301619.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2404282235.md",
+                "file": "2404301619.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 364.5
+    "width": 364.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,6 +167,7 @@
   "active": "f550f5ce8e6ce2b2",
   "lastOpenFiles": [
     "nodes/2404282219.md",
+    "2404301619.md",
     "2404282235.md",
     "nodes/2404210243.md",
     "nodes/2404210219.md",
@@ -189,7 +192,6 @@
     "Untitled.md",
     "2402291608.md",
     "2402271621.md",
-    "2404021615.md",
     "Pasted image 20231210212502.png",
     "Pasted image 20231210201525.png",
     "Pasted image 20231210201103.png",
