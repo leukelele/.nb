@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2406041346.md",
+                "file": "2406041646.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2406041346.md",
+                "file": "2406041646.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2406041346.md",
+                "file": "2406041646.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,23 +165,16 @@
   },
   "active": "f550f5ce8e6ce2b2",
   "lastOpenFiles": [
-    "nodes/2405280058.md",
-    "2406041346.md",
+    "nodes/2406041346.md",
+    "2406041646.md",
     "2405021611.md",
-    "2405220925.md",
-    "2405220932.md",
-    "nodes/2402072003.md",
-    "2404301619.md",
-    "2405032046.md",
-    "2405021622.md",
+    "nodes/2405280058.md",
     "nodes/2404282219.md",
-    "2404282235.md",
     "nodes/2404210243.md",
     "nodes/2404210219.md",
     "nodes/2404091616.md",
     "nodes/2404062246.md",
     "nodes/2404062140.md",
-    "nodes/2404062100.md",
     "nodes/2402212335.md",
     "nodes/2402212329.md",
     "nodes/2402212318.md",
@@ -189,8 +182,15 @@
     "nodes/2402201614.md",
     "nodes/2402111312.md",
     "nodes/2402072137.md",
+    "nodes/2402072003.md",
+    "2405220925.md",
+    "2405220932.md",
+    "2404301619.md",
+    "2405032046.md",
+    "2405021622.md",
+    "2404282235.md",
+    "nodes/2404062100.md",
     "excalibrain.md",
-    "2404142251.md",
     "Pasted image 20231210212502.png",
     "Pasted image 20231210201525.png",
     "Pasted image 20231210201103.png",
