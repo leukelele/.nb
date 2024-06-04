@@ -13,8 +13,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/2406041346.md",
+                "file": "nodes/2406041646.md",
                 "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e6ac36dc7a030358",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nodes/2406041346.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -81,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.51103591918945
+    "width": 270.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "74e1ce9a16329adb",
@@ -92,11 +106,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "95f248f705101050",
+            "id": "191d0a225a30353e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "excalibrain.md"
+              }
             }
           },
           {
@@ -113,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nodes/2406041346.md",
+                "file": "nodes/2406041646.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,19 +146,17 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nodes/2406041346.md",
+                "file": "nodes/2406041646.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 364.5,
-    "collapsed": true
+    "width": 364.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,8 +179,9 @@
   },
   "active": "f550f5ce8e6ce2b2",
   "lastOpenFiles": [
-    "2406041646.md",
     "nodes/2406041346.md",
+    "nodes/2406041646.md",
+    "excalibrain.md",
     "2405021611.md",
     "nodes/2405280058.md",
     "nodes/2404282219.md",
@@ -190,7 +205,6 @@
     "2405021622.md",
     "2404282235.md",
     "nodes/2404062100.md",
-    "excalibrain.md",
     "Pasted image 20231210212502.png",
     "Pasted image 20231210201525.png",
     "Pasted image 20231210201103.png",
