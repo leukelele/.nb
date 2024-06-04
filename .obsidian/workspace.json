@@ -13,21 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/2406041646.md",
+                "file": "2406041734.md",
                 "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e6ac36dc7a030358",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "nodes/2406041346.md",
-                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -129,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nodes/2406041646.md",
+                "file": "2406041734.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nodes/2406041646.md",
+                "file": "2406041734.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,8 +166,9 @@
   },
   "active": "f550f5ce8e6ce2b2",
   "lastOpenFiles": [
-    "nodes/2406041346.md",
     "nodes/2406041646.md",
+    "2406041734.md",
+    "nodes/2406041346.md",
     "excalibrain.md",
     "2405021611.md",
     "nodes/2405280058.md",
@@ -204,7 +192,6 @@
     "2405032046.md",
     "2405021622.md",
     "2404282235.md",
-    "nodes/2404062100.md",
     "Pasted image 20231210212502.png",
     "Pasted image 20231210201525.png",
     "Pasted image 20231210201103.png",
