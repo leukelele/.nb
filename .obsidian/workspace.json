@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f95b18c389f7af5a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.51103591918945
+    "width": 270.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "74e1ce9a16329adb",
@@ -153,10 +165,18 @@
       "templates:Insert template": true,
       "command-palette:Open command palette": true,
       "workspaces:Manage workspace layouts": true,
-      "zk-prefixer:Create new unique note": true
+      "zk-prefixer:Create new unique note": true,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "omnisearch:Omnisearch": false,
+      "privacy-glasses:Hide all": false,
+      "privacy-glasses:Reveal non-private": false,
+      "privacy-glasses:Reveal headlines only": false,
+      "privacy-glasses:Reveal all": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "advanced-random-note:Open random note modal": false
     }
   },
-  "active": "f550f5ce8e6ce2b2",
+  "active": "f95b18c389f7af5a",
   "lastOpenFiles": [
     "nodes/2405280058.md",
     "nodes/2404282219.md",
