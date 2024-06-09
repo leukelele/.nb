@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/24042102190000.md",
+                "file": "nodes/2402212318.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -92,16 +92,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "191d0a225a30353e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "excalibrain.md"
-              }
-            }
-          },
-          {
             "id": "7acc409f2c31467b",
             "type": "leaf",
             "state": {
@@ -115,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nodes/24042102190000.md",
+                "file": "nodes/2402212318.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,18 +122,18 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nodes/24042102190000.md",
+                "file": "nodes/2402212318.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 364.5,
-    "collapsed": true
+    "width": 364.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,44 +144,38 @@
       "command-palette:Open command palette": true,
       "workspaces:Manage workspace layouts": true,
       "zk-prefixer:Create new unique note": true,
-      "obsidian-spaced-repetition:Review flashcards": false,
-      "omnisearch:Omnisearch": false,
-      "privacy-glasses:Hide all": false,
-      "privacy-glasses:Reveal non-private": false,
-      "privacy-glasses:Reveal headlines only": false,
-      "privacy-glasses:Reveal all": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "advanced-random-note:Open random note modal": false
+      "omnisearch:Omnisearch": true,
+      "advanced-random-note:Open random note modal": true
     }
   },
   "active": "2dbac7dbe5964508",
   "lastOpenFiles": [
-    "nodes/24052800580000.md",
-    "nodes/24042822190000.md",
-    "nodes/24060413460000.md",
-    "nodes/24060416460000.md",
-    "nodes/24060417340000.md",
-    "nodes/24060418000000.md",
-    "nodes/24060419210000.md",
+    "Untitled",
+    "nodes/2402212256.md",
+    "nodes/2402201614.md",
+    "nodes/2402072003.md",
     "excalibrain.md",
+    "nodes/2404282219.md",
+    "nodes/2406041921.md",
+    "nodes/2406041800.md",
+    "nodes/2406041734.md",
+    "nodes/2406041646.md",
+    "nodes/2406041346.md",
+    "nodes/2405280058.md",
+    "nodes/2404210243.md",
+    "nodes/2404210219.md",
+    "nodes/2404091616.md",
+    "nodes/2404062246.md",
+    "nodes/2404062140.md",
+    "nodes/2404062100.md",
+    "nodes/2402212335.md",
+    "nodes/2402212329.md",
+    "nodes/2402212318.md",
     "2405021611.md",
-    "nodes/24042102430000.md",
-    "nodes/24042102190000.md",
-    "nodes/24040916160000.md",
-    "nodes/24040622460000.md",
-    "nodes/24040621400000.md",
-    "nodes/24022123350000.md",
-    "nodes/24022123290000.md",
-    "nodes/24022123180000.md",
-    "nodes/24022122560000.md",
-    "nodes/24022016140000.md",
     "nodes/24021113120000.md",
     "nodes/24020721370000.md",
-    "nodes/24020720030000.md",
     "2405220925.md",
     "2405220932.md",
-    "2404301619.md",
-    "2405032046.md",
     "Pasted image 20231210212502.png",
     "Pasted image 20231210201525.png",
     "Pasted image 20231210201103.png",
@@ -208,7 +192,6 @@
     "nodes/intro-to-ins.canvas",
     "attachments/202303011618.pdf",
     "attachments/202303032252.pdf",
-    "Untitled",
     "test",
     "test",
     "todo/RE",

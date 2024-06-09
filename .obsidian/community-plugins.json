@@ -1,21 +1,11 @@
 [
-  "obsidian-admonition",
   "obsidian-git",
-  "obsidian-spaced-repetition",
-  "quick-latex",
-  "obsidian-excalidraw-plugin",
   "nldates-obsidian",
   "obsidian-vimrc-support",
   "omnisearch",
   "nuke-orphans",
-  "privacy-glasses",
   "find-unlinked-files",
-  "obsidian-smart-typography",
   "obsidian-style-settings",
-  "tag-wrangler",
-  "dataview",
-  "excalibrain",
   "advanced-random-note",
-  "obsidian-relativenumber",
-  "obsidian-advanced-codeblock"
+  "obsidian-relativenumber"
 ]
