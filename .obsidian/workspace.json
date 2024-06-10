@@ -143,14 +143,14 @@
       "templates:Insert template": true,
       "command-palette:Open command palette": true,
       "workspaces:Manage workspace layouts": true,
-      "zk-prefixer:Create new unique note": true,
-      "omnisearch:Omnisearch": true,
-      "advanced-random-note:Open random note modal": true
+      "zk-prefixer:Create new unique note": true
     }
   },
   "active": "2dbac7dbe5964508",
   "lastOpenFiles": [
-    "Untitled",
+    "nodes/2402212318.md",
+    "Untitled.md",
+    "project",
     "nodes/2402212256.md",
     "nodes/2402201614.md",
     "nodes/2402072003.md",
@@ -170,7 +170,6 @@
     "nodes/2404062100.md",
     "nodes/2402212335.md",
     "nodes/2402212329.md",
-    "nodes/2402212318.md",
     "2405021611.md",
     "nodes/24021113120000.md",
     "nodes/24020721370000.md",
