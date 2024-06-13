@@ -133,7 +133,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 364.5
+    "width": 364.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -143,11 +144,14 @@
       "templates:Insert template": true,
       "command-palette:Open command palette": true,
       "workspaces:Manage workspace layouts": true,
-      "zk-prefixer:Create new unique note": true
+      "zk-prefixer:Create new unique note": true,
+      "omnisearch:Omnisearch": false,
+      "advanced-random-note:Open random note modal": false
     }
   },
   "active": "2dbac7dbe5964508",
   "lastOpenFiles": [
+    "templates/node-tmpl.md",
     "nodes/2402212318.md",
     "Untitled.md",
     "project",
@@ -174,7 +178,6 @@
     "nodes/24021113120000.md",
     "nodes/24020721370000.md",
     "2405220925.md",
-    "2405220932.md",
     "Pasted image 20231210212502.png",
     "Pasted image 20231210201525.png",
     "Pasted image 20231210201103.png",
