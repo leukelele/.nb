@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/2406041734.md",
+                "file": "nodes/2402212318.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nodes/2406041734.md",
+                "file": "nodes/2402212318.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nodes/2406041734.md",
+                "file": "nodes/2402212318.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,11 +144,21 @@
       "templates:Insert template": true,
       "command-palette:Open command palette": true,
       "workspaces:Manage workspace layouts": true,
-      "zk-prefixer:Create new unique note": true
+      "zk-prefixer:Create new unique note": true,
+      "omnisearch:Omnisearch": false,
+      "advanced-random-note:Open random note modal": false
     }
   },
   "active": "f550f5ce8e6ce2b2",
   "lastOpenFiles": [
+    "nodes/2402072003.md~",
+    "nodes/1718246482-USPT.md",
+    "2405021611.md~",
+    "nodes/2402212329.md",
+    "nodes/2402212256.md",
+    "nodes/2402201614.md",
+    "nodes/2402072003.md",
+    "nodes/2406041734.md",
     "2406121915.md",
     "2405021611.md",
     "nodes/2406041800.md",
@@ -156,13 +166,9 @@
     "templates/node-tmpl.md",
     "Untitled.md",
     "project",
-    "nodes/2402212256.md",
-    "nodes/2402201614.md",
-    "nodes/2402072003.md",
     "excalibrain.md",
     "nodes/2404282219.md",
     "nodes/2406041921.md",
-    "nodes/2406041734.md",
     "nodes/2406041646.md",
     "nodes/2406041346.md",
     "nodes/2405280058.md",
@@ -173,9 +179,6 @@
     "nodes/2404062140.md",
     "nodes/2404062100.md",
     "nodes/2402212335.md",
-    "nodes/2402212329.md",
-    "nodes/24021113120000.md",
-    "nodes/24020721370000.md",
     "Pasted image 20231210212502.png",
     "Pasted image 20231210201525.png",
     "Pasted image 20231210201103.png",
@@ -195,8 +198,6 @@
     "test",
     "test",
     "todo/RE",
-    "todo/ins",
-    "todo",
     "gathering hub/shelf/artificial-intellitence.canvas"
   ]
 }
