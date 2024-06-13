@@ -144,9 +144,7 @@
       "templates:Insert template": true,
       "command-palette:Open command palette": true,
       "workspaces:Manage workspace layouts": true,
-      "zk-prefixer:Create new unique note": true,
-      "omnisearch:Omnisearch": false,
-      "advanced-random-note:Open random note modal": false
+      "zk-prefixer:Create new unique note": true
     }
   },
   "active": "f550f5ce8e6ce2b2",
