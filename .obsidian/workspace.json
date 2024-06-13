@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/2402212318.md",
+                "file": "2406121915.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nodes/2402212318.md",
+                "file": "2406121915.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nodes/2402212318.md",
+                "file": "2406121915.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,15 +144,16 @@
       "templates:Insert template": true,
       "command-palette:Open command palette": true,
       "workspaces:Manage workspace layouts": true,
-      "zk-prefixer:Create new unique note": true,
-      "omnisearch:Omnisearch": false,
-      "advanced-random-note:Open random note modal": false
+      "zk-prefixer:Create new unique note": true
     }
   },
-  "active": "2dbac7dbe5964508",
+  "active": "f550f5ce8e6ce2b2",
   "lastOpenFiles": [
-    "templates/node-tmpl.md",
+    "2405021611.md",
+    "nodes/2406041800.md",
+    "2406121915.md",
     "nodes/2402212318.md",
+    "templates/node-tmpl.md",
     "Untitled.md",
     "project",
     "nodes/2402212256.md",
@@ -161,7 +162,6 @@
     "excalibrain.md",
     "nodes/2404282219.md",
     "nodes/2406041921.md",
-    "nodes/2406041800.md",
     "nodes/2406041734.md",
     "nodes/2406041646.md",
     "nodes/2406041346.md",
@@ -174,10 +174,8 @@
     "nodes/2404062100.md",
     "nodes/2402212335.md",
     "nodes/2402212329.md",
-    "2405021611.md",
     "nodes/24021113120000.md",
     "nodes/24020721370000.md",
-    "2405220925.md",
     "Pasted image 20231210212502.png",
     "Pasted image 20231210201525.png",
     "Pasted image 20231210201103.png",
