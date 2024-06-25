@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/2402212318.md",
+                "file": "nodes/2406041921.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nodes/2402212318.md",
+                "file": "nodes/2406041921.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,14 +122,22 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nodes/2402212318.md",
+                "file": "nodes/2406041921.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "d411c9a5b78dd4fd",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -145,33 +153,19 @@
       "command-palette:Open command palette": true,
       "workspaces:Manage workspace layouts": true,
       "zk-prefixer:Create new unique note": true,
+      "advanced-random-note:Open random note modal": false,
       "omnisearch:Omnisearch": false,
-      "advanced-random-note:Open random note modal": false
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
   "active": "f550f5ce8e6ce2b2",
   "lastOpenFiles": [
-    "nodes/2402072003.md~",
-    "nodes/1718246482-USPT.md",
-    "2405021611.md~",
-    "nodes/2402212329.md",
-    "nodes/2402212256.md",
-    "nodes/2402201614.md",
-    "nodes/2402072003.md",
-    "nodes/2406041734.md",
-    "2406121915.md",
-    "2405021611.md",
     "nodes/2406041800.md",
-    "nodes/2402212318.md",
-    "templates/node-tmpl.md",
-    "Untitled.md",
-    "project",
-    "excalibrain.md",
-    "nodes/2404282219.md",
-    "nodes/2406041921.md",
+    "nodes/2406041734.md",
     "nodes/2406041646.md",
     "nodes/2406041346.md",
     "nodes/2405280058.md",
+    "nodes/2404282219.md",
     "nodes/2404210243.md",
     "nodes/2404210219.md",
     "nodes/2404091616.md",
@@ -179,6 +173,22 @@
     "nodes/2404062140.md",
     "nodes/2404062100.md",
     "nodes/2402212335.md",
+    "nodes/2402212329.md",
+    "nodes/2402212318.md",
+    "nodes/2402212256.md",
+    "nodes/2402201614.md",
+    "nodes/2402072003.md",
+    "nodes/2406041800.md~",
+    "nodes/2406041921.md",
+    "nodes/2402072003.md~",
+    "nodes/1718246482-USPT.md",
+    "2405021611.md~",
+    "2406121915.md",
+    "2405021611.md",
+    "templates/node-tmpl.md",
+    "Untitled.md",
+    "project",
+    "excalibrain.md",
     "Pasted image 20231210212502.png",
     "Pasted image 20231210201525.png",
     "Pasted image 20231210201103.png",
@@ -197,7 +207,6 @@
     "attachments/202303032252.pdf",
     "test",
     "test",
-    "todo/RE",
     "gathering hub/shelf/artificial-intellitence.canvas"
   ]
 }
