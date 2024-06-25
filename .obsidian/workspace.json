@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2402072003.md",
+                "file": "2406041921.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2402072003.md",
+                "file": "2406041921.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2402072003.md",
+                "file": "2406041921.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,28 +171,29 @@
   },
   "active": "f550f5ce8e6ce2b2",
   "lastOpenFiles": [
-    "2405280058.md",
-    "2406041734.md",
-    "2406041800.md",
-    "2406041921.md",
     "2402072003.md",
-    "Untitled.md",
-    "Nodes",
-    "2404091616.md",
-    "2402212335.md",
-    "2402201614.md",
-    "Web",
-    "2406041646.md",
-    "2406041346.md",
-    "2404282219.md",
     "2404210243.md",
     "2404210219.md",
+    "2404091616.md",
     "2404062246.md",
     "2404062140.md",
     "2404062100.md",
+    "2402212335.md",
     "2402212329.md",
     "2402212318.md",
     "2402212256.md",
+    "2402201614.md",
+    "2406041346.md",
+    "2406041921.md",
+    "2406041800.md",
+    "node",
+    "2405280058.md",
+    "2406041734.md",
+    "Untitled.md",
+    "Nodes",
+    "Web",
+    "2406041646.md",
+    "2404282219.md",
     "nodes/2406041800.md~",
     "nodes/2402072003.md~",
     "nodes/1718246482-USPT.md",
@@ -217,7 +218,6 @@
     "nodes/intro-to-modern-RE-practices.canvas",
     "nodes/intro-to-ins.canvas",
     "attachments/202303011618.pdf",
-    "attachments/202303032252.pdf",
     "gathering hub/shelf/artificial-intellitence.canvas"
   ]
 }
