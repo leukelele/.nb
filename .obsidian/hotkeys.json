@@ -396,5 +396,13 @@
       ],
       "key": "'"
     }
+  ],
+  "advanced-random-note:open-random-file": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "'"
+    }
   ]
 }

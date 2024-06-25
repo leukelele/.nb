@@ -1,15 +1,18 @@
 {
-  "openInNewLeaf": false,
   "queries": [
     {
-      "id": "query:37d3fdd3-df05-4350-b3f9-8267ff612965",
-      "name": "nodes",
-      "query": "path: nodes/",
+      "id": "query:576d936c-af79-4ca7-9b45-16989d3c2cd8",
+      "name": "/",
+      "query": "",
       "type": "Default",
-      "createCommand": true,
-      "useDisabledFolders": true
+      "createCommand": false,
+      "useDisabledFolders": true,
+      "openType": "Default"
     }
   ],
   "disabledFolders": "",
-  "debug": false
+  "debug": false,
+  "openType": "Active Leaf",
+  "setActive": true,
+  "openInNewLeaf": false
 }
