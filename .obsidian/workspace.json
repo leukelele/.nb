@@ -4,34 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f3731c707fa39d87",
+        "id": "55b85ab56abed036",
         "type": "tabs",
         "children": [
           {
-            "id": "f550f5ce8e6ce2b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2406251212.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "110bb221d6c013f8",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.5"
-              }
-            }
-          },
-          {
-            "id": "2a411a96ccbc8a64",
+            "id": "b9b3df2d8b5d44e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -43,8 +20,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.51103591918945
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "74e1ce9a16329adb",
@@ -129,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2406251212.md",
+                "file": "2402072003.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2406251212.md",
+                "file": "2402072003.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +141,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 364.5
+    "width": 276.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,44 +153,45 @@
       "command-palette:Open command palette": true,
       "workspaces:Manage workspace layouts": true,
       "zk-prefixer:Create new unique note": true,
-      "advanced-random-note:Open random note modal": false,
       "omnisearch:Omnisearch": false,
+      "advanced-random-note:Open random note modal": false,
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "110bb221d6c013f8",
+  "active": "b9b3df2d8b5d44e2",
   "lastOpenFiles": [
-    "2406251212.md~",
-    "2402072003.md",
-    "2406251224.md",
-    "2406251212.md",
-    "2406251223.md",
-    "24062512230808.md",
-    "2402201614.md",
-    "2406041800.md",
+    "2406270021.md~",
+    "2406041646.md",
+    "2404210243.md",
     "2402212256.md",
     "2402212335.md",
-    "2402212329.md",
     "2402212318.md",
+    "2402072003.md",
+    "2406270021.md",
+    "2406041734.md",
+    "2405280058.md",
+    "2404282219.md",
     "2406041921.md",
-    "2404210243.md",
-    "2404210219.md",
-    "2404091616.md",
-    "2404062246.md",
+    "2406251212.md",
     "2404062140.md",
+    "2402201614.md",
+    "2404210219.md",
     "2404062100.md",
+    "2404062246.md",
+    "2406251212.md~",
+    "2406251224.md",
+    "2406251223.md",
+    "24062512230808.md",
+    "2406041800.md",
+    "2402212329.md",
+    "2404091616.md",
     "2406041346.md",
     "node",
-    "2405280058.md",
-    "2406041734.md",
     "Untitled.md",
     "Nodes",
     "Web",
-    "2406041646.md",
-    "2404282219.md",
     "nodes/2406041800.md~",
     "nodes/2402072003.md~",
-    "nodes/1718246482-USPT.md",
     "2405021611.md~",
     "project",
     "Pasted image 20231210212502.png",
@@ -229,7 +208,6 @@
     "networks.rnote",
     "nodes/intro-to-modern-RE-practices.canvas",
     "nodes/intro-to-ins.canvas",
-    "attachments/202303011618.pdf",
     "gathering hub/shelf/artificial-intellitence.canvas"
   ]
 }
