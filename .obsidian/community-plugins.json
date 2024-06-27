@@ -6,7 +6,7 @@
   "nuke-orphans",
   "find-unlinked-files",
   "obsidian-style-settings",
-  "advanced-random-note",
   "obsidian-relativenumber",
-  "obsidian-spaced-repetition"
+  "obsidian-spaced-repetition",
+  "smart-random-note"
 ]

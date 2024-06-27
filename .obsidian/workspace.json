@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2402212318.md",
+                "file": "2406041346.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2402212318.md",
+                "file": "2406041346.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2402212318.md",
+                "file": "2406041346.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,8 +140,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5,
-    "collapsed": true
+    "width": 366.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,42 +153,41 @@
       "zk-prefixer:Create new unique note": true,
       "omnisearch:Omnisearch": false,
       "advanced-random-note:Open random note modal": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "smart-random-note:Open Random Note from Search": false
     }
   },
   "active": "36b8df451892b665",
   "lastOpenFiles": [
+    "2405280058.md",
+    "2404282219.md",
+    "2404091616.md",
+    "2404062246.md",
+    "2404062140.md",
     "2402212256.md",
     "2402201614.md",
     "2402072003.md",
-    "orphans.md",
-    "2402212318.md",
-    "2402212335.md",
-    "2404062140.md",
-    "2404091616.md",
     "2404210243.md",
-    "2405280058.md",
+    "2404210219.md",
+    "2404062100.md",
+    "2402212318.md",
+    "2402212329.md",
+    "2402212335.md",
+    "2406270021.md",
+    "2406251212.md",
     "2406041346.md",
     "2406041646.md",
     "2406041734.md",
     "2406041800.md",
     "2406041921.md",
-    "2406251212.md",
-    "2406270021.md",
-    "2402212329.md",
-    "2404062100.md",
-    "2404062246.md",
-    "2404210219.md",
-    "2404282219.md",
     "nodes",
-    "nodes",
+    "orphans.md",
     "2406270021.md~",
     "2406251212.md~",
     "2406251224.md",
     "2406251223.md",
     "24062512230808.md",
     "node",
-    "Untitled.md",
     "Nodes",
     "Web",
     "nodes/2406041800.md~",
