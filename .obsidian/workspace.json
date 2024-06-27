@@ -68,14 +68,6 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "3aab5e28bd132ad9",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
           }
         ]
       }
@@ -157,7 +149,7 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "36b8df451892b665",
+  "active": "2dbac7dbe5964508",
   "lastOpenFiles": [
     "2405280058.md",
     "2404282219.md",
@@ -167,6 +159,8 @@
     "2402212256.md",
     "2402201614.md",
     "2402072003.md",
+    "2406041800.md",
+    "2406041346.md",
     "2404210243.md",
     "2404210219.md",
     "2404062100.md",
@@ -175,10 +169,8 @@
     "2402212335.md",
     "2406270021.md",
     "2406251212.md",
-    "2406041346.md",
     "2406041646.md",
     "2406041734.md",
-    "2406041800.md",
     "2406041921.md",
     "nodes",
     "orphans.md",
