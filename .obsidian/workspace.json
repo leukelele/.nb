@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2406041346.md",
+                "file": "instance/2405280058.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2406041346.md",
+                "file": "instance/2405280058.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2406041346.md",
+                "file": "instance/2405280058.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,30 +149,32 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "2dbac7dbe5964508",
+  "active": "36b8df451892b665",
   "lastOpenFiles": [
-    "2405280058.md",
-    "2404282219.md",
-    "2404091616.md",
-    "2404062246.md",
-    "2404062140.md",
-    "2402212256.md",
-    "2402201614.md",
-    "2402072003.md",
-    "2406041800.md",
-    "2406041346.md",
+    "nodes/2406041646.md",
+    "instance/2405280058.md",
+    "instance/2404062246.md",
+    "instance/2402212256.md",
+    "instance/2402201614.md",
+    "2406270021.md",
+    "instance/2406251212.md",
+    "nodes/2406041921.md",
+    "nodes/2406041800.md",
+    "nodes/2406041734.md",
+    "nodes/2406041346.md",
+    "nodes/2404091616.md",
+    "nodes/2404062140.md",
+    "instance",
+    "nodes/Untitled",
+    "nodes/2404282219.md",
+    "nodes/2402072003.md",
+    "nodes",
     "2404210243.md",
     "2404210219.md",
     "2404062100.md",
     "2402212318.md",
     "2402212329.md",
     "2402212335.md",
-    "2406270021.md",
-    "2406251212.md",
-    "2406041646.md",
-    "2406041734.md",
-    "2406041921.md",
-    "nodes",
     "orphans.md",
     "2406270021.md~",
     "2406251212.md~",
@@ -184,7 +186,6 @@
     "Web",
     "nodes/2406041800.md~",
     "nodes/2402072003.md~",
-    "2405021611.md~",
     "Pasted image 20231210212502.png",
     "Pasted image 20231210201525.png",
     "Pasted image 20231210201103.png",
