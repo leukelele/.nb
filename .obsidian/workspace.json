@@ -21,6 +21,16 @@
             }
           },
           {
+            "id": "110bb221d6c013f8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
+          },
+          {
             "id": "2a411a96ccbc8a64",
             "type": "leaf",
             "state": {
@@ -33,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,7 +180,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "f550f5ce8e6ce2b2",
+  "active": "110bb221d6c013f8",
   "lastOpenFiles": [
     "2406251212.md~",
     "2402072003.md",
