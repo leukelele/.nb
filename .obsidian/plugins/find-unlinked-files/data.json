@@ -2,12 +2,7 @@
   "outputFileName": "orphans",
   "disableWorkingLinks": false,
   "directoriesToIgnore": [
-    "templates/",
-    "periodic/yearly/",
-    "periodic/monthly/",
-    "periodic/weekly/",
-    "periodic/daily/",
-    "gathering-hub/"
+    ""
   ],
   "filesToIgnore": [
     ""

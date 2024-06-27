@@ -6,15 +6,15 @@
     "flashcardTags": [
       "#flashcards"
     ],
-    "convertFoldersToDecks": false,
-    "cardCommentOnSameLine": false,
+    "convertFoldersToDecks": true,
+    "cardCommentOnSameLine": true,
     "burySiblingCards": false,
     "showContextInCards": false,
     "flashcardHeightPercentage": 80,
     "flashcardWidthPercentage": 40,
     "randomizeCardOrder": null,
     "flashcardCardOrder": "DueFirstRandom",
-    "flashcardDeckOrder": "PrevDeckComplete_Sequential",
+    "flashcardDeckOrder": "PrevDeckComplete_Random",
     "convertHighlightsToClozes": true,
     "convertBoldTextToClozes": false,
     "convertCurlyBracketsToClozes": false,
@@ -25,10 +25,10 @@
     "editLaterTag": "#edit-later",
     "enableNoteReviewPaneOnStartup": true,
     "tagsToReview": [
-      "#review"
+      ""
     ],
     "noteFoldersToIgnore": [],
-    "openRandomNote": false,
+    "openRandomNote": true,
     "autoNextNote": false,
     "disableFileMenuReviewOptions": false,
     "maxNDaysNotesReviewQueue": 365,

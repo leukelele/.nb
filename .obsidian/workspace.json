@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "55b85ab56abed036",
+        "id": "fa70c494a54d4ee8",
         "type": "tabs",
         "children": [
           {
-            "id": "b9b3df2d8b5d44e2",
+            "id": "36b8df451892b665",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2402072003.md",
-                "mode": "preview",
+                "file": "2402212318.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -81,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 252.50124740600586
   },
   "right": {
     "id": "74e1ce9a16329adb",
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2402072003.md",
+                "file": "2402212318.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2402072003.md",
+                "file": "2402212318.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,34 +157,37 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "b9b3df2d8b5d44e2",
+  "active": "36b8df451892b665",
   "lastOpenFiles": [
-    "2406270021.md~",
-    "2406041646.md",
-    "2404210243.md",
     "2402212256.md",
-    "2402212335.md",
-    "2402212318.md",
+    "2402201614.md",
     "2402072003.md",
-    "2406270021.md",
-    "2406041734.md",
+    "orphans.md",
+    "2402212318.md",
+    "2402212335.md",
+    "2404062140.md",
+    "2404091616.md",
+    "2404210243.md",
     "2405280058.md",
-    "2404282219.md",
+    "2406041346.md",
+    "2406041646.md",
+    "2406041734.md",
+    "2406041800.md",
     "2406041921.md",
     "2406251212.md",
-    "2404062140.md",
-    "2402201614.md",
-    "2404210219.md",
+    "2406270021.md",
+    "2402212329.md",
     "2404062100.md",
     "2404062246.md",
+    "2404210219.md",
+    "2404282219.md",
+    "nodes",
+    "nodes",
+    "2406270021.md~",
     "2406251212.md~",
     "2406251224.md",
     "2406251223.md",
     "24062512230808.md",
-    "2406041800.md",
-    "2402212329.md",
-    "2404091616.md",
-    "2406041346.md",
     "node",
     "Untitled.md",
     "Nodes",
@@ -193,7 +195,6 @@
     "nodes/2406041800.md~",
     "nodes/2402072003.md~",
     "2405021611.md~",
-    "project",
     "Pasted image 20231210212502.png",
     "Pasted image 20231210201525.png",
     "Pasted image 20231210201103.png",
@@ -204,8 +205,6 @@
     "attachments/2309222338i.png",
     "attachments/2310112328i.png",
     "attachments/2310112310i.png",
-    "attachments/202302271449.pdf",
-    "networks.rnote",
     "nodes/intro-to-modern-RE-practices.canvas",
     "nodes/intro-to-ins.canvas",
     "gathering hub/shelf/artificial-intellitence.canvas"

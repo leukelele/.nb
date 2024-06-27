@@ -1,8 +1,6 @@
 {
   "attachmentsPaths": [],
   "trashFolderOverride": "",
-  "ignorePatterns": [
-    "templates/",
-    "nodes/"
-  ]
+  "ignorePatterns": [],
+  "alternativeAttachmentAlg": false
 }
