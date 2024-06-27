@@ -68,6 +68,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "45a54b38988c337d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -144,7 +152,6 @@
       "workspaces:Manage workspace layouts": true,
       "zk-prefixer:Create new unique note": true,
       "omnisearch:Omnisearch": false,
-      "advanced-random-note:Open random note modal": false,
       "obsidian-spaced-repetition:Review flashcards": false,
       "smart-random-note:Open Random Note from Search": false
     }
