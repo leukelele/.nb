@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "70699272f7f36879",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2406041800.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2406272054.md",
+                "file": "2406041800.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2406272054.md",
+                "file": "2406041800.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,8 +162,17 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "36b8df451892b665",
+  "active": "70699272f7f36879",
   "lastOpenFiles": [
+    "2406041800.md~",
+    "2406302106.md~",
+    "2406302106.md",
+    "2406041346.md",
+    "2405280058.md",
+    "2406041646.md",
+    "2406041734.md",
+    "2406041800.md",
+    "2406272054.md",
     "2406270021.md",
     "2404062246.md",
     "2402201614.md",
@@ -173,18 +196,10 @@
     "2404210243.md",
     "2404210219.md",
     "2404062100.md",
-    "2402212318.md",
-    "2402212329.md",
-    "2402212335.md",
-    "orphans.md",
     "2406270021.md~",
     "2406251212.md~",
-    "2406251224.md",
-    "2406251223.md",
-    "24062512230808.md",
     "node",
     "Nodes",
-    "Web",
     "Pasted image 20231210212502.png",
     "Pasted image 20231210201525.png",
     "Pasted image 20231210201103.png",
