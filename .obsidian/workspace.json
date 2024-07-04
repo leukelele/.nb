@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2402201614.md",
+                "file": "2407040243.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2402201614.md",
+                "file": "2407040243.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2402201614.md",
+                "file": "2407040243.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,6 +149,14 @@
   },
   "active": "5d12fcb19218bcac",
   "lastOpenFiles": [
+    "2407040230.md",
+    "2407040222.md",
+    "2407040147.md",
+    "2407040043.md",
+    "2402212256.md",
+    "2402201614.md",
+    "2402072003.md",
+    "2407040243.md",
     "2404062140.md",
     "2405280058.md",
     "2406041646.md",
@@ -157,11 +165,7 @@
     "2406302106.md",
     "2406302118.md",
     "2407040033.md",
-    "2407040043.md",
     "2407040129.md",
-    "2402201614.md",
-    "2402212256.md",
-    "2402072003.md",
     "2406270021.md~",
     "2406302118.md~",
     "2406272054.md",
@@ -177,10 +181,6 @@
     "nb.sh",
     "nodes/2406041921.md",
     "nodes/2406041800.md",
-    "nodes/2406041734.md",
-    "nodes/2406041646.md",
-    "nodes/2406041346.md",
-    "nodes/2405280058.md",
     "instance",
     "nodes/Untitled",
     "nodes",
