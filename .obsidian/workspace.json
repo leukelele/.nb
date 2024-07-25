@@ -4,32 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "8b61ca7e3940e443",
+        "id": "ac98566ef73ae10f",
         "type": "tabs",
         "children": [
           {
-            "id": "7acc409f2c31467b",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "5d12fcb19218bcac",
+            "id": "6fa200cf15a130d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2406302106.md",
+                "file": "2407251026.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,12 +92,20 @@
         "type": "tabs",
         "children": [
           {
+            "id": "7acc409f2c31467b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
             "id": "aa3dde5d787b707c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2406302106.md",
+                "file": "2407251026.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2406302106.md",
+                "file": "2407251026.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,8 +132,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 501.5,
-    "collapsed": true
+    "width": 501.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,15 +147,18 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "5d12fcb19218bcac",
+  "active": "6fa200cf15a130d8",
   "lastOpenFiles": [
+    "2407251241.md",
+    "2407251026.md",
+    "2407251241.md~",
+    "2406302106.md",
     "2407040129.md",
     "2407041308.md",
     "2407070014.md",
     "2407231127.md",
     "2407221733.md",
     "2407250121.md",
-    "2407251026.md",
     "2406041800.md",
     "2404091616.md",
     "2407041731.md",
@@ -172,11 +173,9 @@
     "2406271832.md",
     "2406271915.md",
     "2406272054.md",
-    "2406302106.md",
     "2406302118.md",
     "2407040033.md",
     "2407040043.md",
-    "2407040147.md",
     "2407040043.md~",
     "2407071505.md~",
     "2407041717.md~",
@@ -186,7 +185,6 @@
     "2406302118.md~",
     "2406041800.md~",
     "2406302106.md~",
-    "nb.sh~",
     "Pasted image 20231210212502.png",
     "Pasted image 20231210201525.png",
     "Pasted image 20231210201103.png",
