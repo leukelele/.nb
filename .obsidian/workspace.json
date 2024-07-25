@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2404091616.md",
+                "file": "2407231127.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2404091616.md",
+                "file": "2407231127.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2404091616.md",
+                "file": "2407231127.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +132,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 366.5
+    "width": 501.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,6 +149,9 @@
   },
   "active": "5d12fcb19218bcac",
   "lastOpenFiles": [
+    "2407221733.md",
+    "2407040222.md",
+    "2404091616.md",
     "2406041646.md",
     "2406041734.md",
     "2406041800.md",
@@ -177,9 +180,6 @@
     "2407041729.md",
     "2402072003.md",
     "2407041308.md",
-    "2407041411.md",
-    "2407040243.md",
-    "2407040230.md",
     "2406270021.md~",
     "2406302118.md~",
     "2406041800.md~",
