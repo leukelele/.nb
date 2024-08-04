@@ -105,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2402072003.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2402072003.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,10 +147,11 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "7acc409f2c31467b",
+  "active": "6fa200cf15a130d8",
   "lastOpenFiles": [
-    "2402072003.md",
+    "2402201614.md~",
     "2402201614.md",
+    "2402072003.md",
     "2402072003.md~",
     "2407251241.md",
     "2407302001.md",
