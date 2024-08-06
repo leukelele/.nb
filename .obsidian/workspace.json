@@ -11,8 +11,13 @@
             "id": "a3b52d25fa2566ce",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "fleeting/2406272054.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -100,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "fleeting/2406272054.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "fleeting/2406272054.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,32 +150,33 @@
   },
   "active": "a3b52d25fa2566ce",
   "lastOpenFiles": [
+    "fleeting/2406271915.md",
+    "fleeting/2406272054.md",
+    "fleeting/2406270021.md",
+    "fleeting/2406041921.md",
+    "fleeting/2406041800.md",
+    "fleeting/2406041734.md",
+    "fleeting/2406041646.md",
+    "fleeting/2406041346.md",
+    "fleeting/2405280058.md",
+    "fleeting/2404282219.md",
+    "fleeting/2404091616.md",
+    "fleeting/2404062140.md",
+    "fleeting/2404062246.md",
+    "fleeting/2402212256.md",
+    "fleeting/2402201614.md",
+    "fleeting/2407040147.md",
+    "fleeting/2407072346.md",
+    "fleeting/2407251026.md",
+    "permanent/2408042136.md",
+    "permanent/2407251241.md",
+    "permanent/2402072003.md",
     "todo.md~",
     "todo.md",
     "2408042136.md",
     "2407251241.md",
     "permanent/todo.md",
-    "permanent/2408042136.md",
-    "permanent/2407251241.md",
-    "permanent/2402072003.md",
     "2407251026.md",
-    "fleeting/2407251026.md",
-    "fleeting/2407250121.md",
-    "fleeting/2407231127.md",
-    "fleeting/2407221733.md",
-    "fleeting/2407072346.md",
-    "fleeting/2407071505.md",
-    "fleeting/2407070014.md",
-    "fleeting/2407041731.md",
-    "fleeting/2407041717.md",
-    "fleeting/2407041411.md",
-    "fleeting/2407041308.md",
-    "fleeting/2407040425.md",
-    "fleeting/2407040243.md",
-    "fleeting/2407040230.md",
-    "fleeting/2407040222.md",
-    "fleeting/2407040147.md",
-    "fleeting/2407040129.md",
     "permanent",
     "fleeting",
     "2407250121.md~",
