@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "permanent/2408042136.md",
+                "file": "fleeting/2408121900.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "permanent/2408042136.md",
+                "file": "fleeting/2408121900.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "permanent/2408042136.md",
+                "file": "fleeting/2408121900.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,6 +149,8 @@
   },
   "active": "a3b52d25fa2566ce",
   "lastOpenFiles": [
+    "fleeting/2408121900.md~",
+    "permanent/2408042136.md",
     "permanent/2407251241.md~",
     "permanent/2402072003.md~",
     "permanent/2408042136.md~",
@@ -175,7 +177,6 @@
     "fleeting/2407040147.md",
     "fleeting/2407072346.md",
     "fleeting/2407251026.md",
-    "permanent/2408042136.md",
     "permanent/2407251241.md",
     "permanent/2402072003.md",
     "todo.md~",
@@ -183,8 +184,6 @@
     "2408042136.md",
     "permanent",
     "fleeting",
-    "2407250121.md~",
-    "2407251241.md~",
     "Pasted image 20231210212502.png",
     "Pasted image 20231210201525.png",
     "Pasted image 20231210201103.png",
