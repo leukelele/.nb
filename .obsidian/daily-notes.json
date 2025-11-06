@@ -1,6 +1,0 @@
-{
-  "template": "Templates/daily-tmpl",
-  "folder": "periodic/daily",
-  "autorun": false,
-  "format": "MM-DD-YY"
-}
